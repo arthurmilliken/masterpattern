@@ -1,0 +1,34 @@
+## [tohu va-bohu](/keys/ThHV.VBHV) - תהו ובהו
+See also [430](430).
+
+> without form and void. [Genesis 1:2](http://biblehub.com/genesis/1-2.htm). A description of earth, or "That which is below" in the Biblical creation allegory. The mental image suggested is that of a vast abyss of fluid darkness. see [390](390), [291](291).
+
+> The Surangama Sutra states: *"The intrinsic nature of space is the real earthessence."* The Lord of Logos is the formative power. [Isaiah 45:7](http://biblehub.com/genesis/1-2.htm). Applies particularly to [Eretz](/keys/ARTz). see [291](291), [271](271), [451](451).
+
+> Fabre D'Olivet comments:
+
+> > *"תהו ובהו, contingent-potentiality in-a-potentiality-of-being... If one examines the sense of the four original versions, a great difference is found between what they say and what I say. The Samaritan versions reads [word], distended to incomprehensibility and most rare. The Chaldaic targum says צדיק ורקניא, divided to annihilation and vain. The Hellenists translate [ἀόρατος καὶ ἀκατασκεύαστος], invisible and decomposed. Saint Jerome understands "inanis et vacua" unanimated and vague, or unformed and void.*
+
+> > *"The error into which all these translators have fallen depends here upon a prior one very slight in appearance, but whose consequences becoming more and more complicated pushes them into an abyss from which nothing can draw them. This first error depends upon the manner in which they have understood the first word of the Sepher, the famous בראשית.*
+
+> > *"This word, having impressed them neither in its figurative nor in its hieroglyphic sense, has involved all that follows, in the literal and material sense that they have given to it. I pray the reader to give strict attention to this, for upon this depends all the incoherences, all the absurdities with which Moses has been reproached. In fact, if the word בראשית signified simply, in the beginning, in the beginning of time, as it was said, why did not the heavens and the earth, created at that epoch, still exist at that time; why should they have rested an eternity in darkness; why should the light have been made after the heavens and before the sun; can one conceive the heavens without light, light without the sun, an earth invisible, inanimate, vain, formless, if it is material; etc., etc.*
+
+> > *"But what can remedy this? Absolutely nothing but an understanding of the tongue which is translated and seeing that בראשית means not only in the beginning, "in principio," but clearly in principle; that is to say, not yet in action but in power; as Saint Augustine interpreted it. This is the thought of Moses, profound thought which he expresses admirably by the words תהו ובהו, in which he depicts with master hand that state of a thing, not only in contingent power of being, but still contained in another power of being; in short, without form, in germ in a germ. It is the famous [Greek word] of the Greeks, that chaos which the vulgar have also gradually materialized and whose figurative and hieroglyphic signification I could very easily demonstrate were it necessary.*
+
+> > *"The Hebraic words תהו ובהו belong to those words which the sages create in learned tongues and which the vulgar do not comprehend. Let us now examine their figurative and hieroglyphic sense. We know that the sign Heh is that of life. We have seen that this sign being doubled, formed the essentially living root הה which, by the insertion of the luminous sign, became the verb הוה, to be-being. But let us imagine now that, wish to express, not an existence in action, but only in power, we restrict the verbal root in the sole sign of life and extinguish the luminous sign Vav to bring it back to the convertible Vav; we shall have only a compressed root where in the being will be latent and as it were, in germ. This root הו, composed of the sign of life, and of that which, as we know, is the link between nothingness and being, expresses marvelously will that incomprehensible state of a thing when it exists no more, and when it is, nevertheless, in power of existing. It is found in the Arabic [word] in which it depicts a desire, a tendency, a vague, indeterminate existence. It is sometimes an unfathomable depth, sometimes a sort of physical death [Arabic word]; sometimes an ethereal space [Arabic word], etc.*
+
+> > *"Moses, after the example of the Egyptian priest, taking this root and making it rule by the sign of mutual reciprocity Tav, formed the word תהו by means of which he expressed a contingent and potential existence contained in another potential existence, בהו; for here he inflects the same root by the mediative article Beth.*
+
+> > *"Thus there is no need of conceiving the earth invisible, decomposed, vague, void, formless, which is absurd or contradictory; but only as existing still in power, in another seed-producing power, which must be developed in order that it may be developed."*
+
+> > [The Hebrew Tongue Restored, p.29-31]
+
+> The Zohar [I:16A, 30A-B] comments:
+
+> > *"the earth had been previously. There was snow in the midst of water, from the action of which was produced a slime, then a mighty fire beat upon it and produced in it a refuse. So it was transformed and became [tohu](/keys/ThHV) (chaos), the abode of slime, the nest of refuse and also [bohu](/keys/BHV) (formlessness), the finer part which was sifted from the tohu and rested on it.*
+
+> > *"The word 'darkness' in the text alludes to the mighty fire, this darkness covered the tohu namely the refuse, and was buoyed up by it. The 'spirit of God' is a holy spirit that proceeded from אלהים חים ([Living God](/keys/ALHIM.ChIM)) and this 'was moving over the face of the waters'. When the wind blew, a certain film detached itself from the refuse, like the film which remains on the top of boiling broth, when the froth has been skimmed off two or three times. When tohu has thus been sifted and purified, there issued from it 'a great and strong wind rending the mountains and breaking in pieces the rocks,' like that which Elijah saw. [1 Kings 19:11-12](http://biblehub.com/1_kings/19-11.htm).*
+
+> > *"Similarly bohu was sifted, and there was contained in it fire... when what we call 'spirit' was sifted, there was contained in it a still small voice. [Tohu](/keys/ThHV) is a place which has no color and no form, and the esoteric principle of 'form' does not apply to it. It seems for a moment to have a form, but when looked at again it has no form. Everything has a 'vestment' except this. [Bohu](/keys/BHV), on the other hand, has shape and form, namely, stones immersed in the chasm to tohu, but sometimes emerging from the chasm in which they are sunk, and drawing therefrom sustenance for the world."* (pp.66-67).
+
+### See also [430](430)

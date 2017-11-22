@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<% if (errors.length > 0) { %>
+	<ul class='error'>
+	<% errors.forEach(item => { %>
+		<li><%= item %></li>
+	<% }); %>
+	</ul>
+<% } %>
+
+	<form method="post" action="/login">
+	<input name="redirect" type="hidden" value="<%= redirect %>"/>
+	<table>
+		<tr><th>password: </th><td><input name='password' type="password" /></td></tr>
+		<tr><th>&nbsp;</th><td><input type="submit" /></td></tr>
+	</table>
+	</form>
+</body>
+</html>

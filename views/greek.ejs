@@ -1,0 +1,26 @@
+<%- include('header') %>
+
+<h2><%= title %></h2>
+
+<p><a href="/content/<%= gematria %>"><%= gematria %></a> | <%= result %></p>
+<p><a href="/content/<%= gematria %>"><%= gematria %></a> | <%= upper %></p>
+<p><a href="/content/<%= gematria %>"><%= gematria %></a> | <%= capitalized %></p>
+
+<form id="form-greek" name="form-greek" action="/greek" method="get"></form>
+<form id="form-latin" name="form-latin" action="/latin" method="get"></form>
+<div>
+	<table>
+	<tbody>
+		<tr>
+			<td><input form="form-greek" type="text" name="word" size="50"></td>
+			<td><input form="form-greek" type="submit" value="greek"></td>
+		</tr>
+		<tr>
+			<td><input form="form-latin" type="text" name="word" size="50"></td>
+			<td><input form="form-latin" type="submit" value="latin"></td>
+		</tr>
+	</tbody>
+	</table>
+</div>
+
+<%- include('footer') %>

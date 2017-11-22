@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=David+Libre:400,500&subset=hebrew,latin-ext');
+body {
+	font-family: 'David Libre', serif;
+	background-color: #faf0e6;
+	line-height: 1.33em;
+	font-size: 125%;
+}
+hr {
+	margin: 2em 0;
+}
+blockquote {
+	padding: 0 1em;
+	color: #777777;
+	border-left: 0.25em solid #dddddd;
+}
+div.word, .key {
+	height: 200px;
+}
+.key {
+	width: 124px;
+}
+.space {
+	width: 93px;
+}
+.indent-key-3 {
+	margin-left: 384px;
+}
+.center {
+	text-align: center;
+}
+.larger {
+	font-size: larger;
+}
+div.word span.bw {
+	position: absolute;
+	z-index: 0;
+}
+div.word span.color {
+	position: absolute;
+	z-index: 1;
+	display: none;
+}
+.trestleboard li {
+	font-weight: bold;
+	font-style: italic;
+	margin: .5em;
+	padding-left: 1em;
+}
+.hidden {
+	display: none;
+}
+.visible {
+	display: block;
+}
+p.notes {
+	margin: .5em;
+}
+#tarot-keys, .tarot-keys {
+	direction: rtl;
+	text-align: center;
+	margin-bottom: 2em;
+}
+#tarot-keys img {
+	height: 323px;
+	width: 200px;
+}
+#result {
+	font-size: larger;
+}
+.hebrew {
+	font-size: larger;
+	font-weight: bolder;
+}
+
