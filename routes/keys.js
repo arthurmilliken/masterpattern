@@ -54,11 +54,11 @@ module.exports = function (router) {
 
     let letterWidth = 200;
     let letterHeight = 323;
-    if (letters.length > 11) {
+    if (letters.length > 22) {
       letterWidth = 48;
       letterHeight = 77;
     }
-    else if (letters.length > 7) {
+    else if (letters.length > 11) {
       letterWidth = 77;
       letterHeight = 124;
     }
