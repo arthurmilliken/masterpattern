@@ -1,4 +1,14 @@
 const tarot = module.exports = {
+
+  '-': {
+    'key': -2,
+    'hebrew': '־',
+    'name': 'hyphen',
+    'bw': '/img/1x1.png',
+    'color': '/img/1x1.png',
+    'class': 'spacer',
+    'letter-value': 0,
+  },
   '_': {
     'key': -1,
     'hebrew': ' ',
@@ -304,4 +314,4 @@ tarot['Sh'] = tarot.shin;
 tarot['Th'] = tarot.tav;
 
 tarot[' '] = tarot._;
-tarot['-'] = tarot._;
+// tarot['-'] = tarot['־'];

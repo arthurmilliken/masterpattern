@@ -7,7 +7,7 @@ module.exports = function (router) {
 
   router.get('/keys/:word', (req, res) => {
     let word = req.params.word.trim();
-    word = word.replace(/[ -\.]/g, '_');
+    word = word.replace(/[ \.]/g, '_');
 
     let letters = [];
     let hebrew = '';
