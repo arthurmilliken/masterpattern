@@ -15,14 +15,14 @@ module.exports = function () {
     if (req.body.password !== process.env.PASSWORD) {
       res.locals.errors = ['incorrect password.'];
       res.locals.redirect = req.body.redirect;
-      res.render('login');   
+      res.render('login');
     }
     else {
       req.session.user = 'admin';
       res.redirect(req.body.redirect || '/');
     }
   });
-  
+
   router.get('/logout', (req, res) => {
     req.session = null;
     res.redirect('/login');
