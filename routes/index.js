@@ -6,6 +6,7 @@ module.exports = function (options) {
   require('./greek')(router, options);
   require('./keys')(router, options);
   require('./latin')(router, options);
+  require('./english')(router, options);
 
   const simpleView = (view, title) => {
     router.get(`/${view}`, (req, res) => {
