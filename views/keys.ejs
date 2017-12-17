@@ -13,12 +13,19 @@
 <h2><%= title %></h2>
 
 <div class="tarot-keys">
-<% letters.forEach(letter => { %>
+<%
+	letters.forEach(letter => {
+		if (letter.name === 'space') { %>
+</div>
+<div class="tarot-keys"> <%
+		} else { %>
 	<img src="<%= letter.color %>"
 		 class="<%= letter.class || '' %>"
 		 title="<%= letter['letter-name'] %>"
-		 alt="<%= letter['letter-name'] %>">
-<% }); %>
+		 alt="<%= letter['letter-name'] %>"> <%
+		}
+	});
+%>
 </div>
 
 <div class="center">
