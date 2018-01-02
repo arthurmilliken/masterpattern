@@ -39,7 +39,7 @@
 
 ### ADDITIONAL ENGLISH GEMATRIA:
 
-- [67](67): [Francis](/english?word=)
+- [67](67): [Francis](/english?word=francis)
 - [33](33): [Bacon](/english?word=bacon)
 - [100](100): [Francis Bacon](/english?word=Francis+Bacon)
 - [157](157): [Fra. Rosi. Crosse.](/english?word=Fra.Rosi.Crosse.)
