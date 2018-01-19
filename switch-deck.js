@@ -16,7 +16,7 @@ switch (deck) {
     path_from += '_orig';
     break;
   default:
-    console.log(`usage: node ${process.argv[1]} [bw | new | orig]`);
+    console.log(`usage: node ${process.argv[1]} [bw | new | orig]\n`);
     process.exit(1);
     break;
 }
