@@ -46,6 +46,12 @@ module.exports = function (router) {
     .replace(/פ־/g, 'ף־')
     .replace(/צ־/g, 'ץ־')
 
+    .replace(/כ׀/g, 'ך׀')
+    .replace(/מ׀/g, 'ם׀')
+    .replace(/נ׀/g, 'ן׀')
+    .replace(/פ׀/g, 'ף׀')
+    .replace(/צ׀/g, 'ץ׀')
+
     .replace(/^ך/, 'כ')
     .replace(/^ם/, 'מ')
     .replace(/^ן/, 'נ')

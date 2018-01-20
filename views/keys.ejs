@@ -15,7 +15,7 @@
 <div class="tarot-keys">
 <%
 	letters.forEach(letter => {
-		if (letter.name === 'space') { %>
+		if (letter.name === 'space' || letter.name === 'pipe') { %>
 </div>
 <div class="tarot-keys"> <%
 		} else { %>
@@ -29,8 +29,7 @@
 </div>
 
 <div class="center">
-	<%= word %> | 
-	<span class="hebrew"><%= hebrew %></span> | 
+	<span class="hebrew"><%= hebrew %></span> |
 	<a href="/content/<%= gematria %>"><%= gematria %></a>
 </div>
 

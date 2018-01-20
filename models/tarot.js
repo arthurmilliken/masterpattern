@@ -9,6 +9,15 @@ const tarot = module.exports = {
     'class': 'spacer',
     'letter-value': 0,
   },
+  '|': {
+    'key': -2,
+    'hebrew': '׀',
+    'name': 'pipe',
+    'bw': '/img/1x1.png',
+    'color': '/img/1x1.png',
+    'class': 'spacer',
+    'letter-value': 0,
+  },
   '_': {
     'key': -1,
     'hebrew': ' ',
