@@ -21,7 +21,7 @@ See also [430](430).
 
 > > *"Thus there is no need of conceiving the earth invisible, decomposed, vague, void, formless, which is absurd or contradictory; but only as existing still in power, in another seed-producing power, which must be developed in order that it may be developed."*
 
-> > [The Hebrew Tongue Restored, p.29-31]
+> > {[The Hebrew Tongue Restored, p.29-31](https://archive.org/stream/hebraictongueres00fabriala#page/29/mode/2up)}
 
 > The Zohar [I:16A, 30A-B] comments:
 
