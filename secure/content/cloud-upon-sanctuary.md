@@ -2,6 +2,8 @@
 
 by Karl von Eckartshausen
 
+---
+
 ### Letter VI
 
 > *...The simplicity of our souls is as the shepherds who brought their first offerings, until at last the three principal powers of our royal dignity, our reason, our will, and our activity [The Three Magi] prostrate themselves before Him and offer Him the gifts of truth, wisdom and love.*
@@ -30,7 +32,7 @@ by Karl von Eckartshausen
 > - *The fourth is that of receiving inclinations, without deciding upon acting upon any, as in the condition of passion--[passio](71).*
 > - *The fifth is the capacity for deciding for or against a thing, liberty--[libertas](78).*
 > - *The sixth is that of choice or resolution actually taken--[electio](63).*
-> - *The seventh is the power of givin the object chosen an existence--[voluntas](109). This seventh power also contains all the others in one figure.*
+> - *The seventh is the power of giving the object chosen an existence--[voluntas](109). This seventh power also contains all the others in one figure.*
 
 > *Now the seven powers of the understanding, like the seven powers of our heart and will, can be ennobled and exalted in a very special manner, when we embrace Jesus Christ, as being the wisdom of God, for the principle of our reason, and His whole life, which was all love, for motive power fo our will.*
 
@@ -56,3 +58,7 @@ by Karl von Eckartshausen
 
 > *This actual possession of God or Jesus Christ in us is the term towards which all the mysteries converge, like radii to the center of a circle; the highest of religious mysteries is in this consummation....*
 
+---
+
+### Note:
+The "Cloud Upon the Sanctuary" refers to the cloud ([aanan](/keys/ONN)) which rested upon the sanctuary ([miqdash](/keys/MQDSh)) in the book of [Exodus](http://biblehub.com/exodus/40-38.htm): *"For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."* See [170](170), [196](196), [444](444).
