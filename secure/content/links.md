@@ -15,3 +15,4 @@
 - [Sepher Yetzirah](http://www.sacred-texts.com/jud/yetzirah.htm) - (tr. Westcott)
 - [Kabbalah Unveiled (Kabbala Denudata)](http://www.sacred-texts.com/jud/tku/index.htm) - (tr. Mathers)
 - [Zohar: Bereshith to Lekh Lekha](http://www.sacred-texts.com/jud/zdm/index.htm) - tr. Nurho de Manhar
+- [The True and Invisible Rosicrucian Order](https://archive.org/details/PaulFosterCase-TheTrueAndInvisibleRosicrucianOrder4thEd-1985) - Paul Foster Case
