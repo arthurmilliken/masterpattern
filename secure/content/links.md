@@ -10,7 +10,7 @@
 - [The Hebrew Tongue Restored](https://archive.org/stream/hebraictongueres00fabriala) - Fabre d'Olivet
 - [The True and Invisible Rosicrucian Order](https://archive.org/details/PaulFosterCase-TheTrueAndInvisibleRosicrucianOrder4thEd-1985) - Paul Foster Case
 - [The Aesch Metzareph](http://www.levity.com/alchemy/aesch.html) - (tr. Rosenroth, Westcott)
-- [Ain Soph: The Unknown God](http://www.organelle.org/as/ascontents.htm) - Carlos Suarez
+- [Ain Soph: The Unknown God](http://www.organelle.org/as/ascontents.htm) - F.J. Mayers
 - [The Kybalion](https://aoda.org/pdf/Kybalion.pdf) - Three Initiates (Case, Whitty, Atkinson)
 - [The Apostolic Gnosis](https://archive.org/details/materialsforstud01leatiala) - Bond, Lea
 - [Sepher Yetzirah](http://www.sacred-texts.com/jud/yetzirah.htm) - (tr. Westcott)
