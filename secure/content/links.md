@@ -8,6 +8,7 @@
 ### Books:
 
 - [The Hebrew Tongue Restored](https://archive.org/stream/hebraictongueres00fabriala) - Fabre d'Olivet
+- [The True and Invisible Rosicrucian Order](https://archive.org/details/PaulFosterCase-TheTrueAndInvisibleRosicrucianOrder4thEd-1985) - Paul Foster Case
 - [The Aesch Metzareph](http://www.levity.com/alchemy/aesch.html) - (tr. Rosenroth, Westcott)
 - [Ain Soph: The Unknown God](http://www.organelle.org/as/ascontents.htm) - Carlos Suarez
 - [The Kybalion](https://aoda.org/pdf/Kybalion.pdf) - Three Initiates (Case, Whitty, Atkinson)
@@ -15,4 +16,3 @@
 - [Sepher Yetzirah](http://www.sacred-texts.com/jud/yetzirah.htm) - (tr. Westcott)
 - [Kabbalah Unveiled (Kabbala Denudata)](http://www.sacred-texts.com/jud/tku/index.htm) - (tr. Mathers)
 - [Zohar: Bereshith to Lekh Lekha](http://www.sacred-texts.com/jud/zdm/index.htm) - tr. Nurho de Manhar
-- [The True and Invisible Rosicrucian Order](https://archive.org/details/PaulFosterCase-TheTrueAndInvisibleRosicrucianOrder4thEd-1985) - Paul Foster Case
