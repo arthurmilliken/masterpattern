@@ -16,3 +16,5 @@
 - [Sepher Yetzirah](http://www.sacred-texts.com/jud/yetzirah.htm) - (tr. Westcott)
 - [Kabbalah Unveiled (Kabbala Denudata)](http://www.sacred-texts.com/jud/tku/index.htm) - (tr. Mathers)
 - [Zohar: Bereshith to Lekh Lekha](http://www.sacred-texts.com/jud/zdm/index.htm) - tr. Nurho de Manhar
+- [The Magic and Science of Jewels and Stones](https://archive.org/stream/TheMagicAndScienceOfJewelsAndStones/kozminsky-i-magic-1922-RTL014043-LowRes) - Isidore Kozminsky
+- [Fame and Confession of the Fraternity](https://archive.org/details/fameconfessionof00vaug) - Thomas Vaughan
