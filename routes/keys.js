@@ -34,37 +34,35 @@ module.exports = function (router) {
 
     // Substitute final letters where needed.
     hebrew = hebrew
-    .replace(/כ /g, 'ך ')
-    .replace(/מ /g, 'ם ')
-    .replace(/נ /g, 'ן ')
-    .replace(/פ /g, 'ף ')
-    .replace(/צ /g, 'ץ ')
+    .replace(/([א-ת])כ /g, '$1ך ')
+    .replace(/([א-ת])מ /g, '$1ם ')
+    .replace(/([א-ת])נ /g, '$1ן ')
+    .replace(/([א-ת])פ /g, '$1ף ')
+    .replace(/([א-ת])צ /g, '$1ץ ')
 
-    .replace(/כ־/g, 'ך־')
-    .replace(/מ־/g, 'ם־')
-    .replace(/נ־/g, 'ן־')
-    .replace(/פ־/g, 'ף־')
-    .replace(/צ־/g, 'ץ־')
+    .replace(/([א-ת])כ־/g, '$1ך־')
+    .replace(/([א-ת])מ־/g, '$1ם־')
+    .replace(/([א-ת])נ־/g, '$1ן־')
+    .replace(/([א-ת])פ־/g, '$1ף־')
+    .replace(/([א-ת])צ־/g, '$1ץ־')
 
-    .replace(/כ׀/g, 'ך׀')
-    .replace(/מ׀/g, 'ם׀')
-    .replace(/נ׀/g, 'ן׀')
-    .replace(/פ׀/g, 'ף׀')
-    .replace(/צ׀/g, 'ץ׀')
+    .replace(/([א-ת])כ׀/g, '$1ך׀')
+    .replace(/([א-ת])מ׀/g, '$1ם׀')
+    .replace(/([א-ת])נ׀/g, '$1ן׀')
+    .replace(/([א-ת])פ׀/g, '$1ף׀')
+    .replace(/([א-ת])צ׀/g, '$1ץ׀')
 
     .replace(/^ך/, 'כ')
     .replace(/^ם/, 'מ')
     .replace(/^ן/, 'נ')
     .replace(/^ף/, 'פ')
     .replace(/^ץ/, 'צ')
-    .trim()
-    ;
+    .trim();
 
     word = word
     .replace(/Tf/g, 'Tz')
     .replace(/f/g, '')
-    .replace(/_/g, ' ')
-    ;
+    .replace(/_/g, ' ');
 
     let longest = _.reduce(hebrew.split(' '), (sum, word) => {
       return Math.max(word.length, sum);
