@@ -1,7 +1,7 @@
 ## Useful Links:
 
 - [Bible Hub - Genesis 1:2](http://biblehub.com/genesis/1-2.htm)
-- [Bible Gateway - Genesis 1:1-5 (KJV/OJB)](https://www.biblegateway.com/passage/?search=genesis%201%3A1-5&version=KJV;OJB)
+- [Bible Gateway - Genesis 1:1-5 (WEB/OJB)](https://www.biblegateway.com/passage/?search=genesis%201%3A1-5&version=WEB;OJB)
 - [Bible Wheel Gematria Database](https://www.biblewheel.com//GR/GR_Database.php)
 - [Blue Letter Bible](https://www.blueletterbible.org/) - Useful for Septuagint
 - [Bible Study Tools](https://www.biblestudytools.com) - Useful for Vulgate
