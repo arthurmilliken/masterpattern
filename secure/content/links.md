@@ -19,3 +19,4 @@
 - [Zohar: Bereshith to Lekh Lekha](http://www.sacred-texts.com/jud/zdm/index.htm) - tr. Nurho de Manhar
 - [The Magic and Science of Jewels and Stones](https://archive.org/stream/TheMagicAndScienceOfJewelsAndStones/kozminsky-i-magic-1922-RTL014043-LowRes) - Isidore Kozminsky
 - [Fame and Confession of the Fraternity](https://archive.org/details/fameconfessionof00vaug) - Thomas Vaughan
+- [Fama Fraternitatis (Hermetic.com)](https://hermetic.com/rosicrucianism/fama-fraternitatis) - Transcription of Vaughan's edition (without Waite's errors).
