@@ -1,0 +1,20 @@
+"A Parchment Called T" (Targum)
+ThRGVM (258)
+
+Parchment:
+Gevil (GVVIL) (full, un-split hide) (55)
+Qlaf, qelef (QLP) (210)
+Duchsustus (DVKSVSTVS)
+
+
+QLP.Th
+QLP.ThRGVM
+
+GVVIL.Th
+GVVIL.ThRGVM
+
+shem ShM (340) - Noun
+phahal POL (180) - Verb
+millah - MLH (75) - Relation
+aoth - AVTh (407) - Sign
+
