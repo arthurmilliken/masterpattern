@@ -20,3 +20,5 @@
 - [The Magic and Science of Jewels and Stones](https://archive.org/stream/TheMagicAndScienceOfJewelsAndStones/kozminsky-i-magic-1922-RTL014043-LowRes) - Isidore Kozminsky
 - [Fame and Confession of the Fraternity](https://archive.org/details/fameconfessionof00vaug) - Thomas Vaughan
 - [Fama Fraternitatis (Hermetic.com)](https://hermetic.com/rosicrucianism/fama-fraternitatis) - Transcription of Vaughan's edition (without Waite's errors).
+- [Fama Fraternitatis (Original German)](https://archive.org/stream/famafraternitati00andr#page/n0/mode/2up). Full Title: *"Fama fraternitatis, oder, Entdeckung der Brüderschafft des löblichen Ordens dess Rosen Creutzes : beneben der Confession, oder, Bekantnus derselben Fraternitet, an alle Gelehrte und Häupter in Europa geschrieben : auch etlichen Responsionen von Haselmeyern und anderen gelehrten Leuten auff die Famam gestellet"*
+ by Andreä, Johann Valentin
