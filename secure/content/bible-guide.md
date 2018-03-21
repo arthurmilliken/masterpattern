@@ -1,0 +1,74 @@
+## Bible Guide
+My guide to the Bible:
+
+- Introduction
+	- The Ten Commandments([Exodus 20](https://www.biblegateway.com/passage/?search=Exodus+20&version=ESV))
+	- The Greatest Commandment ([Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=ESV)).
+	- The Sermon on the Mount ([Matthew 5-7](https://www.biblegateway.com/passage/?search=matthew+5-7&version=ESV)).
+- The Writings of Luke
+	- The Gospel of Luke
+	- The Acts of the Apostles
+- The Books of Moses
+	- Genesis
+	- Exodus
+	- Leviticus
+	- Numbers
+	- Deuteronomy
+	- Job
+- The Gospel of Mark
+- Birth of Israel
+	- Joshua
+	- Judges
+	- Ruth
+	- Samuel I/II
+	- Psalms
+- Prophets of Israel
+	- Kings I
+	- Proverbs
+	- Kings II
+	- Isaiah
+	- Jeremiah
+	- Ezekiel
+	- The Twelve Minor Prophets
+- The Gospel of Matthew
+- The Five Scrolls
+	- Song of Songs
+	- Ruth
+	- Lamentations
+	- Ecclesiastes
+	- Esther
+- The Epistles of Paul
+	- Romans
+	- Corinthians I/II
+	- Galatians
+	- Philippians
+	- Colossians
+	- Thessalonians I/II
+	- Timothy I/II
+	- Titus
+	- Philemon
+	- Hebrews
+- Other Epistles
+	- Peter I/II
+	- James
+	- Jude
+- The Restoration
+	- Daniel
+	- Ezra
+	- Nehemiah
+	- Chronicles I/II
+- The Writings of John
+	- The Gospel of John
+	- John I/II/III
+	- Revelation
+- The Catholic Apocrypha
+	- The Wisdom of Solomon
+	- Tobit
+	- Judith
+	- Sirach
+	- Baruch
+	- Maccabees I/II
+- Other Apocrypha
+	- Jubilees
+	- Jasher
+	- Enoch
