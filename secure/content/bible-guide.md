@@ -30,12 +30,13 @@ My guide to the Bible:
 	- Jeremiah
 	- Ezekiel
 	- The Twelve Minor Prophets
+	- Daniel
 - The Gospel of Matthew
 - The Five Scrolls
-	- Song of Songs
 	- Ruth
-	- Lamentations
+	- Song of Songs
 	- Ecclesiastes
+	- Lamentations
 	- Esther
 - The Epistles of Paul
 	- Romans
@@ -53,10 +54,9 @@ My guide to the Bible:
 	- James
 	- Jude
 - The Restoration
-	- Daniel
+	- Chronicles I/II
 	- Ezra
 	- Nehemiah
-	- Chronicles I/II
 - The Writings of John
 	- The Gospel of John
 	- John I/II/III
