@@ -1,172 +1,172 @@
 const greek = module.exports = {
-  '_': {
-    'name': 'space',
-    'greek': ' ',
-    'capital': ' ',
-    'value': 0,
+  _: {
+    name: 'space',
+    greek: ' ',
+    capital: ' ',
+    value: 0,
   },
-  'a': {
-    'name': 'alpha',
-    'greek': 'α',
-    'capital': 'Α',
-    'value': 1,
+  a: {
+    name: 'alpha',
+    greek: 'α',
+    capital: 'Α',
+    value: 1,
   },
-  'b': {
-    'name': 'beta',
-    'greek': 'β',
-    'capital': 'Β',
-    'value': 2,
+  b: {
+    name: 'beta',
+    greek: 'β',
+    capital: 'Β',
+    value: 2,
   },
-  'g': {
-    'name': 'gamma',
-    'greek': 'γ',
-    'capital': 'Γ',
-    'value': 3,
+  g: {
+    name: 'gamma',
+    greek: 'γ',
+    capital: 'Γ',
+    value: 3,
   },
-  'd': {
-    'name': 'delta',
-    'greek': 'δ',
-    'capital': 'Δ',
-    'value': 4,
+  d: {
+    name: 'delta',
+    greek: 'δ',
+    capital: 'Δ',
+    value: 4,
   },
-  'e': {
-    'name': 'epsilon',
-    'greek': 'ε',
-    'capital': 'Ε',
-    'value': 5,
+  e: {
+    name: 'epsilon',
+    greek: 'ε',
+    capital: 'Ε',
+    value: 5,
   },
-  'z': {
-    'name': 'zeta',
-    'greek': 'ζ',
-    'capital': 'Ζ',
-    'value': 7,
+  z: {
+    name: 'zeta',
+    greek: 'ζ',
+    capital: 'Ζ',
+    value: 7,
   },
-  'h': {
-    'name': 'eta',
-    'greek': 'η',
-    'capital': 'Η',
-    'value': 8,
+  h: {
+    name: 'eta',
+    greek: 'η',
+    capital: 'Η',
+    value: 8,
   },
-  'th': {
-    'name': 'theta',
-    'greek': 'θ',
-    'capital': 'Θ',
-    'value': 9,
+  th: {
+    name: 'theta',
+    greek: 'θ',
+    capital: 'Θ',
+    value: 9,
   },
-  'i': {
-    'name': 'iota',
-    'greek': 'ι',
-    'capital': 'Ι',
-    'value': 10,
+  i: {
+    name: 'iota',
+    greek: 'ι',
+    capital: 'Ι',
+    value: 10,
   },
-  'k': {
-    'name': 'kappa',
-    'greek': 'κ',
-    'capital': 'Κ',
-    'value': 20,
+  k: {
+    name: 'kappa',
+    greek: 'κ',
+    capital: 'Κ',
+    value: 20,
   },
-  'l': {
-    'name': 'lambda',
-    'greek': 'λ',
-    'capital': 'Λ',
-    'value': 30,
+  l: {
+    name: 'lambda',
+    greek: 'λ',
+    capital: 'Λ',
+    value: 30,
   },
-  'm': {
-    'name': 'mu',
-    'greek': 'μ',
-    'capital': 'Μ',
-    'value': 40,
+  m: {
+    name: 'mu',
+    greek: 'μ',
+    capital: 'Μ',
+    value: 40,
   },
-  'n': {
-    'name': 'nu',
-    'greek': 'ν',
-    'capital': 'Ν',
-    'value': 50,
+  n: {
+    name: 'nu',
+    greek: 'ν',
+    capital: 'Ν',
+    value: 50,
   },
-  'x': {
-    'name': 'xi',
-    'greek': 'ξ',
-    'capital': 'Ξ',
-    'value': 60,
+  x: {
+    name: 'xi',
+    greek: 'ξ',
+    capital: 'Ξ',
+    value: 60,
   },
-  'o': {
-    'name': 'omicron',
-    'greek': 'ο',
-    'capital': 'Ο',
-    'value': 70,
+  o: {
+    name: 'omicron',
+    greek: 'ο',
+    capital: 'Ο',
+    value: 70,
   },
-  'p': {
-    'name': 'pi',
-    'greek': 'π',
-    'capital': 'Π',
-    'value': 80,
+  p: {
+    name: 'pi',
+    greek: 'π',
+    capital: 'Π',
+    value: 80,
   },
-  'P': {
-    'name': 'pi',
-    'greek': 'π',
-    'capital': 'Π',
-    'value': 80,
+  P: {
+    name: 'pi',
+    greek: 'π',
+    capital: 'Π',
+    value: 80,
   },
-  'r': {
-    'name': 'rho',
-    'greek': 'ρ',
-    'capital': 'Ρ',
-    'value': 100,
+  r: {
+    name: 'rho',
+    greek: 'ρ',
+    capital: 'Ρ',
+    value: 100,
   },
-  's': {
-    'name': 'sigma',
-    'greek': 'σ',
-    'capital': 'Σ',
-    'value': 200,
+  s: {
+    name: 'sigma',
+    greek: 'σ',
+    capital: 'Σ',
+    value: 200,
   },
-  'sf': {
-    'name': 'sigma-final',
-    'greek': 'ς',
-    'capital': 'Σ',
-    'value': 200,
+  sf: {
+    name: 'sigma-final',
+    greek: 'ς',
+    capital: 'Σ',
+    value: 200,
   },
-  't': {
-    'name': 'tau',
-    'greek': 'τ',
-    'capital': 'Τ',
-    'value': 300,
+  t: {
+    name: 'tau',
+    greek: 'τ',
+    capital: 'Τ',
+    value: 300,
   },
-  'T': {
-    'name': 'tau',
-    'greek': 'τ',
-    'capital': 'Τ',
-    'value': 300,
+  T: {
+    name: 'tau',
+    greek: 'τ',
+    capital: 'Τ',
+    value: 300,
   },
-  'u': {
-    'name': 'upsilon',
-    'greek': 'υ',
-    'capital': 'Υ',
-    'value': 400,
+  u: {
+    name: 'upsilon',
+    greek: 'υ',
+    capital: 'Υ',
+    value: 400,
   },
-  'ph': {
-    'name': 'phi',
-    'greek': 'φ',
-    'capital': 'Φ',
-    'value': 500,
+  ph: {
+    name: 'phi',
+    greek: 'φ',
+    capital: 'Φ',
+    value: 500,
   },
-  'ch': {
-    'name': 'chi',
-    'greek': 'χ',
-    'capital': 'Χ',
-    'value': 600,
+  ch: {
+    name: 'chi',
+    greek: 'χ',
+    capital: 'Χ',
+    value: 600,
   },
-  'ps': {
-    'name': 'psi',
-    'greek': 'ψ',
-    'capital': 'Ψ',
-    'value': 700,
+  ps: {
+    name: 'psi',
+    greek: 'ψ',
+    capital: 'Ψ',
+    value: 700,
   },
-  'O': {
-    'name': 'omega',
-    'greek': 'ω',
-    'capital': 'Ω',
-    'value': 800,
+  O: {
+    name: 'omega',
+    greek: 'ω',
+    capital: 'Ω',
+    value: 800,
   },
 };
-greek['ks'] = greek['x'];
+greek.ks = greek.x;
 

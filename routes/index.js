@@ -1,12 +1,21 @@
-module.exports = function (options) {
-  const router = require('express').Router();
+const express = require('express');
 
-  require('./color')(router, options);
-  require('./content')(router, options);
-  require('./greek')(router, options);
-  require('./keys')(router, options);
-  require('./latin')(router, options);
-  require('./english')(router, options);
+const color = require('./color');
+const content = require('./content');
+const greek = require('./greek');
+const keys = require('./keys');
+const latin = require('./latin');
+const english = require('./english');
+
+module.exports = function (options) {
+  const router = express.Router();
+
+  color(router, options);
+  content(router, options);
+  greek(router, options);
+  keys(router, options);
+  latin(router, options);
+  english(router, options);
 
   const simpleView = (view, title) => {
     router.get(`/${view}`, (req, res) => {

@@ -1,19 +1,19 @@
 const rimraf = require('rimraf');
 const ncp = require('ncp');
 
-let deck = process.argv[2];
-let path = `${__dirname}/secure/img/323x522`;
-let path_from = path;
+const deck = process.argv[2];
+const path = `${__dirname}/secure/img/323x522`;
+let pathFrom = path;
 
 switch (deck) {
   case 'bw':
-    path_from += '_bw';
+    pathFrom += '_bw';
     break;
   case 'new':
-    path_from += '_new';
+    pathFrom += '_new';
     break;
   case 'orig':
-    path_from += '_orig';
+    pathFrom += '_orig';
     break;
   default:
     console.log(`usage: node ${process.argv[1]} [bw | new | orig]\n`);
@@ -23,9 +23,9 @@ switch (deck) {
 
 rimraf(path, (err) => {
   if (err) return console.error(err);
-  ncp(path_from, path, (err) => {
-    if (err) return console.error(err);
-    console.log(`copied ${path_from} to ${path}.`);
-  })
+  ncp(pathFrom, path, (err2) => {
+    if (err2) return console.error(err2);
+    console.log(`copied ${pathFrom} to ${path}.`);
+  });
 });
 

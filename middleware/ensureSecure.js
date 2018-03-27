@@ -1,8 +1,8 @@
-module.exports = function (app) {
+module.exports = function () {
   return (req, res, next) => {
     if (req.secure) return next();
     else if (req.url.startsWith('/.well-known')) return next();
-    let url = 'https://' + req.hostname + req.url;
+    const url = 'https://' + req.hostname + req.url;
     res.redirect(url);
   };
 };

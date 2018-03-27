@@ -1,0 +1,42 @@
+{
+  "extends": "airbnb-base",
+  "plugins": [
+    "import",
+    "mocha"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "chai": true,
+    "proxyquire": true
+  },
+  "rules": {
+    "max-len": [1, 100, 2],
+    "prefer-promise-reject-errors": 0,
+    "mocha/no-mocha-arrows": "error",
+    "no-console": 0,
+    "no-multi-assign": 0,
+    "semi": 1,
+    "comma-dangle": ["error", {
+      "arrays": "always-multiline",
+      "objects": "always-multiline",
+      "imports": "always-multiline",
+      "exports": "always-multiline",
+      "functions": "never"
+    }],
+
+    "__comment__1": "The following rules were added to 'grandfather in' existing code.",
+    "__comment__2": "Please remove these as time permits.",
+
+    "consistent-return": 0,
+    "func-names": 0,
+    "function-paren-newline": ["error", "consistent"],
+    "mocha/no-exclusive-tests": "warn",
+    "no-param-reassign": 0,
+    "no-plusplus": 0,
+    "prefer-arrow-callback": 0,
+    "prefer-destructuring": 0,
+    "prefer-template": 0
+  }
+}

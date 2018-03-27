@@ -1,3 +1,4 @@
+/* eslint-disable */
 var keys = {
 	'_': {
 		'key': null,
@@ -348,7 +349,7 @@ $(function () {
 			}
 		});
 		$('#tarot-keys').html(html);
-		$('#text-title').html(result + ' - ' + gematria);		
+		$('#text-title').html(result + ' - ' + gematria);
 		setImgSize($('#img-size').val());
 	});
 
@@ -479,10 +480,11 @@ $(function () {
 				break;
 			default:
 				alert('unknown img-size: ' + value);
-		}		
+		}
 	}
 
 	$('#img-size').on('change', function () {
 		setImgSize(this.value);
 	});
 });
+/* eslint-enable */

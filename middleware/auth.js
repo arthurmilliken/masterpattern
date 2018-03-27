@@ -1,13 +1,12 @@
-const
-  urlencode = require('urlencode')
-;
+const express = require('express');
+const urlencode = require('urlencode');
 
 module.exports = function () {
-  const router = require('express').Router();
+  const router = express.Router();
 
   router.get('/login', (req, res) => {
     res.locals.errors = [];
-    res.locals.redirect = req.query['redirect'] || '/';
+    res.locals.redirect = req.query.redirect || '/';
     res.render('login');
   });
 
@@ -16,8 +15,7 @@ module.exports = function () {
       res.locals.errors = ['incorrect password.'];
       res.locals.redirect = req.body.redirect;
       res.render('login');
-    }
-    else {
+    } else {
       req.session.user = 'admin';
       res.redirect(req.body.redirect || '/');
     }
@@ -31,8 +29,7 @@ module.exports = function () {
   router.use((req, res, next) => {
     if (!req.session.user && req.path !== '/login') {
       res.redirect('/login?redirect=' + urlencode(req.originalUrl));
-    }
-    else next();
+    } else next();
   });
 
   return router;
