@@ -2,12 +2,10 @@
 My guide to the Bible:
 
 - Introduction
-	- The Ten Commandments([Exodus 20](https://www.biblegateway.com/passage/?search=Exodus+20&version=ESV))
+	- The Ten Commandments([Exodus 20](https://www.biblegateway.com/passage/?search=Exodus+20&version=KJV))
 	- The Greatest Commandment ([Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=ESV)).
 	- The Sermon on the Mount ([Matthew 5-7](https://www.biblegateway.com/passage/?search=matthew+5-7&version=ESV)).
-- The Writings of Luke
-	- The Gospel of Luke
-	- The Acts of the Apostles
+- The Gospel of Luke
 - The Books of Moses
 	- Genesis
 	- Exodus
@@ -15,51 +13,74 @@ My guide to the Bible:
 	- Numbers
 	- Deuteronomy
 	- Job
-- The Gospel of Mark
-- Birth of Israel
+- Conquest of the Holy Land
 	- Joshua
 	- Judges
 	- Ruth
-	- Samuel I/II
+	- I/II Samuel
 	- Psalms
-- Prophets of Israel
-	- Kings I
+- The Gospel of Mark
+- The Reign of Solomon
+	- I Kings 1-11
 	- Proverbs
-	- Kings II
-	- Isaiah
-	- Jeremiah
-	- Ezekiel
-	- The Twelve Minor Prophets
-	- Daniel
-- The Gospel of Matthew
-- The Five Scrolls
-	- Ruth
 	- Song of Songs
 	- Ecclesiastes
+- The Divided Kingdom
+	- I Kings 12-22
+	- II Kings 1-14
+	- Joel
+	- Jonah
+	- II Kings 15-17
+	- Amos
+	- Hosea
+	- Micah
+	- II Kings 18-20
+	- Isaiah
+	- II Kings 21-23
+	- Nahum
+	- Zephaniah
+	- Habakkuk
+	- II Kings 24-25
+	- Obadiah
+	- Jeremiah
 	- Lamentations
-	- Esther
-- The Epistles of Paul
-	- Romans
-	- Corinthians I/II
-	- Galatians
-	- Philippians
-	- Colossians
-	- Thessalonians I/II
-	- Timothy I/II
-	- Titus
-	- Philemon
-	- Hebrews
-- Other Epistles
-	- Peter I/II
-	- James
-	- Jude
+	- Ezekiel
 - The Restoration
-	- Chronicles I/II
+	- I/II Chronicles
+	- Daniel
+	- Esther
 	- Ezra
+	- Haggai
+	- Zecharaiah
 	- Nehemiah
+	- Malachi
+- The Gospel of Matthew
+- The Birth of Christianity
+	- Acts 1-12
+	- James
+	- I/II Peter
+	- Jude
+	- Acts 13-14
+	- Galatians
+	- Acts 15-16
+	- Philippians
+	- Acts 17
+	- I/II Thessalonians
+	- Acts 18
+	- I/II Corinthians
+	- Hebrews
+	- Acts 19-20
+	- Ephesians
+	- Colossians
+	- Philemon
+	- Acts 21-26
+	- Romans
+	- Acts 27-28
+	- I/II Timothy
+	- Titus
 - The Writings of John
 	- The Gospel of John
-	- John I/II/III
+	- I/II/III John
 	- Revelation
 - The Catholic Apocrypha
 	- The Wisdom of Solomon
@@ -67,7 +88,7 @@ My guide to the Bible:
 	- Judith
 	- Sirach
 	- Baruch
-	- Maccabees I/II
+	- Maccabees
 - Other Apocrypha
 	- Jubilees
 	- Jasher

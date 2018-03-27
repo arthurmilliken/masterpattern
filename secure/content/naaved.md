@@ -1,4 +1,4 @@
-## [neobed](/keys/NOBD) - נעבד
+## [na'aved](/keys/NOBD) - נעבד
 See [126](126)
 
 > Serving, Administrative or Aiding. [32nd Path](32) of [Tav](400). It may be read as perpetual generation (Nun), the fountain of renewal (Ayin) in (Beth) Daleth.
