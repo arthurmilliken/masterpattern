@@ -28,8 +28,14 @@ div.word, .key {
 .center {
 	text-align: center;
 }
+.right {
+	text-align: right;
+}
 .larger {
 	font-size: larger;
+}
+.small-caps {
+	font-variant: small-caps;
 }
 div.word span.bw {
 	position: absolute;

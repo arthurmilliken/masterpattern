@@ -27,6 +27,7 @@ module.exports = function (options) {
   simpleView('home', 'Home');
   simpleView('masterpattern', 'Master Pattern');
   simpleView('colors', 'Colors');
+  simpleView('psalm119', 'Psalm 119');
 
   router.get('/', (req, res) => res.redirect('/home'));
   return router;
