@@ -19,11 +19,10 @@ My guide to the Bible:
 	- Ruth
 	- I/II Samuel
 	- Psalms
-- The Gospel of Mark
 - The Reign of Solomon
 	- I Kings 1-11
-	- Proverbs
 	- Song of Songs
+	- Proverbs
 	- Ecclesiastes
 - The Divided Kingdom
 	- I Kings 12-22
@@ -45,13 +44,15 @@ My guide to the Bible:
 	- Jeremiah
 	- Lamentations
 	- Ezekiel
+- The Gospel of Mark
 - The Restoration
 	- I/II Chronicles
 	- Daniel
 	- Esther
-	- Ezra
+	- Ezra 1-4
 	- Haggai
 	- Zecharaiah
+	- Ezra 5-10
 	- Nehemiah
 	- Malachi
 - The Gospel of Matthew
@@ -68,7 +69,6 @@ My guide to the Bible:
 	- I/II Thessalonians
 	- Acts 18
 	- I/II Corinthians
-	- Hebrews
 	- Acts 19-20
 	- Ephesians
 	- Colossians
@@ -78,18 +78,21 @@ My guide to the Bible:
 	- Acts 27-28
 	- I/II Timothy
 	- Titus
+	- Hebrews
 - The Writings of John
 	- The Gospel of John
 	- I/II/III John
 	- Revelation
 - The Catholic Apocrypha
 	- The Wisdom of Solomon
+	- Baruch
 	- Tobit
 	- Judith
 	- Sirach
-	- Baruch
 	- Maccabees
 - Other Apocrypha
 	- Jubilees
 	- Jasher
 	- Enoch
+- Nag Hammadi Library (?)
+
