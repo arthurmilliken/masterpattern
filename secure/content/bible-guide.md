@@ -56,29 +56,25 @@ My guide to the Bible:
 	- Nehemiah
 	- Malachi
 - The Gospel of Matthew
-- The Birth of Christianity
+- [The Birth of Christianity](https://www.blueletterbible.org/study/paul/timeline.cfm)
 	- Acts 1-12
 	- James
-	- I/II Peter
 	- Jude
-	- Acts 13-14
+	- I/II Peter
+	- Acts 13-18
 	- Galatians
-	- Acts 15-16
-	- Philippians
-	- Acts 17
 	- I/II Thessalonians
-	- Acts 18
-	- I/II Corinthians
 	- Acts 19-20
-	- Ephesians
-	- Colossians
-	- Philemon
-	- Acts 21-26
+	- I/II Corinthians
 	- Romans
-	- Acts 27-28
-	- I/II Timothy
-	- Titus
+	- Acts 21-28
+	- Philemon
+	- Colossians
+	- Ephesians
+	- Philippians
 	- Hebrews
+	- Titus
+	- I/II Timothy
 - The Writings of John
 	- The Gospel of John
 	- I/II/III John
