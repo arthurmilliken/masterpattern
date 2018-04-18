@@ -12,12 +12,12 @@
 - Sun: [Tejas-Prithivi](/tattva/tejas-prithivi)
 
 ### Sephiroth
-- Binah (Sphere of Saturn): Akasha Tattva
-- Chesed (Sphere of Jupiter): Vayu Tattva
-- Geburah (Sphere of Mars): Tejas Tattva
-- Kether (Beginning of the Whirlings): Apas Tattva (white)
-- Yesod (Sphere of the Moon): Apas Tattva (violet)
-- Tiphareth (Sphere of the Sun): Prithivi Tattva
+- Binah (Sphere of Saturn): Akasha
+- Chesed (Sphere of Jupiter): Vayu
+- Geburah (Sphere of Mars): Tejas
+- Kether: Apas (white)
+- Yesod (Sphere of the Moon): Apas (violet)
+- Tiphareth (Sphere of the Sun): Prithivi
 - Netzach (Sphere of Venus): [Prithivi-Vayu](/tattva/prithivi-vayu)
 - Hod (Sphere of Mercury): [Tejas-Prithivi](/tattva/tejas-prithivi)
 
