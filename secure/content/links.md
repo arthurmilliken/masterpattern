@@ -22,3 +22,4 @@
 - [Fama Fraternitatis (Hermetic.com)](https://hermetic.com/rosicrucianism/fama-fraternitatis) - Transcription of Vaughan's edition (without Waite's errors).
 - [Fama Fraternitatis (Original German)](https://archive.org/stream/famafraternitati00andr#page/n0/mode/2up). Full Title: *"Fama fraternitatis, oder, Entdeckung der Brüderschafft des löblichen Ordens dess Rosen Creutzes : beneben der Confession, oder, Bekantnus derselben Fraternitet, an alle Gelehrte und Häupter in Europa geschrieben : auch etlichen Responsionen von Haselmeyern und anderen gelehrten Leuten auff die Famam gestellet"*
  by Andreä, Johann Valentin
+- [The Apocalypse Unsealed](https://archive.org/stream/cu31924029295289#page/n5/mode/2up) - James Pryse

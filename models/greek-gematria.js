@@ -35,6 +35,12 @@ const greek = module.exports = {
     capital: 'Ε',
     value: 5,
   },
+  S: {
+    name: 'stigma',
+    greek: 'ϛ',
+    capital: 'ϛ',
+    value: 6,
+  },
   z: {
     name: 'zeta',
     greek: 'ζ',
