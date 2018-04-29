@@ -1,7 +1,16 @@
 const tarot = module.exports = {
 
+  ':': {
+    key: -4,
+    hebrew: '׃',
+    name: 'colon',
+    bw: '/img/1x1.png',
+    color: '/img/1x1.png',
+    class: 'spacer',
+    'letter-value': 0,
+  },
   '-': {
-    key: -2,
+    key: -3,
     hebrew: '־',
     name: 'hyphen',
     bw: '/img/1x1.png',
