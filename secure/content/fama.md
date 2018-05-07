@@ -1,0 +1,134 @@
+## The Fame and Confession of the Fraternity of R.C.
+(Thomas Vaughan)
+
+### Introduction
+
+[p.12](https://archive.org/stream/fameconfessionof00vaug#page/n12/mode/2up)
+
+- [Observation](/english?word=Observation)
+- [Dreams](/english?word=Dreams)
+- [travel](/english?word=travel)
+- [long way](/english?word=long+way)
+- [all alone](/english?word=all+alone)
+- [sign](/english?word=sign)
+- [Death](/english?word=Death)
+- [Poet](/english?word=Poet)
+- [Queen](/english?word=Queen)
+- [Carthage](/english?word=Carthage)
+- [dye](/english?word=dye)
+- [Love](/english?word=Love)
+- [fits](/english?word=fits)
+- [Vision](/english?word=Vision)
+- [Longam Incomitata videtur Ire Viam](/latin?word=Longam+Incomitata+videtur+Ire+Viam) (Lt)
+- [use](/english?word=use)
+- [this](/english?word=this)
+- [wise](/english?word=wise)
+- [prognosticate](/english?word=prognosticate)
+- [present Work](/english?word=present+Work)
+- [Life](/english?word=Life)
+- [Acceptance](/english?word=Acceptance)
+- [Dream](/english?word=Dream)
+- [know](/english?word=know)
+- [Company](/english?word=Company)
+
+[p.13](https://archive.org/stream/fameconfessionof00vaug#page/n13/mode/2up)
+
+- [Gentlemen](/english?word=Gentlemen)
+- [self](/english?word=self)
+- [Fame](/english?word=Fame)
+- [Disparagement](/english?word=Disparagement)
+- [own](/english?word=own)
+- [pleasure](/english?word=pleasure)
+- [light](/english?word=light)
+- [hands](/english?word=hands)
+- [defer](/english?word=defer)
+- [Copies](/english?word=Copies)
+- [Reader](/english?word=Reader)
+- [Justice](/english?word=Justice)
+- [distributive](/english?word=distributive)
+- [Translation](/english?word=Translation)
+- [Fama](/english?word=Fama)
+- [unknown hand](/english?word=unknown+hand)
+- Abilities
+- Translator
+- Damascus
+- Damcar
+- Arabia
+- alter
+- Pedant
+- correct
+- Labours
+- Copy
+- me
+- Gentleman
+- learned
+- name
+- here
+- thy thanks
+- mine
+- Preface
+- own
+- Benefit
+- miss
+- clear eyes
+- purged spirit
+- Pregudice
+- Judgment
+- Affections
+- engag'd
+- Ignis fatuus
+- Guide
+
+[p.14](https://archive.org/stream/fameconfessionof00vaug#page/n14/mode/2up)
+
+- [follow](/english?word=follow)
+- [Opinion](/english?word=Opinion)
+- [False](/english?word=False)
+- [True](/english?word=True)
+- [men](/english?word=men)
+- [deny'd](/english?word=deny'd)
+- [part](/english?word=part)
+- [World](/english?word=World)
+- [now](/english?word=now)
+- [inhabit](/english?word=inhabit)
+- [America](/english?word=America)
+- [Philosophers Stone](/english?word=Philosophers+Stone)
+- [sometimes](/english?word=sometimes)
+- [Predicament](/english?word=Predicament)
+- [Impossibilities](/english?word=Impossibilities)
+- [nothing](/english?word=nothing)
+- [absurd](/english?word=absurd)
+- [same mind](/english?word=same+mind)
+- [Generality](/english?word=Generality)
+- [Men](/english?word=Men)
+- [entertain'd](/english?word=entertain'd)
+- [gross](/english?word=gross)
+- [Errors](/english?word=Errors)
+- [Time](/english?word=Time)
+- [Experience](/english?word=Experience)
+- [confuted](/english?word=confuted)
+- [Sluggishness](/english?word=Sluggishness)
+- [Incredulity](/english?word=Incredulity)
+- [Discoveries](/english?word=Discoveries)
+- [contribute nothing](/english?word=contribute+nothing)
+- [them](/english?word=them)
+- [Contempt](/english?word=Contempt)
+- [worst](/english?word=worst)
+- [Malice](/english?word=Malice)
+- [all this](/english?word=all+this)
+- [self](/english?word=self)
+- [tell](/english?word=tell)
+- [thee](/english?word=thee)
+- [use](/english?word=use)
+- [make](/english?word=make)
+- [thee](/english?word=thee)
+- [Man](/english?word=Man)
+- [be](/english?word=be)
+- [power](/english?word=power)
+- [much](/english?word=much)
+- [own](/english?word=own)
+- [know'st](/english?word=know'st)
+- [Duty](/english?word=Duty)
+- [self](/english?word=self)
+- [E.P.](/english?word=E.P.)
+
