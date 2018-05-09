@@ -14,19 +14,11 @@ Now the *[use](/english?word=use)* I make of it, is *[this](/english?word=this):
 
 *([Fama Intro p.13](https://archive.org/stream/fameconfessionof00vaug#page/n13/mode/2up))*
 
-- [Gentlemen](/english?word=Gentlemen)
-- [self](/english?word=self)
-- [Fame](/english?word=Fame)
-- [Disparagement](/english?word=Disparagement)
-- [own](/english?word=own)
-- [pleasure](/english?word=pleasure)
-- [light](/english?word=light)
-- [hands](/english?word=hands)
-- [defer](/english?word=defer)
-- [Copies](/english?word=Copies)
-- [Reader](/english?word=Reader)
-- [Justice](/english?word=Justice)
-- [distributive](/english?word=distributive)
+some *[Gentlemen](/english?word=Gentlemen)* besides my *[self](/english?word=self),* who affected this *[Fame](/english?word=Fame),* and thought it no *[Disparagement](/english?word=Disparagement)* to their *[own](/english?word=own):* but it was their *[pleasure](/english?word=pleasure)* it should receive *[light](/english?word=light)* at my *[hands](/english?word=hands),* and this made them *[defer](/english?word=defer)* their own *[Copies](/english?word=Copies),* which otherwise had past the Press. I have, *- [Reader](/english?word=Reader),* but little more to say, unless I tell thee of my *[Justice](/english?word=Justice),* and now thou shalt see how *[distributive](/english?word=distributive)* it is. The ** of the ** belongs to an *,* but the ** of the ** I question not. He hath indeed mistaken ** for ** in *,* and this I would not *,* for I am no ** to ** another mans *.* The ** was communicated to ** by a ** more ** then myself, and I should ** him *,* but that he expects not either ** or *.* As for the *,* it is my *,* and I wish thee the full ** of it, which certainly thou canst not *,* if thou com'st to it with *,* and a *.* Consider that ** obstructs thy *:* for if thy ** are *,* though to an *,* thouu dost think it a *,* because thou
+
+
+- 
+- 
 - [Translation](/english?word=Translation)
 - [Fama](/english?word=Fama)
 - [unknown hand](/english?word=unknown+hand)
