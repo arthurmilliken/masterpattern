@@ -12,14 +12,14 @@
 - [Sun](/keys/R): [Tejas-Prithivi](/tattva/tejas-prithivi) ([G#](/color/$ee0000) - [C](/color/$28ff00))
 
 ### Sephiroth
-- [Binah](/keys/BINH) (Sphere of Saturn): Akasha ([G](/color/$00140a))
-- [Chesed](/keys/ChSD) (Sphere of Jupiter): Vayu ([D#](/color/$0500ff))
-- [Geburah](/keys/GBVRH) (Sphere of Mars): Tejas ([G#](/color/$ee0000))
-- [Kether](/keys/KThR): Apas (white) ([F](/color/$ffffff))
-- [Yesod](/keys/ISVD) (Sphere of the Moon): Apas (violet) ([F](/color/$ab00ab))
-- [Tiphareth](/keys/ThPARTh) (Sphere of the Sun): Prithivi ([C](/color/$28ff00))
-- [Netzach](/keys/NTzCh) (Sphere of Venus): [Prithivi-Vayu](/tattva/prithivi-vayu) ([C](/color/$28ff00))
-- [Hod](/keys/HVD) (Sphere of Mercury): [Tejas-Prithivi](/tattva/tejas-prithivi) ([G#](/color/$ee0000) - [C](/color/$28ff00))
+- [Binah](/keys/BINH) (Sphere of [Saturn](/keys/ShBThAI)): [Akasha](/tattva/akasha-akasha) ([G](/color/$00140a))
+- [Chesed](/keys/ChSD) (Sphere of [Jupiter](/keys/TzDK)): [Vayu](/tattva/vayu-vayu) ([D#](/color/$0500ff))
+- [Geburah](/keys/GBVRH) (Sphere of [Mars](/keys/MADIM)): [Tejas](/tattva/tejas-tejas) ([G#](/color/$ee0000))
+- [Kether](/keys/KThR): ([Rashith Ha-Galgalim](/keys/RAShITh.HGLGLIM)) [Apas](/tattva/apas-apas) (white) ([F](/color/$ffffff))
+- [Yesod](/keys/ISVD) (Sphere of the [Moon](/keys/LBNH)): [Apas](/tattva/apas-apas) (violet) ([F](/color/$ab00ab))
+- [Tiphareth](/keys/ThPARTh) (Sphere of the [Sun](/keys/ShMSh)): [Prithivi](/tattva/prithivi-prithivi) ([C](/color/$28ff00))
+- [Netzach](/keys/NTzCh) (Sphere of [Venus](/keys/NVGH)): [Prithivi-Vayu](/tattva/prithivi-vayu) ([C](/color/$28ff00) - [D#](/color/$0500ff))
+- [Hod](/keys/HVD) (Sphere of [Mercury](/keys/KVKB)): [Tejas-Prithivi](/tattva/tejas-prithivi) ([G#](/color/$ee0000) - [C](/color/$28ff00))
 
 ### Signs
 - [Aries](/keys/H): [Tejas-Tejas](/tattva/tejas-tejas) ([G#](/color/$ee0000))
