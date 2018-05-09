@@ -1,37 +1,18 @@
 ## The Fame and Confession of the Fraternity of R.C.
 (Thomas Vaughan)
 
-### Introduction
+### [The Publisher to the Reader](https://archive.org/stream/fameconfessionof00vaug#page/n12/mode/2up)
 
-[p.12](https://archive.org/stream/fameconfessionof00vaug#page/n12/mode/2up)
+*([Fama Intro p.12](https://archive.org/stream/fameconfessionof00vaug#page/n12/mode/2up))*
 
-- [Observation](/english?word=Observation)
-- [Dreams](/english?word=Dreams)
-- [travel](/english?word=travel)
-- [long way](/english?word=long+way)
-- [all alone](/english?word=all+alone)
-- [sign](/english?word=sign)
-- [Death](/english?word=Death)
-- [Poet](/english?word=Poet)
-- [Queen](/english?word=Queen)
-- [Carthage](/english?word=Carthage)
-- [dye](/english?word=dye)
-- [Love](/english?word=Love)
-- [fits](/english?word=fits)
-- [Vision](/english?word=Vision)
-- [Longam Incomitata videtur Ire Viam](/latin?word=Longam+Incomitata+videtur+Ire+Viam) (Lt)
-- [use](/english?word=use)
-- [this](/english?word=this)
-- [wise](/english?word=wise)
-- [prognosticate](/english?word=prognosticate)
-- [present Work](/english?word=present+Work)
-- [Life](/english?word=Life)
-- [Acceptance](/english?word=Acceptance)
-- [Dream](/english?word=Dream)
-- [know](/english?word=know)
-- [Company](/english?word=Company)
+It is the *[Observation](/english?word=Observation)* of such as skill *[Dreams](/english?word=Dreams),* That to *[travel](/english?word=travel)* a *[long way](/english?word=long+way),* and *[all alone](/english?word=all+alone),* is a *[sign](/english?word=sign)* of *[Death](/english?word=Death).* This it seems the *[Poet](/english?word=Poet)* knew: for when the *[Queen](/english?word=Queen)* of *[Carthage](/english?word=Carthage)* was to *[dye](/english?word=dye)* for *[Love](/english?word=Love),* he *[fits](/english?word=fits)* her with his Melancholy *[Vision](/english?word=Vision)*:
 
-[p.13](https://archive.org/stream/fameconfessionof00vaug#page/n13/mode/2up)
+> *--- [Longam Incomitata videtur Ire Viam](/latin?word=Longam+Incomitata+videtur+Ire+Viam) ---*
+
+Now the *[use](/english?word=use)* I make of it, is *[this](/english?word=this):* I would be so *[wise](/english?word=wise),* as to *[prognosticate](/english?word=prognosticate).* I do therefore promise my *[present Work](/english?word=present+Work)* not only *[Life](/english?word=Life),* but *[Acceptance](/english?word=Acceptance):* for in this my *[Dream](/english?word=Dream)* (and I *[know](/english?word=know)* you will call it *[so](/english?word=so)*) I *[travel](/english?word=travel)* not without *[Company](/english?word=Company).* There were some
+
+
+*([Fama Intro p.13](https://archive.org/stream/fameconfessionof00vaug#page/n13/mode/2up))*
 
 - [Gentlemen](/english?word=Gentlemen)
 - [self](/english?word=self)

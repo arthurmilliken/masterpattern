@@ -23,8 +23,9 @@ module.exports = function (router) {
   router.get('/content/:entry', (req, res) => {
     let entry = req.params.entry.trim();
     entry = entry.replace(/.md$/, '');
-    const name = entry;
+    let name = entry;
     const num = parseInt(entry, 10);
+    if (num !== NaN) name = `Gematria: ${name}`
     if (num < 10) {
       entry = `0-9/${entry}`;
     } else if (num < 100) {
