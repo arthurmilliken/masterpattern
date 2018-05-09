@@ -14,45 +14,9 @@ Now the *[use](/english?word=use)* I make of it, is *[this](/english?word=this):
 
 *([Fama Intro p.13](https://archive.org/stream/fameconfessionof00vaug#page/n13/mode/2up))*
 
-some *[Gentlemen](/english?word=Gentlemen)* besides my *[self](/english?word=self),* who affected this *[Fame](/english?word=Fame),* and thought it no *[Disparagement](/english?word=Disparagement)* to their *[own](/english?word=own):* but it was their *[pleasure](/english?word=pleasure)* it should receive *[light](/english?word=light)* at my *[hands](/english?word=hands),* and this made them *[defer](/english?word=defer)* their own *[Copies](/english?word=Copies),* which otherwise had past the Press. I have, *- [Reader](/english?word=Reader),* but little more to say, unless I tell thee of my *[Justice](/english?word=Justice),* and now thou shalt see how *[distributive](/english?word=distributive)* it is. The ** of the ** belongs to an *,* but the ** of the ** I question not. He hath indeed mistaken ** for ** in *,* and this I would not *,* for I am no ** to ** another mans *.* The ** was communicated to ** by a ** more ** then myself, and I should ** him *,* but that he expects not either ** or *.* As for the *,* it is my *,* and I wish thee the full ** of it, which certainly thou canst not *,* if thou com'st to it with *,* and a *.* Consider that ** obstructs thy *:* for if thy ** are *,* though to an *,* thouu dost think it a *,* because thou
+some *[Gentlemen](/english?word=Gentlemen)* besides my *[self](/english?word=self),* who affected this *[Fame](/english?word=Fame),* and thought it no *[Disparagement](/english?word=Disparagement)* to their *[own](/english?word=own):* but it was their *[pleasure](/english?word=pleasure)* it should receive *[light](/english?word=light)* at my *[hands](/english?word=hands),* and this made them *[defer](/english?word=defer)* their own *[Copies](/english?word=Copies),* which otherwise had past the Press. I have, *[Reader](/english?word=Reader),* but little more to say, unless I tell thee of my *[Justice](/english?word=Justice),* and now thou shalt see how *[distributive](/english?word=distributive)* it is. The *[Translation](/english?word=Translation)* of the *[Fama](/english?word=Fama)* belongs to an *[unknown hand](/english?word=unknown+hand),* but the *[Abilities](/english?word=Abilities)* of the *[Translator](/english?word=Translator)* I question not. He hath indeed mistaken *[Damascus](/english?word=Damascus)* for *[Damcar](/english?word=Damcar)* in *[Arabia](/english?word=Arabia),* and this I would not *[alter](/english?word=alter),* for I am no *[Pedant](/english?word=Pedant)* to *[correct](/english?word=correct)* another mans *[Labours](/english?word=Labours).* The *[Copy](/english?word=Copy)* was communicated to *[me](/english?word=me)* by a *[Gentleman](/english?word=Gentleman)* more *[learned](/english?word=learned)* then myself, and I should *[name](/english?word=name)* him *[here](/english?word=here),* but that he expects not either *[thy thanks](/english?word=thy+thanks)* or *[mine](/english?word=mine).* As for the *[Preface](/english?word=Preface),* it is my *[own](/english?word=own),* and I wish thee the full *[Benefit](/english?word=Benefit)* of it, which certainly thou canst not *[miss](/english?word=miss),* if thou com'st to it with *[clear eyes](/english?word=clear+eyes),* and a *[purged spirit](/english?word=purged+spirit).* Consider that *[Prejudice](/english?word=Prejudice)* obstructs thy *[Judgment](/english?word=Judgment):* for if thy *[Affections](/english?word=Affections)* are *[engag'd](/english?word=engag+d),* though to an *[Ignis fatuus](/latin?word=Ignis+fatuus),* thou dost think it a *[Guide](/english?word=Guide),* because thou
 
-
-- 
-- 
-- [Translation](/english?word=Translation)
-- [Fama](/english?word=Fama)
-- [unknown hand](/english?word=unknown+hand)
-- [Abilities](/english?word=Abilities)
-- [Translator](/english?word=Translator)
-- [Damascus](/english?word=Damascus)
-- [Damcar](/english?word=Damcar)
-- [Arabia](/english?word=Arabia)
-- [alter](/english?word=alter)
-- [Pedant](/english?word=Pedant)
-- [correct](/english?word=correct)
-- [Labours](/english?word=Labours)
-- [Copy](/english?word=Copy)
-- [me](/english?word=me)
-- [Gentleman](/english?word=Gentleman)
-- [learned](/english?word=learned)
-- [name](/english?word=name)
-- [here](/english?word=here)
-- [thy thanks](/english?word=thy+thanks)
-- [mine](/english?word=mine)
-- [Preface](/english?word=Preface)
-- [own](/english?word=own)
-- [Benefit](/english?word=Benefit)
-- [miss](/english?word=miss)
-- [clear eyes](/english?word=clear+eyes)
-- [purged spirit](/english?word=purged+spirit)
-- [Prejudice](/english?word=Prejudice)
-- [Judgment](/english?word=Judgment)
-- [Affections](/english?word=Affections)
-- [engag'd](/english?word=engag+d)
-- [Ignis fatuus](/latin?word=Ignis+fatuus) (Lt)
-- [Guide](/english?word=Guide)
-
-[p.14](https://archive.org/stream/fameconfessionof00vaug#page/n14/mode/2up)
+([Fama Intro p.14](https://archive.org/stream/fameconfessionof00vaug#page/n14/mode/2up))
 
 - [follow](/english?word=follow)
 - [Opinion](/english?word=Opinion)
