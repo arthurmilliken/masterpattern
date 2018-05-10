@@ -2,7 +2,7 @@
 
 - [Bible Hub - Genesis 1:2](http://biblehub.com/genesis/1-2.htm)
 - [Bible Gateway - Genesis 47:13-25](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-25&version=KJV;WLC)
-- [Bible Gateway - Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=KJV;TR1550)
+- [Bible Gateway - Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=KJV;SBLGNT)
 - [Bible Wheel Gematria Database](https://www.biblewheel.com//GR/GR_Database.php)
 - [Blue Letter Bible](https://www.blueletterbible.org/) - Useful for Septuagint
 - [Bible Study Tools](https://www.biblestudytools.com) - Useful for Vulgate
@@ -23,3 +23,6 @@
 - [Fama Fraternitatis (Hermetic.com)](https://hermetic.com/rosicrucianism/fama-fraternitatis) - Transcription of Vaughan's edition (without Waite's errors).
 - [Fama Fraternitatis (Original German)](https://archive.org/stream/famafraternitati00andr#page/n0/mode/2up). Full Title: *"Fama fraternitatis, oder, Entdeckung der Brüderschafft des löblichen Ordens dess Rosen Creutzes : beneben der Confession, oder, Bekantnus derselben Fraternitet, an alle Gelehrte und Häupter in Europa geschrieben : auch etlichen Responsionen von Haselmeyern und anderen gelehrten Leuten auff die Famam gestellet"*
 - [The Apocalypse Unsealed](https://archive.org/stream/cu31924029295289#page/n5/mode/2up) - James Pryse
+- [The Hermetic Museum, Volume I](https://archive.org/stream/b24927363_0001#page/n7/mode/2up)
+  - [(The Sophic Hydrolith)](https://archive.org/stream/b24927363_0001#page/68/mode/2up)
+- [The Hermetic Museum, Volume II](https://archive.org/stream/b24927363_0002#page/n7/mode/2up)
