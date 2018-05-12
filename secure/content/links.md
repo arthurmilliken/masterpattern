@@ -26,3 +26,4 @@
 - [The Hermetic Museum, Volume I](https://archive.org/stream/b24927363_0001#page/n7/mode/2up)
   - [(The Sophic Hydrolith)](https://archive.org/stream/b24927363_0001#page/68/mode/2up)
 - [The Hermetic Museum, Volume II](https://archive.org/stream/b24927363_0002#page/n7/mode/2up)
+- [Troward's Comments on the Psalms](http://newthoughtlibrary.com/trowardThomas/psalms/psalms_000.htm) - Thomas Troward
