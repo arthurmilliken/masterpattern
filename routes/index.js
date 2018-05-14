@@ -28,7 +28,7 @@ module.exports = function (options) {
 
   simpleView('home', 'Home');
   simpleView('masterpattern', 'Master Pattern');
-  simpleView('colors', 'Colors');
+  simpleView('colors', 'Color and Sound');
   simpleView('psalm119', 'Psalm 119');
   simpleView('tattvas', 'Tattvas');
 

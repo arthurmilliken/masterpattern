@@ -15,7 +15,7 @@
    inkscape:version="0.44"
    version="1.0"
    sodipodi:docbase="C:\Documents and Settings\Owner\Desktop\SVG work\Symbols"
-   sodipodi:docname="Uranus symbol.svg">
+   sodipodi:docname="Uranus's astrological symbol.svg">
   <defs
      id="defs34866" />
   <sodipodi:namedview
@@ -35,8 +35,8 @@
      inkscape:current-layer="layer1"
      inkscape:window-width="853"
      inkscape:window-height="573"
-     inkscape:window-x="280"
-     inkscape:window-y="160" />
+     inkscape:window-x="361"
+     inkscape:window-y="206" />
   <metadata
      id="metadata34869">
     <rdf:RDF>
@@ -54,33 +54,32 @@
      id="layer1"
      transform="translate(-348.7552,-478.0905)">
     <path
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 363.40346,509.72756 L 356.40346,509.72756 L 356.40346,508.72756 L 360.40346,507.72756 L 360.40346,487.72756 L 356.40346,486.72756 L 356.40346,485.72756 L 363.40346,485.72756 L 363.40346,509.72756 z "
+       id="path6778"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 385.40346,509.72756 L 392.40346,509.72756 L 392.40346,508.72756 L 388.40346,507.72756 L 388.40346,487.72756 L 392.40346,486.72756 L 392.40346,485.72756 L 385.40346,485.72756 L 385.40346,509.72756 z "
+       id="path6780"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 362.40346,497.72756 L 386.40346,497.72756"
+       id="path6782" />
+    <path
        style="opacity:1;color:black;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 374.18145,485.42513 L 374.18145,498.56028"
-       id="path23250"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="opacity:1;color:black;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       d="M 369.08601,490.96411 L 374.03033,485.90905 L 379.08537,490.8534"
-       id="path23252" />
+       d="M 374.40346,485.72756 L 374.40346,511.72756"
+       id="path6784" />
     <path
        sodipodi:type="arc"
-       style="opacity:1;color:black;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:4.44071674;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       id="path23254"
-       sodipodi:cx="33.772552"
-       sodipodi:cy="36.70454"
-       sodipodi:rx="15.623922"
-       sodipodi:ry="16.319134"
-       d="M 49.396475 36.70454 A 15.623922 16.319134 0 1 1  18.14863,36.70454 A 15.623922 16.319134 0 1 1  49.396475 36.70454 z"
-       transform="matrix(0.690164,0,0,0.661278,350.9823,485.3354)" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;color:black;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
-       id="path23256"
-       sodipodi:cx="34"
-       sodipodi:cy="37"
+       style="opacity:1;color:black;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="path6786"
+       sodipodi:cx="36"
+       sodipodi:cy="211"
        sodipodi:rx="4"
-       sodipodi:ry="5"
-       d="M 38 37 A 4 5 0 1 1  30,37 A 4 5 0 1 1  38 37 z"
-       transform="matrix(0.675051,0,0,0.540041,351.3416,489.6359)" />
+       sodipodi:ry="4"
+       d="M 40 211 A 4 4 0 1 1  32,211 A 4 4 0 1 1  40 211 z"
+       transform="translate(338.4034,305.7276)" />
   </g>
 </svg>
