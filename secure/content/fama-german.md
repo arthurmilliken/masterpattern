@@ -16,7 +16,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Ingenia
 - Microcosmus
 - seculo
-- librum Natur(ae)
+- librum Naturae
 - regulam
 
 ### [p.15](https://archive.org/stream/famafraternitati00andr#page/15/mode/2up)
@@ -76,7 +76,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - artibus
 - seculorum
 - concordiren
-- Ecclesi(ae)
+- Ecclesiae
 - Philosophia moralis
 - Philosophia
 - axiomata
@@ -129,7 +129,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - I. A.
 - Volumen
 - Axiomata
-- Rot(ae)
+- Rotae
 - Fiat
 - Pereat
 
@@ -180,7 +180,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. R. C.
 - Bibliotheca
 - Axiomata
-- Rot(ae) Mundi
+- Rotae Mundi
 - Protheus
 - Fr. R. C.
 - injungiret
@@ -191,7 +191,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. C. R. G.
 - A. in Gallia Narbonensi
 - N. N.
-- (s)olenne Fidei & filentij Iuramentum pr(ae)stiren
+- (s)olenne Fidei & filentij Iuramentum praestiren
 - Fortunatus
 
 ### [p.35](https://archive.org/stream/famafraternitati00andr#page/35/mode/2up)
@@ -204,7 +204,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 
 - Fama Fraternit.
 - Post CXX. Annos Patebo.
-- Europ(ae)
+- Europae
 
 ### [p.37](https://archive.org/stream/famafraternitati00andr#page/37/mode/2up)
 
@@ -241,14 +241,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 
 ### [p.41](https://archive.org/stream/famafraternitati00andr#page/41/mode/2up)
 
-> C. Ros. C. ex nobili atque splendida Germaini(ae) R. C. familia oriundus, Vir sui seculi divinis revelationibus, subtilissimis imaginationibus, indefessis laboribus, ad c(oe)lestia atque humana mysteria, arcanaue admissus, postquam suam (quam Arabico & Affricano itineribus) collegerat, plusquam regiam aut imperatoriam Gazam, suo seculo nondum convenientem, posteritati eruendam custodivisset, & jam suarum artium, ut & nominis, fidos ac conjunctissimos h(ae)redes, instituisset, mundum minutum, omnibus motibus magno illi respondentem fabricasset, hocque tandem pr(ae)teritarum, pr(ae)sentium & futurum rerum compendio extracto, centenario major, non morbo (quem ipse nunquam corpore expertus erat, nunquam alios, infestare sinebat) ullo pellente, sed Spiritu Dei evocante, illuminatam animam (inter fratrum amplexus & vltima oscula) Creatori Deo reddidisset, Pater dilectissimus,
+> C. Ros. C. ex nobili atque splendida Germainiae R. C. familia oriundus, Vir sui seculi divinis revelationibus, subtilissimis imaginationibus, indefessis laboribus, ad coelestia atque humana mysteria, arcanaue admissus, postquam suam (quam Arabico & Affricano itineribus) collegerat, plusquam regiam aut imperatoriam Gazam, suo seculo nondum convenientem, posteritati eruendam custodivisset, & jam suarum artium, ut & nominis, fidos ac conjunctissimos haeredes, instituisset, mundum minutum, omnibus motibus magno illi respondentem fabricasset, hocque tandem praeteritarum, praesentium & futurum rerum compendio extracto, centenario major, non morbo (quem ipse nunquam corpore expertus erat, nunquam alios, infestare sinebat) ullo pellente, sed Spiritu Dei evocante, illuminatam animam (inter fratrum amplexus & vltima oscula) Creatori Deo reddidisset, Pater dilectissimus,
 
 ### [p.42](https://archive.org/stream/famafraternitati00andr#page/42/mode/2up)
 
-> Fr. suavissimus, Pr(ae)ceptor fidelissimus, amicus integerrimus, a suis ad 120. annos hic absconditus est.
+> Fr. suavissimus, Praeceptor fidelissimus, amicus integerrimus, a suis ad 120. annos hic absconditus est.
 
 > - 1. Fr. I.A. Fr. C. H. electione fraternitatis caput, 2 Fr. G. V. M. P. C.
-> - 3. Fr. R. C. junior h(ae)res S. Spiritus.
+> - 3. Fr. R. C. junior haeres S. Spiritus.
 > - 4. F. B. M. P. A. pictor & architectus.
 > - 5. Fr. G. G. M. P. I. Cabalista.
 
@@ -269,7 +269,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 ### [p.44](https://archive.org/stream/famafraternitati00andr#page/44/mode/2up)
 
 - Fama Fraternit.
-- Rot(ae)
+- Rotae
 - M. P.
 - possessione
 - ludicium
@@ -286,7 +286,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 
 - Fama Fraternit.
 - Quartam Monarchiam
-- bon(ae) Caus(ae)
+- bonae Causae
 - Fortuna
 - Philosophia
 - Iesu ex omni parte
@@ -299,7 +299,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Aristoteles
 - Pythagoras
 - Biblia concordiret
-- ph(ae)ra
+- phaera
 - globus
 - Centro
 
@@ -318,7 +318,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 
 ### [p.49](https://archive.org/stream/famafraternitati00andr#page/49/mode/2up)
 
-- Contumeliam glori(ae) Dei
+- Contumeliam gloriae Dei
 - Catalogum
 - Fr. C. R, C.
 - Europa
