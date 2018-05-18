@@ -34,3 +34,45 @@
 - [Capricorn](/keys/O): [Akasha-Prithivi](/tattva/akasha-prithivi) ([G](/color/$00140a) - [C](/color/$28ff00))
 - [Aquarius](/keys/Tz): [Vayu-Tejas](/tattva/vayu-tejas) ([D#](/color/$0500ff) - [G#](/color/$ee0000))
 - [Pisces](/keys/Q): [Apas-Vayu](/tattva/apas-vayu) ([F](/color/$ab00ab) - [D#](/color/$0500ff))
+
+---
+## Alternate Attributions:
+---
+
+### Sephiroth
+- Kether: Akasha-Apas
+- Chokmah: Apas-Tejas
+- Binah: Akasha-Akasha
+- Chesed: Vayu-Vayu
+- Geburah: Tejas-Tejas
+- Tiphareth: Prithivi-Prithivi
+- Netzach: Tejas-Apas
+- Hod: Vayu-Apas
+- Yesod: Apas-Apas
+- Malkuth: Apas-Prithivi
+
+### Planets
+- Moon: Apas-Apas
+- Mercury: Vayu-Apas
+- Venus: Tejas-Apas
+- Sun: Prithivi-Prithivi
+- Mars: Tejas-Tejas
+- Jupiter: Vayu-Vayu
+- Saturn: Akasha-Akasha
+- Uranus: Apas-Akasha
+- Neptune: Tejas-Apas
+- Pluto: Akasha-Vayu
+
+### Signs
+- Aries: Prithivi-Akasha
+- Taurus: Vayu-Akasha
+- Gemini: Akasha-Prithivi
+- Cancer: Akasha-Tejas
+- Leo: Vayu-Tejas
+- Virgo: Vayu-Prithivi
+- Libra: Tejas-Prithivi
+- Scorpio: Prithivi-Tejas
+- Sagittarius: Prithivi-Apas
+- Capricorn: Prithivi-Vayu
+- Aquarius: Apas-Vayu
+- Pisces: Tejas-Akasha
