@@ -41,6 +41,8 @@
 > Although these things may seem somewhat strange, and many may esteem it to be but a Philosophical
 
 *([p.19-20](https://archive.org/stream/fameconfessionof00vaug#page/n19/mode/2up))*
+*([Fama Intro p.19](https://archive.org/stream/fameconfessionof00vaug#page/n19/mode/2up))*
+*([Fama Intro p.20](https://archive.org/stream/fameconfessionof00vaug#page/n20/mode/2up))*
 
 > Philosophical shew, and no true History, which is published and spoken of the [Fraternity](/english?word=Fraternity) of the [Rosie Cross](/english?word=Rosie+Cross); it shall here sufficiently appear by our [Confession](/english?word=Confession), that there is more [in recessu](/latin?word=in+recessu) then may be imagined; and it shall be easily understood, and observed by every one (if he be not altogether voyd of understanding) what now adays, and at these times, is meant thereby.
 
