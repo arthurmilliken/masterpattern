@@ -1,13 +1,13 @@
 ## Fama Fraternitatis (English) - Gematria Notes
 
-From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfessionof00vaug#page/n79/mode/2up)
+From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfessionof00vaug#page/n79)
 
-### [p.1](https://archive.org/stream/fameconfessionof00vaug#page/n79/mode/2up)
+### [p.1](https://archive.org/stream/fameconfessionof00vaug#page/n79)
 
 - [Fama Fraternitatis](/latin?word=Fama+Fraternitatis)
 - [Nature](/english?word=Nature)
 
-### [p.2](https://archive.org/stream/fameconfessionof00vaug#page/2/mode/2up)
+### [p.2](https://archive.org/stream/fameconfessionof00vaug#page/2)
 
 - [Nature](/english?word=Nature)
 - [Microcosmus](/english?word=Microcosmus)
@@ -16,7 +16,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Aristotle](/english?word=Aristotle)
 - [Galen](/english?word=Galen)
 
-### [p.3](https://archive.org/stream/fameconfessionof00vaug#page/3/mode/2up)
+### [p.3](https://archive.org/stream/fameconfessionof00vaug#page/3)
 
 - [Theologie](/english?word=Theologie)
 - [Physic](/english?word=Physic)
@@ -27,7 +27,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [P. A. L.](/english?word=P.A.L.)
 - [Ciprus](/english?word=Ciprus)
 
-### [p.4](https://archive.org/stream/fameconfessionof00vaug#page/4/mode/2up)
+### [p.4](https://archive.org/stream/fameconfessionof00vaug#page/4)
 
 - [Jerusalem](/english?word=Jerusalem)
 - [C. R.](/english?word=C.R.)
@@ -37,7 +37,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Nature](/english?word=Nature)
 - [Arabians](/english?word=Arabians)
 
-### [p.5](https://archive.org/stream/fameconfessionof00vaug#page/5/mode/2up)
+### [p.5](https://archive.org/stream/fameconfessionof00vaug#page/5)
 
 - [Arabian](/english?word=Arabian)
 - [M.](/english?word=M.)
@@ -49,7 +49,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Arabians](/english?word=Arabians)
 - [Affricans](/english?word=Affricans)
 
-### [p.6](https://archive.org/stream/fameconfessionof00vaug#page/6/mode/2up)
+### [p.6](https://archive.org/stream/fameconfessionof00vaug#page/6)
 
 - [Mathematica](/english?word=Mathematica)
 - [Physic](/english?word=Physic)
@@ -64,14 +64,14 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Magia](/english?word=Magia)
 - [Cabala](/english?word=Cabala)
 
-### [p.7](https://archive.org/stream/fameconfessionof00vaug#page/7/mode/2up)
+### [p.7](https://archive.org/stream/fameconfessionof00vaug#page/7)
 
 - [C. R.](/english?word=C.R.)
 - [Fez](/english?word=Fez)
 - [Spain](/english?word=Spain)
 - [Europe](/english?word=Europe)
 
-### [p.8](https://archive.org/stream/fameconfessionof00vaug#page/8/mode/2up)
+### [p.8](https://archive.org/stream/fameconfessionof00vaug#page/8)
 
 - [Spain](/english?word=Spain)
 - [Inditia](/latin?word=Inditia)
@@ -79,7 +79,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Philosophy](/english?word=Philosophy)
 - [Axiomata](/latin?word=Axiomata)
 
-### [p.9](https://archive.org/stream/fameconfessionof00vaug#page/9/mode/2up)
+### [p.9](https://archive.org/stream/fameconfessionof00vaug#page/9)
 
 - [Axiomata](/english?word=Axiomata)
 - [Nature](/english?word=Nature)
@@ -87,7 +87,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Arabians](/english?word=Arabians)
 - [Europe](/english?word=Europe)
 
-### [p.10](https://archive.org/stream/fameconfessionof00vaug#page/10/mode/2up)
+### [p.10](https://archive.org/stream/fameconfessionof00vaug#page/10)
 
 - [Trygono igneo](/latin?word=Trygono+igneo)
 - [Theophrastus](/english?word=Theophrastus)
@@ -96,14 +96,14 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Nature](/english?word=Nature)
 - [Harmonia](/latin?word=Harmonia)
 
-### [p.11](https://archive.org/stream/fameconfessionof00vaug#page/11/mode/2up)
+### [p.11](https://archive.org/stream/fameconfessionof00vaug#page/11)
 
 - [C. R.](/english?word=C.R.)
 - [Germany](/english?word=Germany)
 - [Mathematicks](/english?word=Mathematicks)
 - [ex omnibus hujus artis partibus](/english?word=ex+omnibus+hujus+artis+partibus)
 
-### [p.12](https://archive.org/stream/fameconfessionof00vaug#page/12/mode/2up)
+### [p.12](https://archive.org/stream/fameconfessionof00vaug#page/12)
 
 - [G. V.](/english?word=G.V.)
 - [I. A.](/english?word=I.A.)
@@ -111,7 +111,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Rosie Cross](/english?word=Rosie+Cross)
 - [M](/english?word=M)
 
-### [p.13](https://archive.org/stream/fameconfessionof00vaug#page/13/mode/2up)
+### [p.13](https://archive.org/stream/fameconfessionof00vaug#page/13)
 
 - [Sancti spiritus](/latin?word=Sancti+spiritus)
 - [R. C.](/english?word=R.C.)
@@ -125,13 +125,13 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Fiat](/latin?word=Fiat)
 - [Pereat](/latin?word=Pereat)
 
-### [p.14](https://archive.org/stream/fameconfessionof00vaug#page/14/mode/2up)
+### [p.14](https://archive.org/stream/fameconfessionof00vaug#page/14)
 
 - [Mahomet](/english?word=Mahomet)
 - [Axiomata](/latin?word=Axiomata)
 - [gratis](/latin?word=gratis)
 
-### [p.15](https://archive.org/stream/fameconfessionof00vaug#page/15/mode/2up)
+### [p.15](https://archive.org/stream/fameconfessionof00vaug#page/15)
 
 - [S. Spiritus](/latin?word=S.Spiritus)
 - [C. R.](/english?word=C.R.)
@@ -140,7 +140,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Fra: R. C](/latin?word=Fra+R.C.)
 - [I. O.](/english?word=I.O.)
 
-### [p.16](https://archive.org/stream/fameconfessionof00vaug#page/16/mode/2up)
+### [p.16](https://archive.org/stream/fameconfessionof00vaug#page/16)
 
 - [England](/english?word=England)
 - [I. O.](/english?word=I.O.)
@@ -149,7 +149,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [H.](/english?word=H.)
 - [Norfolk](/english?word=Norfolk)
 
-### [p.17](https://archive.org/stream/fameconfessionof00vaug#page/17/mode/2up)
+### [p.17](https://archive.org/stream/fameconfessionof00vaug#page/17)
 
 - [M](/english?word=M)
 - [pattern](/english?word=pattern)
@@ -158,7 +158,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [I. O.](/english?word=I.O.)
 - [R. C.](/english?word=R.C.)
 
-### [p.18](https://archive.org/stream/fameconfessionof00vaug#page/18/mode/2up)
+### [p.18](https://archive.org/stream/fameconfessionof00vaug#page/18)
 
 - [R. C.](/english?word=R.C.)
 - [100](100)
@@ -169,7 +169,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Rota Mundi](/latin?word=Rota+Mundi)
 - [Protheus](/english?word=Protheus)
 
-### [p.19](https://archive.org/stream/fameconfessionof00vaug#page/19/mode/2up)
+### [p.19](https://archive.org/stream/fameconfessionof00vaug#page/19)
 
 - [Fra. C. R.  C.](/latin?word=Fra.C.R.C.)
 - [A.](/english?word=A.)
@@ -180,19 +180,19 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Fortunatus](/latin?word=Fortunatus)
 - [Architect](/english?word=Architect)
 
-### [p.20](https://archive.org/stream/fameconfessionof00vaug#page/20/mode/2up)
+### [p.20](https://archive.org/stream/fameconfessionof00vaug#page/20)
 
 - [Fra: R. C.](/latin?word=Fra:R.C.)
 - [Post 120 annos patebo](/latin?word=Post+120+annos+patebo)
 - [Rotam](/latin?word=Rotam)
 
-### [p.21](https://archive.org/stream/fameconfessionof00vaug#page/21/mode/2up)
+### [p.21](https://archive.org/stream/fameconfessionof00vaug#page/21)
 
 - [Europe](/english?word=Europe)
 - [A.C. R.C. Hoc universi compendium unius mihi sepulchrum feci.](/latin?word=A.C.R.C.+Hoc+universi+compendium+unius+mihi+sepulchrum+feci.)
 - [Iesus mihi omnia](/latin?word=Iesus+mihi+omnia)
 
-### [p.22](https://archive.org/stream/fameconfessionof00vaug#page/22/mode/2up)
+### [p.22](https://archive.org/stream/fameconfessionof00vaug#page/22)
 
 - [Nequaquam Vacuum](/latin?word=Nequaquam+Vacuum)
 - [Legis Iugum](/latin?word=Legis+Iugum)
@@ -201,14 +201,14 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Heptagoni](/latin?word=Heptagoni)
 - [Concentratum](/latin?word=Concentratum)
 
-### [p.23](https://archive.org/stream/fameconfessionof00vaug#page/23/mode/2up)
+### [p.23](https://archive.org/stream/fameconfessionof00vaug#page/23)
 
 - [Vocabular](/latin?word=Vocabular)
 - [Theoph: Par. Ho.](/english?word=Theoph+Par.Ho.)
 - [Itinerarium](/latin?word=Itinerarium)
 - [vitam](/latin?word=vitam)
 
-### [p.24](https://archive.org/stream/fameconfessionof00vaug#page/24/mode/2up)
+### [p.24](https://archive.org/stream/fameconfessionof00vaug#page/24)
 
 - [Elogium](/latin?word=Elogium)
 
@@ -216,7 +216,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 
 > C. Ros. C. ex nobili atque splendida Germainiae R. C. familia oriundus, vir sui seculi divinis revelationibus, subtilissimis imaginationibus, indefessis laboribus, ad coelestia atque humana mysteria, arcanaue admissus, postquam suam (quam Arabico & Africano itineribus Collegerat) plusquam regiam atque imperatoriam Gazam suo seculo nondum convenientem, posteritati eruendam custodivisset & jam suarum Artium, ut & nominis, fides acconjunctissimos herides, instituisset, mundum minutum omnibus motibus magno illi respondentem fabricasset, hocque tandem preteritarum, praesentium, & futurarum rerum compendio extracto,
 
-### [p.25](https://archive.org/stream/fameconfessionof00vaug#page/25/mode/2up)
+### [p.25](https://archive.org/stream/fameconfessionof00vaug#page/25)
 
 > centenario major non morbo (quem ipse nunquam corpore expertus erat, nunquam alios, infestare sinebat) ullo pellente sed spiritu Dei evocante, illuminatam animam (inter Fratrum amplexus & ultima oscula) fidelissimo creatori Deo reddidisset, Pater dilectissimus, Fra: suavissimus, praeceptor fidelissimus amicus integerimus, a suis ad 120 annos hic absconditus est.
 
@@ -234,7 +234,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 
 > Ex Deo nascimur, in Iesu morimur, per spiritum sanctum reviviscimus.
 
-### [p.26](https://archive.org/stream/fameconfessionof00vaug#page/26/mode/2up)
+### [p.26](https://archive.org/stream/fameconfessionof00vaug#page/26)
 
 - [I. O.](/english?word=I.O.)
 - [Fra: D.](/latin?word=Fra+D.)
@@ -244,7 +244,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Famam](/latin?word=Famam)
 - [Rota](/latin?word=Rota)
 
-### [p.27](https://archive.org/stream/fameconfessionof00vaug#page/27/mode/2up)
+### [p.27](https://archive.org/stream/fameconfessionof00vaug#page/27)
 
 - [M.](/english?word=M.)
 - [M. P.](/english?word=M.P.)
@@ -253,7 +253,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Philosophical Canons](/english?word=Philosophical+Canons)
 - [R. C.](/english?word=R.C.)
 
-### [p.28](https://archive.org/stream/fameconfessionof00vaug#page/28/mode/2up)
+### [p.28](https://archive.org/stream/fameconfessionof00vaug#page/28)
 
 - [Germany](/english?word=Germany)
 - [Formes](/english?word=Formes)
@@ -264,7 +264,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Fortuna](/latin?word=Fortuna)
 - [Philosophy](/english?word=Philosophy)
 
-### [p.29](https://archive.org/stream/fameconfessionof00vaug#page/29/mode/2up)
+### [p.29](https://archive.org/stream/fameconfessionof00vaug#page/29)
 
 - [Adam](/english?word=Adam)
 - [fall](/english?word=fall)
@@ -281,7 +281,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Bible](/english?word=Bible)
 - [Gold-making](/english?word=Gold-making)
 
-### [p.30](https://archive.org/stream/fameconfessionof00vaug#page/30/mode/2up)
+### [p.30](https://archive.org/stream/fameconfessionof00vaug#page/30)
 
 - [fastigium](/english?word=fastigium)
 - [Philosophy](/english?word=Philosophy)
@@ -290,7 +290,7 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [R. C. C. Phy: aurum nisi quantum aurum](/latin?word=R.C.C.Phy+aurum+nisi+quantum+aurum)
 - [Chymia](/latin?word=Chymia)
 
-### [p.31](https://archive.org/stream/fameconfessionof00vaug#page/31/mode/2up)
+### [p.31](https://archive.org/stream/fameconfessionof00vaug#page/31)
 
 - [Contumeliam gloriae Dei](/latin?word=Contumeliam+gloriae+Dei)
 - [Fra: C. R. C.](/english?word=Fra:C.R.C.)
@@ -300,11 +300,11 @@ From [Fama Fraternitatis (Thomas Vaughan)](https://archive.org/stream/fameconfes
 - [Communicato consilio](/latin?word=Communicato+consilio)
 - [singulatim](/latin?word=singulatim)
 
-### [p.32](https://archive.org/stream/fameconfessionof00vaug#page/32/mode/2up)
+### [p.32](https://archive.org/stream/fameconfessionof00vaug#page/32)
 
 - [sub umbra alarum tuarum Iehova](/latin?word=sub+umbra+alarum+tuarum+Iehova)
 
-### [p.33](https://archive.org/stream/fameconfessionof00vaug#page/33/mode/2up)
+### [p.33](https://archive.org/stream/fameconfessionof00vaug#page/33)
 
 - [Pope](/english?word=Pope)
 - [Rome](/english?word=Rome)

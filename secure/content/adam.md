@@ -17,7 +17,7 @@ See also [45](45)
 
 > > *"...the hieroglyphic meaning, which Moses allows nevertheless, to be understood in the same verse, and to wich he makes allusion, by causeing the same noun, which is singular, to govern the future plural verb יודו: quite contrary to the rule which he had followed, of making the noun of the Being of Beings אלהים which is plural, govern always the singular verb. The hieroglyphic root of the name Adam, אדם is אד, which composed of the sign of unitary, principiant power, and that of divisibility, offers the image of a relative unity, such as might be expressed, for example, by means of the simple although compound number 10. The root number being endowed with the collective sign Mem, assumes an unlimited development: that is to say, the symbolic number 10, being taken to represent the root אד, the sign Mem will develop its progressive power to infinity, as 10; 100; 1,000; etc."*
 
-> [[Hebrew Tongue Restored p. 56-59](https://archive.org/stream/hebraictongueres00fabriala#page/56/mode/2up)]
+> [[Hebrew Tongue Restored p. 56-59](https://archive.org/stream/hebraictongueres00fabriala#page/56)]
 
 > According to Gaskell, Adam is its higher aspect is *"a symbol of the divine nature of humanity-the archetypal man of the three higher planes"* and in its lower aspect, *"a symbol of the lower mind, energies from the desire plane, but receptive of impression from the higher nature. This is the fallen mind (Adam)."* [Dictionary of all Scriptures and Myths, pp. 22-23]
 

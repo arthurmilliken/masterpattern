@@ -1,8 +1,8 @@
 ## Fama Fraternitatis (German) - Gematria Notes
 
-From the German edition: [Fama Fraternitatis (German)](https://archive.org/stream/famafraternitati00andr#page/n0/mode/2up)
+From the German edition: [Fama Fraternitatis (German)](https://archive.org/stream/famafraternitati00andr#page/n0)
 
-### [p.13](https://archive.org/stream/famafraternitati00andr#page/n17/mode/2up)
+### [p.13](https://archive.org/stream/famafraternitati00andr#page/n17)
 
 - FAMA FRATERNITATIS
 - R.C.
@@ -10,7 +10,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fraternitet
 - Famam
 
-### [p.14](https://archive.org/stream/famafraternitati00andr#page/14/mode/2up)
+### [p.14](https://archive.org/stream/famafraternitati00andr#page/14)
 
 - Fama Fraternit.
 - Ingenia
@@ -19,7 +19,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - librum Naturae
 - regulam
 
-### [p.15](https://archive.org/stream/famafraternitati00andr#page/15/mode/2up)
+### [p.15](https://archive.org/stream/famafraternitati00andr#page/15)
 
 - Aristoteles
 - Galenus
@@ -30,7 +30,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. C. R.
 - Fraternitet
 
-### [p.16](https://archive.org/stream/famafraternitati00andr#page/16/mode/2up)
+### [p.16](https://archive.org/stream/famafraternitati00andr#page/16)
 
 - Fama Fratern.
 - P. A. L.
@@ -38,11 +38,11 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Ingenium
 - Fr. C. R, C.
 
-### [p.17](https://archive.org/stream/famafraternitati00andr#page/17/mode/2up)
+### [p.17](https://archive.org/stream/famafraternitati00andr#page/17)
 
 - librum M.
 
-### [p.18](https://archive.org/stream/famafraternitati00andr#page/18/mode/2up)
+### [p.18](https://archive.org/stream/famafraternitati00andr#page/18)
 
 - Fama Fraternit.
 - (AE)gypten
@@ -54,14 +54,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Medicis
 - Philosophis
 
-### [p.19](https://archive.org/stream/famafraternitati00andr#page/19/mode/2up)
+### [p.19](https://archive.org/stream/famafraternitati00andr#page/19)
 
 - Magia
 - Cabala
 - Harmonia concordir(t?)
 - periodis seculorum
 
-### [p.20](https://archive.org/stream/famafraternitati00andr#page/20/mode/2up)
+### [p.20](https://archive.org/stream/famafraternitati00andr#page/20)
 
 - Fama Fraternit.
 - Fr. R. C.
@@ -70,7 +70,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Europa
 - Studia
 
-### [p.21](https://archive.org/stream/famafraternitati00andr#page/21/mode/2up)
+### [p.21](https://archive.org/stream/famafraternitati00andr#page/21)
 
 - Hispania
 - artibus
@@ -81,7 +81,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Philosophia
 - axiomata
 
-### [p.22](https://archive.org/stream/famafraternitati00andr#page/22/mode/2up)
+### [p.22](https://archive.org/stream/famafraternitati00andr#page/22)
 
 - Fama Fraternit.
 - axiomata
@@ -91,7 +91,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Societet(?)
 - propositis
 
-### [p.23](https://archive.org/stream/famafraternitati00andr#page/23/mode/2up)
+### [p.23](https://archive.org/stream/famafraternitati00andr#page/23)
 
 - Trigono igneo
 - Theophrastus
@@ -99,14 +99,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Ingenium
 - Harmonia
 
-### [p.24](https://archive.org/stream/famafraternitati00andr#page/24/mode/2up)
+### [p.24](https://archive.org/stream/famafraternitati00andr#page/24)
 
 - Fama Fraternit.
 - Fr. C. R.
 - de transmutatione metallorum
 - Philp(o?)sophiam ruminirte
 
-### [p.25](https://archive.org/stream/famafraternitati00andr#page/25/mode/2up)
+### [p.25](https://archive.org/stream/famafraternitati00andr#page/25)
 
 - Memorial
 - ex omnibus huius artis partibus
@@ -114,14 +114,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. I. A.
 - Fr. I. O.
 
-### [p.26](https://archive.org/stream/famafraternitati00andr#page/26/mode/2up)
+### [p.26](https://archive.org/stream/famafraternitati00andr#page/26)
 
 - Fama Fraternit.
 - Vocabulario
 - Sancti Spiritus
 - Fr. R.C.
 
-### [p.27](https://archive.org/stream/famafraternitati00andr#page/27/mode/2up)
+### [p.27](https://archive.org/stream/famafraternitati00andr#page/27)
 
 - Fr. B.
 - G. G.
@@ -133,14 +133,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fiat
 - Pereat
 
-### [p.28](https://archive.org/stream/famafraternitati00andr#page/28/mode/2up)
+### [p.28](https://archive.org/stream/famafraternitati00andr#page/28)
 
 - Fama Fraternit.
 - Discurs
 - Axiomata
 - Profession
 
-### [p.29](https://archive.org/stream/famafraternitati00andr#page/29/mode/2up)
+### [p.29](https://archive.org/stream/famafraternitati00andr#page/29)
 
 - C.
 - S. Spiritus
@@ -149,7 +149,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. R. C.
 - Fr. I: O.
 
-### [p.30](https://archive.org/stream/famafraternitati00andr#page/30/mode/2up)
+### [p.30](https://archive.org/stream/famafraternitati00andr#page/30)
 
 - Fama Fraternit.
 - Machina
@@ -157,14 +157,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - I.O.
 - Fr. C.
 
-### [p.31](https://archive.org/stream/famafraternitati00andr#page/31/mode/2up)
+### [p.31](https://archive.org/stream/famafraternitati00andr#page/31)
 
 - Cabala
 - successore
 - imaginem
 - 37.
 
-### [p.32](https://archive.org/stream/famafraternitati00andr#page/32/mode/2up)
+### [p.32](https://archive.org/stream/famafraternitati00andr#page/32)
 - Fama Fraternit.
 - mysteria
 - Europa
@@ -173,7 +173,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - A.
 - D. Successor
 
-### [p.33](https://archive.org/stream/famafraternitati00andr#page/33/mode/2up)
+### [p.33](https://archive.org/stream/famafraternitati00andr#page/33)
 
 - 100
 - A.
@@ -185,7 +185,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. R. C.
 - injungiret
 
-### [p.34](https://archive.org/stream/famafraternitati00andr#page/34/mode/2up)
+### [p.34](https://archive.org/stream/famafraternitati00andr#page/34)
 
 - Fama Fraternit.
 - Fr. C. R. G.
@@ -194,19 +194,19 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - (s)olenne Fidei & filentij Iuramentum praestiren
 - Fortunatus
 
-### [p.35](https://archive.org/stream/famafraternitati00andr#page/35/mode/2up)
+### [p.35](https://archive.org/stream/famafraternitati00andr#page/35)
 
 - Renovatur
 - Fr. R. C.
 - Incrustation
 
-### [p.36](https://archive.org/stream/famafraternitati00andr#page/36/mode/2up)
+### [p.36](https://archive.org/stream/famafraternitati00andr#page/36)
 
 - Fama Fraternit.
 - Post CXX. Annos Patebo.
 - Europae
 
-### [p.37](https://archive.org/stream/famafraternitati00andr#page/37/mode/2up)
+### [p.37](https://archive.org/stream/famafraternitati00andr#page/37)
 
 - Centro
 - A.C.R.C. Hoc universi compendium unius mihi sepulchrum feci.
@@ -216,14 +216,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Libertas Evangelij,
 - Dei gloria intacta.
 
-### [p.38](https://archive.org/stream/famafraternitati00andr#page/38/mode/2up)
+### [p.38](https://archive.org/stream/famafraternitati00andr#page/38)
 
 - Fama Fraternit.
 - Centro
 - Sententien
 - Concentratum
 
-### [p.39](https://archive.org/stream/famafraternitati00andr#page/39/mode/2up)
+### [p.39](https://archive.org/stream/famafraternitati00andr#page/39)
 
 - prostituiren
 - antidoto
@@ -231,7 +231,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Itinerarium
 - Vitam
 
-### [p.40](https://archive.org/stream/famafraternitati00andr#page/40/mode/2up)
+### [p.40](https://archive.org/stream/famafraternitati00andr#page/40)
 
 - Fama Fraternit.
 - restituiren
@@ -239,11 +239,11 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Elogium
 - Granum pectori Iesu insitum
 
-### [p.41](https://archive.org/stream/famafraternitati00andr#page/41/mode/2up)
+### [p.41](https://archive.org/stream/famafraternitati00andr#page/41)
 
 > C. Ros. C. ex nobili atque splendida Germainiae R. C. familia oriundus, Vir sui seculi divinis revelationibus, subtilissimis imaginationibus, indefessis laboribus, ad coelestia atque humana mysteria, arcanaue admissus, postquam suam (quam Arabico & Affricano itineribus) collegerat, plusquam regiam aut imperatoriam Gazam, suo seculo nondum convenientem, posteritati eruendam custodivisset, & jam suarum artium, ut & nominis, fidos ac conjunctissimos haeredes, instituisset, mundum minutum, omnibus motibus magno illi respondentem fabricasset, hocque tandem praeteritarum, praesentium & futurum rerum compendio extracto, centenario major, non morbo (quem ipse nunquam corpore expertus erat, nunquam alios, infestare sinebat) ullo pellente, sed Spiritu Dei evocante, illuminatam animam (inter fratrum amplexus & vltima oscula) Creatori Deo reddidisset, Pater dilectissimus,
 
-### [p.42](https://archive.org/stream/famafraternitati00andr#page/42/mode/2up)
+### [p.42](https://archive.org/stream/famafraternitati00andr#page/42)
 
 > Fr. suavissimus, Praeceptor fidelissimus, amicus integerrimus, a suis ad 120. annos hic absconditus est.
 
@@ -261,12 +261,12 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Fr. I. O.
 - Fr. D.
 
-### [p.43](https://archive.org/stream/famafraternitati00andr#page/43/mode/2up)
+### [p.43](https://archive.org/stream/famafraternitati00andr#page/43)
 
 - minutum mundum
 - Famam
 
-### [p.44](https://archive.org/stream/famafraternitati00andr#page/44/mode/2up)
+### [p.44](https://archive.org/stream/famafraternitati00andr#page/44)
 
 - Fama Fraternit.
 - Rotae
@@ -275,14 +275,14 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - ludicium
 - divini & humani
 
-### [p.45](https://archive.org/stream/famafraternitati00andr#page/45/mode/2up)
+### [p.45](https://archive.org/stream/famafraternitati00andr#page/45)
 
 - Fr R. C.
 - Canons
 - Phrasibus
 - Ceremonijs
 
-### [p.46](https://archive.org/stream/famafraternitati00andr#page/46/mode/2up)
+### [p.46](https://archive.org/stream/famafraternitati00andr#page/46)
 
 - Fama Fraternit.
 - Quartam Monarchiam
@@ -291,7 +291,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Philosophia
 - Iesu ex omni parte
 
-### [p.47](https://archive.org/stream/famafraternitati00andr#page/47/mode/2up)
+### [p.47](https://archive.org/stream/famafraternitati00andr#page/47)
 
 - membris
 - Hoc per Philosophiam verum est, sed per Theologiam falsum
@@ -303,7 +303,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - globus
 - Centro
 
-### [p.48](https://archive.org/stream/famafraternitati00andr#page/48/mode/2up)
+### [p.48](https://archive.org/stream/famafraternitati00andr#page/48)
 
 - Fama Fraternit.
 - mutatio metallarum
@@ -316,7 +316,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - aurum, nisi quantum aurum
 - (Solar Symbol)
 
-### [p.49](https://archive.org/stream/famafraternitati00andr#page/49/mode/2up)
+### [p.49](https://archive.org/stream/famafraternitati00andr#page/49)
 
 - Contumeliam gloriae Dei
 - Catalogum
@@ -325,7 +325,7 @@ From the German edition: [Fama Fraternitatis (German)](https://archive.org/strea
 - Famam
 - communicato consilio
 
-### [p.50](https://archive.org/stream/famafraternitati00andr#page/50/mode/2up)
+### [p.50](https://archive.org/stream/famafraternitati00andr#page/50)
 
 - singulatim
 - Iudicium

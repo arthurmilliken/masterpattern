@@ -13,7 +13,7 @@ See Also: [86](86).
 
 > > *"However that may be, the Hebraic name Elohim has been obviously composed of the pronoun אל and absolute verb, הוה, to be being... It is from the inmost root of this verb that the divine name יה [Yah](/keys/IH), is founded, the literal meaning of which is Absolute-Life. The verb itself, united to pronoun אל, produces אלוה, [Eloah](/keys/ALVH), That-He-who-is, the plural of which Aelohim, signifies exactly HE-they-who-are: The Being of Beings.*
 
-> > *"The Samaritan says Alah, whose root אל is found still in the Arabic Allah, and in the Syariac Aeloha. The Chaladic alone depicts from this root and translates ייי [Iaii](/keys/III), the Eternity of Eternities, which is also applied to the Ineffable Name of God, יהוה...also of the words שמים, The Heavens, and ארץ, the earth."* [[Hebrew Tongue Restored (Cosmogony of Moses) p. 28](https://archive.org/stream/hebraictongueres00fabriala#page/28/mode/2up)]
+> > *"The Samaritan says Alah, whose root אל is found still in the Arabic Allah, and in the Syariac Aeloha. The Chaladic alone depicts from this root and translates ייי [Iaii](/keys/III), the Eternity of Eternities, which is also applied to the Ineffable Name of God, יהוה...also of the words שמים, The Heavens, and ארץ, the earth."* [[Hebrew Tongue Restored (Cosmogony of Moses) p. 28](https://archive.org/stream/hebraictongueres00fabriala#page/28)]
 
 > F.J. Mayers adds:
 
