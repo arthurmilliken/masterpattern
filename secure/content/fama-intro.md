@@ -55,13 +55,16 @@
 > Those who are true Disciples of [Wisdom](/english?word=Wisdom), and true Followers of the [Spherical Art](/english?word=Spherical+Art), will consider better of these things, and have them in greater estimation, as also judg far otherwise of them, as hath been done by some principal Persons, but especially of [Adam Haselmeyer](/english?word=Adam+Haselmeyer), [Notarius Publicus](/latin?word=Notarius+Publicus) to the Arch Duke [Max-](/english?word=Max)
 
 *([p.20](https://archive.org/stream/fameconfessionof00vaug#page/n20))*
-*([Fama Intro p.20](https://archive.org/stream/fameconfessionof00vaug#page/n20))*
 
 > [Maximilian](/english?word=Maximilian), who likewise hath made an Extract [ex scriptis Theologicis Theophrasti](/latin?word=ex+scriptis+Theologicis+Theophrasti), and written a Treatise under the Title of [Jesuiter](/english?word=Jesuiter), wherein he willeth, that every Christian should be a true Jesuit, that is, to walk, live, be, and remain in [Jesus](/english?word=Jesus): he was but ill rewarded of the Jesuits, because in his Answer written upon the [Famam](/latin?word=Famam), he did name those of the [Fraternity](/english?word=Fraternity) of the [Rosie Cross](/english?word=Rosie+Cross), [The highly illuminated men, and undeceiving Jesuits](/english?word=The+highly+illuminated+men,+and+undeceiving+Jesuits); for they not able to brook this, layd hands on him, and put him into the [Calleis](/english?word=Calleis), for which they likewise have to expect their reward.
 
-*([p.21-22](https://archive.org/stream/fameconfessionof00vaug#page/n21))*
+*([p.21](https://archive.org/stream/fameconfessionof00vaug#page/n21))*
 
-> Blessed [Aurora](/english?word=Aurora) will now henceforth begin to appear, who (after the passing away of the dark Night of [Saturn](/english?word=Saturn)) with her Brightness altogether extinguisheth the shining of the Moon, or the small Sparks of Heavenly [Wisdom](/english?word=Wisdom), which yet remaineth with men, and is a Forerunner of pleasant [Phebus](/english?word=Phebus), who whith his clear and fiery glistering Beams brings forth that blessed Day, long wished for, of many true-hearted; by which Day-light then shall truly be known, and shall be seen all heavenly Tresures of godly Wisdom, as also the Secrets of all hidden and unvisible things in the World, according to the Doctrine of our Forefathers, and ancient Wisemen.
+> Blessed [Aurora](/english?word=Aurora) will now henceforth begin to appear, who (after the passing away of the dark Night of [Saturn](/english?word=Saturn)) with her Brightness altogether extinguisheth the shining of the Moon, or the small Sparks of Heavenly [Wisdom](/english?word=Wisdom), which yet remaineth with men, and is a Forerunner of pleasant [Phebus](/english?word=Phebus), who whith his clear and fiery glistering Beams brings forth that blessed Day, long wished for, of many true-hearted; by which Day-light then shall truly be known, and shall be seen all heavenly Tresures of godly Wisdom, as also the Secrets of all hidden and unvisible things in the World, according to the Doctrine
+
+*([p.22](https://archive.org/stream/fameconfessionof00vaug#page/n22))*
+
+> Doctrine of our Forefathers, and ancient Wisemen.
 
 > This will be the right kingly [Ruby](/english?word=Ruby), and most excellent shining [Carbuncle](/english?word=Carbuncle), of the which it is said, That he doth shine and give light in darkness, and to be a perfect Medicine of all imperfect Bodies, and to change them into the best Gold, and to cure all Diseases of Men, easing them of all pains and miseries.
 
