@@ -16,7 +16,7 @@ const PORT = app.locals.port = parseInt(process.env.PORT, 10) || 8080;
 
 app.use(cookieSession({
   secret: process.env.SECRET || 'S3KR1T_P455W0RD',
-  maxAge: 846000000, // 10 days
+  maxAge: (24 * 60 * 60 * 1000) * 10, // 10 days
 }));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());

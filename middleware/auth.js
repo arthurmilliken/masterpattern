@@ -1,3 +1,4 @@
+const debug = require('debug')('off:masterpattern:app');
 const express = require('express');
 const urlencode = require('urlencode');
 
@@ -11,12 +12,15 @@ module.exports = function () {
   });
 
   router.post('/login', (req, res) => {
+    debug(`/login:post: ${req.body.password}`);
     if (req.body.password !== process.env.PASSWORD) {
       res.locals.errors = ['incorrect password.'];
       res.locals.redirect = req.body.redirect;
       res.render('login');
     } else {
       req.session.user = 'admin';
+      debug(`auth:session.user: ${req.session.user}`);
+      debug(`auth:redirect: ${req.body.redirect}`);
       res.redirect(req.body.redirect || '/');
     }
   });
@@ -27,6 +31,8 @@ module.exports = function () {
   });
 
   router.use((req, res, next) => {
+    debug(`auth:session.user: ${req.session.user}`);
+    debug(`auth:path: ${req.path}`);
     if (!req.session.user && req.path !== '/login') {
       res.redirect('/login?redirect=' + urlencode(req.originalUrl));
     } else next();
