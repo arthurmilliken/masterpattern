@@ -4,7 +4,8 @@
   "description": "the first rule of masterpattern...",
   "main": "app.js",
   "scripts": {
-    "start": "node .",
+    "start": "node_modules/.bin/forever start .",
+    "stop": "node_modules/.bin/forever stop .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "switch": "node switch-deck",
     "switch-deck": "node switch-deck"
@@ -29,6 +30,7 @@
     "dotenv": "^4.0.0",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
+    "forever": "^0.15.3",
     "lodash": "^4.17.4",
     "markdown": "^0.5.0",
     "ncp": "^2.0.0",
