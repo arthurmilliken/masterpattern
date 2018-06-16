@@ -1,4 +1,4 @@
-const debug = require('debug')('off:masterpattern:app');
+const debug = require('debug')('off:masterpattern:app'); // remove 'off:' to activate logging.
 const express = require('express');
 const urlencode = require('urlencode');
 
@@ -31,6 +31,7 @@ module.exports = function () {
   });
 
   router.use((req, res, next) => {
+    if (process.env.SKIP_AUTH == 'true') return next();
     debug(`auth:session.user: ${req.session.user}`);
     debug(`auth:path: ${req.path}`);
     if (!req.session.user && req.path !== '/login') {

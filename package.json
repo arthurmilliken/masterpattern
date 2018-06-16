@@ -4,8 +4,8 @@
   "description": "the first rule of masterpattern...",
   "main": "app.js",
   "scripts": {
+    "app": "node .",
     "start": "npm i;node app.js",
-    "stop": "node_modules/.bin/forever stop app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "switch": "node switch-deck",
     "switch-deck": "node switch-deck"
