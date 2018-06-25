@@ -13,7 +13,6 @@
 > Although the rude World herewith will be but little pleased, but rather smile and scoff thereat; also the Pride and Covetousness of the Learned is so great, it will not suffer them to agree together; but were they united, they might out of all those things which in this our Age God doth so richly bestow upon us, collect [Librum Naturae](/latin?word=Librum+Naturae), or a perfect Method of all Arts: but such is their opposition, that they still keep, and are loth to leave the old course, esteeming [Porphiry](/english?word=Porphiry), [Aristotle](/english?word=Aristotle), and [Galen](/english?word=Galen), yea and that which
 
 ([p.3](https://archive.org/stream/fameconfessionof00vaug#page/3))
-*([Fama p.3](https://archive.org/stream/fameconfessionof00vaug#page/3))*
 
 > which hath but a meer shew of learning, more then the clear and manifested Light and Truth; who if they were now living, with much joy would leave their erroneous Doctrines. But here is too great weaknesses for such a great Work: And although in [Theologie](/english?word=Theologie), [Physic](/english?word=Physic), and the [Mathematic](/english?word=Mathematic), the Truth doth oppose it self; nevertheless the old Enemy by his subtilty and craft doth shew himself in hindering every good purpose by his Instruments and contentious wavering people. To such an intent of a general Reformation, the most godly and highly illuminated Father, our Brother, [C.R.](/english?word=C.R.) a German, the chief and original of our Fraternity, hath much and long time laboured, who by reason of his poverty (although descended of Noble Parents) in the fifth year of his age was placed in a Cloyster, where he had learned indifferently the [Greek](/english?word=Greek) and [Latin](/english?word=Latin) Tongues, who (upon his earnest desire and request) being yet in his growing years, was associated to a Brother, [P.A.L.](/english?word=P.A.L.) who had determined to go to the Holy Land.
 
@@ -22,15 +21,8 @@
 ([p.4](https://archive.org/stream/fameconfessionof00vaug#page/4))
 *([Fama p.4](https://archive.org/stream/fameconfessionof00vaug#page/4))*
 
-> and so never came to Jerusalem, yet our Brother C.R. did not return, but shipped himself over, and went to Damasco, minding from thence to go to Jerusalem; but by reason of the feebleness of his body he remained still there, and by his skill in Physick he obtained much favour with the Turks: In the mean time he became by chance acquainted with the Wise men of Damasco in Arabia, and beheld what great Wonders they wrought, and how Nature was discovered unto them; hereby was that high and noble Spirit of Brother C.R. so stired up, that Jerusalem was not so much now in his mind as Damasco; also he could not bridle his desires any longer, but made a bargain with the Arabians, that they should carry him for a certain sum of money to Damasco; he was but of the age of sixteen years when he came thither, yet of a strong Dutch constitution; there the Wise received him (as he himself witnessseth) not as a stranger, but as one whom they had long expected, they called him by his name, and shewed him other secrets out of his Cloyster, whereat he could not but mightily wonder
+> and so never came to [Jerusalem](/english?word=Jerusalem), yet our Brother [C. R.](/english?word=C.R.) did not return, but shipped himself over, and went to [Damasco](/english?word=Damasco), minding from thence to go to [Jerusalem](/english?word=Jerusalem); but by reason of the feebleness of his body he remained still there, and by his skill in Physick he obtained much favour with the [Turks](/english?word=Turks): In the mean time he became by chance acquainted with the Wise men of [Damasco](/english?word=Damasco) in [Arabia](/english?word=Arabia), and beheld what great Wonders they wrought, and how [Nature](/english?word=Nature) was discovered unto them; hereby was that high and noble Spirit of Brother [C. R.](/english?word=C.R.) so stired up, that [Jerusalem](/english?word=Jerusalem) was not so much now in his mind as [Damasco](/english?word=Damasco); also he could not bridle his desires any longer, but made a bargain with the [Arabians](/english?word=Arabians), that they should carry him for a certain sum of money to [Damasco](/english?word=Damasco); he was but of the age of sixteen years when he came thither, yet of a strong Dutch constitution; there the Wise received him (as he himself witnessseth) not as a stranger, but as one whom they had long expected, they called him by his name, and shewed him other secrets out of his Cloyster, whereat he could not but mightily wonder
 
-- [Jerusalem](/english?word=Jerusalem)
-- [C. R.](/english?word=C.R.)
-- [Damasco](/english?word=Damasco)
-- [Turks](/english?word=Turks)
-- [Arabia](/english?word=Arabia)
-- [Nature](/english?word=Nature)
-- [Arabians](/english?word=Arabians)
 
 ### [p.5](https://archive.org/stream/fameconfessionof00vaug#page/5)
 
