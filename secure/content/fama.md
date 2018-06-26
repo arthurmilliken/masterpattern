@@ -19,26 +19,17 @@
 > Although this Brother dyed in [Ciprus](/english?word=Ciprus), and
 
 ([p.4](https://archive.org/stream/fameconfessionof00vaug#page/4))
-*([Fama p.4](https://archive.org/stream/fameconfessionof00vaug#page/4))*
 
 > and so never came to [Jerusalem](/english?word=Jerusalem), yet our Brother [C. R.](/english?word=C.R.) did not return, but shipped himself over, and went to [Damasco](/english?word=Damasco), minding from thence to go to [Jerusalem](/english?word=Jerusalem); but by reason of the feebleness of his body he remained still there, and by his skill in Physick he obtained much favour with the [Turks](/english?word=Turks): In the mean time he became by chance acquainted with the Wise men of [Damasco](/english?word=Damasco) in [Arabia](/english?word=Arabia), and beheld what great Wonders they wrought, and how [Nature](/english?word=Nature) was discovered unto them; hereby was that high and noble Spirit of Brother [C. R.](/english?word=C.R.) so stired up, that [Jerusalem](/english?word=Jerusalem) was not so much now in his mind as [Damasco](/english?word=Damasco); also he could not bridle his desires any longer, but made a bargain with the [Arabians](/english?word=Arabians), that they should carry him for a certain sum of money to [Damasco](/english?word=Damasco); he was but of the age of sixteen years when he came thither, yet of a strong Dutch constitution; there the Wise received him (as he himself witnessseth) not as a stranger, but as one whom they had long expected, they called him by his name, and shewed him other secrets out of his Cloyster, whereat he could not but mightily wonder
 
 
-### [p.5](https://archive.org/stream/fameconfessionof00vaug#page/5)
+([p.5](https://archive.org/stream/fameconfessionof00vaug#page/5))
+*([Fama p.5](https://archive.org/stream/fameconfessionof00vaug#page/5))*
 
-> wonder: He learned there better the Arabian Tongue; so that the year following he translated the Book M. into good Latin, which he afterwards brought with him. This is the place where he did learn his Physick, and his Mathematicks, whereof the World hath just cause to rejoyce, if there were more Love, and less Envy. After three years he returned again with good consent, shipped himself over Sinus Arabicus into Egypt, where he remained not long, but only took better notice there of the Plants and Creatures; he sailed over the whole Mediterranean Sea for to come unto Fez, where the Arabians had directed him. And it is a great shame unto us, that wise men, so far remote th’one from th’other, should not only be of one opinion, hating all contentious Writings, but also be so willing and ready under the seal of secrecy to impart their secrets to others.
 
-> Every year the Arabians and Affricans do send one to another, inquiring one of another out of their Arts, if happily they had found out some better things, or if Experience had weakened their Rea-sons
+> wonder: He learned there better the [Arabian](/english?word=Arabian) Tongue; so that the year following he translated the Book [M.](/english?word=M.) into good [Latin](/english?word=Latin), which he afterwards brought with him. This is the place where he did learn his Physick, and his Mathematicks, whereof the World hath just cause to rejoyce, if there were more Love, and less Envy. After three years he returned again with good consent, shipped himself over [Sinus Arabicus](/latin?word=Sinus+Arabicus) into [Egypt](/english?word=Egypt), where he remained not long, but only took better notice there of the Plants and Creatures; he sailed over the whole [Mediterranean](/english?word=Mediterranean) Sea for to come unto [Fez](/english?word=Fez), where the [Arabians](/english?word=Arabians) had directed him. And it is a great shame unto us, that wise men, so far remote th’one from th’other, should not only be of one opinion, hating all contentious Writings, but also be so willing and ready under the seal of secrecy to impart their secrets to others.
 
-- [Arabian](/english?word=Arabian)
-- [M.](/english?word=M.)
-- [Latin](/english?word=Latin)
-- [Sinus Arabicus](/latin?word=Sinus+Arabicus)
-- [Egypt](/english?word=Egypt)
-- [Mediterranean](/english?word=Mediterranean)
-- [Fez](/english?word=Fez)
-- [Arabians](/english?word=Arabians)
-- [Affricans](/english?word=Affricans)
+> Every year the [Arabians](/english?word=Arabians) and [Affricans](/english?word=Affricans) do send one to another, inquiring one of another out of their Arts, if happily they had found out some better things, or if Experience had weakened their Rea-sons
 
 ### [p.6](https://archive.org/stream/fameconfessionof00vaug#page/6)
 
