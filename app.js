@@ -6,6 +6,8 @@ const bodyParser = require('body-parser');
 const cookieSession = require('cookie-session');
 const express = require('express');
 const fs = require('fs');
+const http = require('http');
+const https = require('https');
 
 const auth = require('./middleware/auth');
 const ensureSecure = require('./middleware/ensureSecure');
@@ -35,17 +37,16 @@ app.use(express.static('secure'));
 app.set('view engine', 'ejs');
 
 if (PORT_HTTP) {
-  require('http').createServer(app).listen(PORT_HTTP, () => {
+  http.createServer(app).listen(PORT_HTTP, () => {
     debug(`http: listening on port ${PORT_HTTP}`);
   });
 }
 
 if (PORT_HTTPS) {
-  require('https').createServer({
+  https.createServer({
     key: fs.readFileSync(process.env.HTTPS_KEY),
     cert: fs.readFileSync(process.env.HTTPS_CERT),
   }, app).listen(PORT_HTTPS, () => {
     debug(`https: listening on port ${PORT_HTTPS}`);
   });
 }
-
