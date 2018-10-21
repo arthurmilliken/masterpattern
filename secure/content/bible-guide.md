@@ -3,7 +3,7 @@ My guide to the Bible:
 
 - Introduction
 	- The Ten Commandments([Exodus 20](https://www.biblegateway.com/passage/?search=Exodus+20&version=AKJV))
-	- The Greatest Commandment ([Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=AKJV))
+	- The Greatest Commandment ([Mark 12:28-34](https://www.biblegateway.com/passage/?search=Mark+12%3A28-34&version=AKJV))
 	- The Sermon on the Mount ([Matthew 5-7](https://www.biblegateway.com/passage/?search=matthew+5-7&version=AKJV))
 - The Gospel of Luke
 - The Books of Moses
