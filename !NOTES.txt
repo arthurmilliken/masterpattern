@@ -2,10 +2,10 @@
 
 [Bible Hub](http://biblehub.com//.htm)
 
+- [Bible Wheel: 888](https://www.biblewheel.com//GR/GR_Database.php?SearchBy_Gematria=888)
+
 [Bible Gateway - Genesis 47:13-25](https://www.biblegateway.com/passage/?search=Genesis+47%3A13-25&version=AKJV;WLC)
 [Bible Gateway - Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark+12%3A28-31&version=AKJV;SBLGNT)
-
-[Bible Wheel: 888](https://www.biblewheel.com//GR/GR_Database.php?SearchBy_Gematria=888)
 [Blue Letter Bible](https://www.blueletterbible.org/)
 
 [The Hebrew Tongue Restored](https://archive.org/stream/hebraictongueres00fabriala)
@@ -22,3 +22,4 @@ Voynich Manuscript:
  - [Aries](https://archive.org/stream/TheVoynichManuscript/Voynich_Manuscript#page/n127/mode/2up)
  - [Saggitarius, the Lady Machine](https://archive.org/stream/TheVoynichManuscript/Voynich_Manuscript#page/n133/mode/2up
  - [Roots](https://archive.org/stream/TheVoynichManuscript/Voynich_Manuscript#page/n173/mode/2up)
+
