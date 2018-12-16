@@ -27,4 +27,15 @@ See also [45](45)
 
 > F.J. Mayers observes: *"Let us return again for a moment to the name Adam and note its hieroglyphic construction. א [Aleph] as we know denotes anything primal -- the first cause; potentiality -- God. ד [Daleth] is the sign of multiplication, abundance; final ם [Mem] is the sign of unlimited plurality. The name Adam therefore means the one becoming many. But as a spiritual being, Adam was only One. As we said in speaking of the groupsouls, a spiritual conception, a species or genus cannot, as such, multiply. It can only multiply in the number of individuals comprised in it, and this multiplication can only take place on the physical plane... We have now, the explanation of Adam being both singular and plural, him and them; and both male and female. see #[390](390). In his singular aspect he was the human principle, the soul or essence of humanity. As a spiritual unity Adam was sexless, but sex was a necessity of multiplication in the physical realm -- and in the physical realm alone... [in Genesis 2:7](http://biblehub.com/genesis/2-7.htm) what we are told of now is still a spiritual act, the formation of a spiritual being in the spiritual realm, but eternal to the essential being of God. The Adam still has no physical or material form of existence. He was formed not of the dust of the earth or of any earthy substance, but from the [Adamah](/keys/ADMH) . see #[50](50). The spiritual elements of humanity, of the qualities and attributes that constitute man a kingdom of being in himself or a link between the sub-human and divinity."* [The Unknown God, pp. 90, 121](http://www.organelle.org/as/aschap13.htm)
 
+- [Leviticus 13:2](https://biblehub.com/leviticus/13-2.htm): *"When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests"*
+- [Job 37:7](https://biblehub.com/job/37-7.htm): *"He sealeth up the hand of every man; that all men may know his work"*
+- [Psalm 49:20](https://biblehub.com/psalms/49-20.htm): *"Man that is in honour, and understandeth not, is like the beasts that perish"*
+- [Proverbs 6:12](https://biblehub.com/proverbs/6-12.htm): *"A naughty person, a wicked man, walketh with a froward mouth"*
+- [Proverbs 12:23](https://biblehub.com/proverbs/12-23.htm): *"A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness"*
+- [Proverbs 17:18](https://biblehub.com/proverbs/17-18.htm): *"A man void of understanding striketh hands, and becometh surety in the presence of his friend"*
+- [Proverbs 21:16](https://biblehub.com/proverbs/21-16.htm): *"The man that wandereth out of the way of understanding shall remain in the congregation of the dead"*
+- [Ezekiel 1:8](https://biblehub.com/ezekiel/1-8.htm): *"And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings"*
+
+---
+
 ### See also [45](45)

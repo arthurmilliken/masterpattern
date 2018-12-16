@@ -25,15 +25,9 @@ module.exports = function (router) {
     entry = entry.replace(/.md$/, '');
     let name = entry;
     const num = parseInt(entry, 10);
-    if (num !== NaN) name = `Gematria: ${name}`
-    if (num < 10) {
-      entry = `0-9/${entry}`;
-    } else if (num < 100) {
-      entry = `10-99/${entry}`;
-    } else if (num < 1000) {
-      entry = `100-999/${entry}`;
-    } else if (num < 10000) {
-      entry = `1000-9999/${entry}`;
+    if (num !== NaN) {
+      name = `Gematria: ${name}`;
+      entry = `gematria/${entry}`;
     }
     renderContent(entry, name, res);
   });
