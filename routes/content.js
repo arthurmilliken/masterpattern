@@ -25,7 +25,7 @@ module.exports = function (router) {
     entry = entry.replace(/.md$/, '');
     let name = entry;
     const num = parseInt(entry, 10);
-    if (num !== NaN) {
+    if (!isNaN(num)) {
       name = `Gematria: ${name}`;
       entry = `gematria/${entry}`;
     }
