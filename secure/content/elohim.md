@@ -1,5 +1,5 @@
 ## [Elohim](/keys/ALHIM) - אלהים
-See Also: [86](86).
+See Also: [86](86), [646](646).
 
 > Creative Powers, Strengths. The 7-fold Lifebreath.
 
@@ -7,7 +7,7 @@ See Also: [86](86).
 
 > Other meanings: god, Deity, Angels, judge, ruler. In [Daniel 2:44](http://biblehub.com/daniel/2-44.htm), it is written [Eloah Shemiah](387), **אלה שמיא**, "God of Heaven". see [387](387).
 
-> According to Fabre D'Olivet: 
+> According to Fabre D'Olivet:
 
 > > *"אלהים AElohim.... This is the plural of the word אלה, the name given to the supreme being by the Hebrews and the Chaldeans, and being itself derived from the root אל, which depicts elevation, strength, and expansive power; signifying in a universal sense God. It is a very singular observation that the last word applied to the Most High, is however, in its abstract sense only the relative pronoun he employed in an absolute manner. Nearly all of the Asiatic peoples have used the bold metaphor. הוא (Hoa), that is to say, HE is the Hebrew, Chaladic, Syriac, Ethopic and Arabic, one of the sacred names of the divinity; it is evident that the Persian word Goda, God which is found in all the tongues of the North, is derived also from the absolute pronoun [arabic], HIM-self. It is known that he Greek philosophers and Plato particularly, designated the intelligent cause of the universe in no other way than by the absolute pronoun ρο Αυρο.*
 
@@ -27,4 +27,4 @@ See Also: [86](86).
 
 > The Zohar [I:15B] Comments: *"When, however it [the house, Beth] was sown with seed to make it habitable, it was called Elohim, hidden and mysterious. The Zohar was hidden and withdrawn so long as the building was within and yet to bring forth and the house was extended only so far as to find room for the holy seed. Before it had conceived and had extended sufficiency to be habitable, it was not called Elohim, but all was still included in the term [Bereshith](/keys/BRAShITh) [[913](913)]. After it had acquired the name Elohim, it brought forth offspring from the seed that had been implanted in it."* (p. 64)
 
-### See Also: [86](86).
+### See Also: [86](86), [646](646).

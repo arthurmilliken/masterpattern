@@ -333,3 +333,4 @@ tarot.Th = tarot.tav;
 
 tarot[' '] = tarot._;
 // tarot['-'] = tarot['־'];
+
