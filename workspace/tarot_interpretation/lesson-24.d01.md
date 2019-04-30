@@ -8,6 +8,10 @@ The keys are:
 - 13
 -  3
 
+The vision of my joyous destiny is even now perceived by my true Self, That Self directs the alchemical operation which transmutes my personality into a more adequate vehicle of its manifestation. In the field of my personal life it reaps the harvest of Yesterday and sows the seed of Tomorrow. MY EARTHLY LIFE TODAY IS THE REALIZATION OF HEAVENLY PATTERNS.
+
+---
+
 "I utter myself by seeing," says The Book of Tokens, and in practical occultism we must remember always that the Heavenly Vision is the real cause of the Earthly Appearance. This physical universe is the embodiment of the mental seeing which is an essential quality of the Fiery Intelligence, pictured by the Tarot Fool. Not yet do we share that vision, for it is beheld at a level which to us is superconscious. Yet we are assured by the wise that the Spirit of Life in us is now and always the Seer of that glorious Beyond which looms up to inconceivable heights, transcending the utmost yet attained by humanity. (Key 0).
 
 This Seer is with us always. It is the genius represented by Key 14. From it we derive all our aspirations. From it comes not only the impulse to advance, but also the power to go ahead. For the One Seer is the One Actor also, and from that One's action all our deeds are derived (Key 14).
@@ -32,6 +36,10 @@ TAKEN IN REVERSE, the keys are:
 - 13
 - 14
 -  0
+
+My earthly life today is the realization of heavenly patterns. In the field of my personal life it reaps the harvest of Yesterday and sows the seed of Tomorrow. My true Self directs the alchemical operation which transmutes my personality into a more adequate vehicle of its manifestation. THE VISION OF MY JOYOUS DESTINY IS EVEN NOW PERCEIVED BY MY TRUE SELF.
+
+---
 
 The seed sown springs up in the rich fruitage of ideas and forms suggested by the ripening grain at the feet of the Empress. Even so, among the letters we are now considering, does Daleth, symbol of the womb, precedes Nun, which has for centuries upon centuries represented the Martian, phallic, masculine power. Thus our first Key corresponds to the fruitful mother, Venus. It is related psychologically to the creative function of subconsciousness (Key 3).
 

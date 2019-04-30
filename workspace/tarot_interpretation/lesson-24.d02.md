@@ -43,4 +43,4 @@ The conjoined powers of Venus and Saturn are represented by the final Key in the
 
 ---
 
-MEDITATION: Keys 7, 6, 5, 11. All power is given me of my Father in Heaven. Consciously and subconsciously, I am in harmony with my true Self. I hear and obey the Inner Voice. TODAY I LIVE THE LAW.
+MEDITATION: Keys 8, 6, 5, 11. All power is given me of my Father in Heaven. Consciously and subconsciously, I am in harmony with my true Self. I hear and obey the Inner Voice. TODAY I LIVE THE LAW.
