@@ -8,7 +8,7 @@ The Keys are:
 - 5
 - 0
 
-I fear no evil. For this day’s experience is part of the manifestation of a perfect order. Let me hear the Vrice that expounds its true meaning. LET ME SHARE NOW IN THE HEAVENLY VISION.
+I fear no evil. For this day’s experience is part of the manifestation of a perfect order. Let me hear the Voice that expounds its true meaning. LET ME SHARE NOW IN THE HEAVENLY VISION.
 
 ---
 
@@ -22,7 +22,7 @@ Venus, again, as ruler of the formative and image-making power of subconsciousne
 
 ---
 
-MEDITATIONS: Keys 15, 10, 5, 0. I fear no evil. For this day’s experience is part of the manifestation of a perfect order. Let me hear the Vrice that expounds its true meaning. LET ME SHARE NOW IN THE HEAVENLY VISION.
+MEDITATION  : Keys 15, 10, 5, 0. I fear no evil. For this day’s experience is part of the manifestation of a perfect order. Let me hear the Voice that expounds its true meaning. LET ME SHARE NOW IN THE HEAVENLY VISION.
 
 ---
 
@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 - 10
 - 15
 
-Let me share now in the heavenly vision. Let me hear the Vrice that expounds its true meaning. For this day’s experience is part of the manifestation of a perfect order. I FEAR NO EVIL.
+Let me share now in the heavenly vision. Let me hear the Voice that expounds its true meaning. For this day’s experience is part of the manifestation of a perfect order. I FEAR NO EVIL.
 
 ---
 
@@ -47,4 +47,4 @@ This may sound almost too easy, but we must remember that the great Masters all 
 
 ---
 
-MEDITATIONS: Keys 0, 5, 10, 15. Let me share now in the heavenly vision. Let me hear the Vrice that expounds its true meaning. For this day’s experience is part of the manifestation of a perfect order. I FEAR NO EVIL.
+MEDITATION: Keys 0, 5, 10, 15. Let me share now in the heavenly vision. Let me hear the Voice that expounds its true meaning. For this day’s experience is part of the manifestation of a perfect order. I FEAR NO EVIL.
