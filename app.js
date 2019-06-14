@@ -1,7 +1,7 @@
 global.Promise = require('bluebird');
 require('dotenv').config();
 
-const debug = require('debug')('masterpattern:app');
+const debug = require('debug')('masterpattern');
 const bodyParser = require('body-parser');
 const cookieSession = require('cookie-session');
 const express = require('express');
@@ -16,13 +16,6 @@ const routes = require('./routes');
 const app = express();
 
 const PORT_HTTP = parseInt(process.env.PORT_HTTP, 10) || null;
-const PORT_HTTPS = parseInt(process.env.PORT_HTTPS, 10) || null;
-const ENSURE_HTTPS = (process.env.ENSURE_HTTPS || 'false')
-  .trim().toLowerCase() === 'true';
-
-if (ENSURE_HTTPS) {
-  app.use(ensureSecure());
-}
 
 app.use(cookieSession({
   secret: process.env.SECRET || 'S3KR1T_P455W0RD',
@@ -42,11 +35,17 @@ if (PORT_HTTP) {
   });
 }
 
-if (PORT_HTTPS) {
-  https.createServer({
-    key: fs.readFileSync(process.env.HTTPS_KEY),
-    cert: fs.readFileSync(process.env.HTTPS_CERT),
-  }, app).listen(PORT_HTTPS, () => {
-    debug(`https: listening on port ${PORT_HTTPS}`);
-  });
-}
+// const PORT_HTTPS = parseInt(process.env.PORT_HTTPS, 10) || null;
+// const ENSURE_HTTPS = (process.env.ENSURE_HTTPS || 'false')
+//   .trim().toLowerCase() === 'true';
+// if (ENSURE_HTTPS) {
+//   app.use(ensureSecure());
+// }
+// if (PORT_HTTPS) {
+//   https.createServer({
+//     key: fs.readFileSync(process.env.HTTPS_KEY),
+//     cert: fs.readFileSync(process.env.HTTPS_CERT),
+//   }, app).listen(PORT_HTTPS, () => {
+//     debug(`https: listening on port ${PORT_HTTPS}`);
+//   });
+// }

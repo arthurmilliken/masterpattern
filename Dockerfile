@@ -1,6 +1,5 @@
-FROM arthurmilliken/node-dev
-USER root
+FROM node:8
 VOLUME /opt/src
 WORKDIR /opt/src
 EXPOSE 8080
-CMD npm i;npm start
+CMD npm i;npm run local
