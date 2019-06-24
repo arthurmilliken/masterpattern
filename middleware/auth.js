@@ -1,4 +1,4 @@
-const debug = require('debug')('off:masterpattern:app:auth'); // remove 'off:' to activate logging.
+const debug = require('debug')('off:masterpattern'); // remove 'off:' to activate logging.
 const express = require('express');
 const urlencode = require('urlencode');
 

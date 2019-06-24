@@ -1,22 +1,26 @@
 const express = require('express');
 
+const card = require('./card');
 const color = require('./color');
 const content = require('./content');
 const greek = require('./greek');
 const keys = require('./keys');
 const latin = require('./latin');
 const english = require('./english');
+const swap = require('./swap');
 const tattva = require('./tattva');
 
 module.exports = function (options) {
   const router = express.Router();
 
+  card(router, options);
   color(router, options);
   content(router, options);
   greek(router, options);
   keys(router, options);
   latin(router, options);
   english(router, options);
+  swap(router, options);
   tattva(router, options);
 
   const simpleView = (view, title) => {

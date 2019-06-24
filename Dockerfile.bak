@@ -1,9 +1,0 @@
-FROM node:8
-ENV PORT_HTTP 8080
-WORKDIR /opt/src
-COPY package*.json ./
-RUN npm install
-COPY . .
-EXPOSE 8080
-ENV DEBUG masterpattern
-CMD [ "npm", "run", "local" ]

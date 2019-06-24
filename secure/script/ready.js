@@ -12,7 +12,8 @@ var keys = {
 		'key': 0,
 		'name': 'The Fool',
 		'bw': '/img/323x522_bw/0-the-fool.png',
-		'color': '/img/323x522/0-the-fool.png',
+		'color': '/card/A',
+		'filename': '0-the-fool.png',
 		'letter-value': 1,
 		'letter-value-final': 1000,
 	},
@@ -20,70 +21,80 @@ var keys = {
 		'key': 1,
 		'name': 'The Magician',
 		'bw': '/img/323x522_bw/1-the-magician.png',
-		'color': '/img/323x522/1-the-magician.png',
+		'color': '/card/B',
+		'filename': '1-the-magician.png',
 		'letter-value': 2,
 	},
 	'gimel': {
 		'key': 2,
 		'name': 'High Priestess',
 		'bw': '/img/323x522_bw/2-high-priestess.png',
-		'color': '/img/323x522/2-high-priestess.png',
+		'color': '/card/G',
+		'filename': '2-high-priestess.png',
 		'letter-value': 3,
 	},
 	'daleth': {
 		'key': 3,
 		'name': 'The Empress',
 		'bw': '/img/323x522_bw/3-the-empress.png',
-		'color': '/img/323x522/3-the-empress.png',
+		'color': '/card/D',
+		'filename': '3-the-empress.png',
 		'letter-value': 4,
 	},
 	'heh': {
 		'key': 4,
 		'name': 'The Emperor',
 		'bw': '/img/323x522_bw/4-the-emperor.png',
-		'color': '/img/323x522/4-the-emperor.png',
+		'color': '/card/H',
+		'filename': '4-the-emperor.png',
 		'letter-value': 5,
 	},
 	'vav': {
 		'key': 5,
 		'name': 'Hierophant',
 		'bw': '/img/323x522_bw/5-hierophant.png',
-		'color': '/img/323x522/5-hierophant.png',
+		'color': '/card/V',
+		'filename': '5-hierophant.png',
 		'letter-value': 6,
 	},
 	'zain': {
 		'key': 6,
 		'name': 'The Lovers',
 		'bw': '/img/323x522_bw/6-the-lovers.png',
-		'color': '/img/323x522/6-the-lovers.png',
+		'color': '/card/Z',
+		'filename': '6-the-lovers.png',
 		'letter-value': 7,
 	},
 	'cheth': {
 		'key': 7,
 		'name': 'The Chariot',
 		'bw': '/img/323x522_bw/7-the-chariot.png',
-		'color': '/img/323x522/7-the-chariot.png',
+		'color': '/card/Ch',
+		'filename': '7-the-chariot.png',
 		'letter-value': 8,
 	},
 	'teth': {
 		'key': 8,
 		'name': 'Strength',
 		'bw': '/img/323x522_bw/8-strength.png',
-		'color': '/img/323x522/8-strength.png',
+		'color': '/card/T',
+		'filename': '8-strength.png',
 		'letter-value': 9,
 	},
 	'yod': {
 		'key': 9,
 		'name': 'The Hermit',
 		'bw': '/img/323x522_bw/9-the-hermit.png',
-		'color': '/img/323x522/9-the-hermit.png',
+		'color': '/card/I',
+		'filename': '9-the-hermit.png',
 		'letter-value': 10,
 	},
 	'kaph': {
 		'key': 10,
 		'name': 'Wheel of Fortune',
 		'bw': '/img/323x522_bw/10-wheel-of-fortune.png',
-		'color': '/img/323x522/10-wheel-of-fortune.png',
+		'color': '/card/K',
+		'filename': '10-wheel-of-fortune.png',
 		'letter-value': 20,
 		'letter-value-final': 500,
 	},
@@ -91,14 +102,16 @@ var keys = {
 		'key': 11,
 		'name': 'Justice',
 		'bw': '/img/323x522_bw/11-justice.png',
-		'color': '/img/323x522/11-justice.png',
+		'color': '/card/L',
+		'filename': '11-justice.png',
 		'letter-value': 30,
 	},
 	'mem': {
 		'key': 12,
 		'name': 'Hanged Man',
 		'bw': '/img/323x522_bw/12-hanged-man.png',
-		'color': '/img/323x522/12-hanged-man.png',
+		'color': '/card/M',
+		'filename': '12-hanged-man.png',
 		'letter-value': 40,
 		'letter-value-final': 600,
 	},
@@ -106,7 +119,8 @@ var keys = {
 		'key': 13,
 		'name': 'Death',
 		'bw': '/img/323x522_bw/13-death.png',
-		'color': '/img/323x522/13-death.png',
+		'color': '/card/N',
+		'filename': '13-death.png',
 		'letter-value': 50,
 		'letter-value-final': 700,
 	},
@@ -114,21 +128,24 @@ var keys = {
 		'key': 14,
 		'name': 'Temperance',
 		'bw': '/img/323x522_bw/14-temperance.png',
-		'color': '/img/323x522/14-temperance.png',
+		'color': '/card/S',
+		'filename': '14-temperance.png',
 		'letter-value': 60,
 	},
 	'ayin': {
 		'key': 15,
 		'name': 'The Devil',
 		'bw': '/img/323x522_bw/15-the-devil.png',
-		'color': '/img/323x522/15-the-devil.png',
+		'color': '/card/O',
+		'filename': '15-the-devil.png',
 		'letter-value': 70,
 	},
 	'peh': {
 		'key': 16,
 		'name': 'The Tower',
 		'bw': '/img/323x522_bw/16-the-tower.png',
-		'color': '/img/323x522/16-the-tower.png',
+		'color': '/card/P',
+		'filename': '16-the-tower.png',
 		'letter-value': 80,
 		'letter-value-final': 800,
 	},
@@ -136,7 +153,8 @@ var keys = {
 		'key': 17,
 		'name': 'The Star',
 		'bw': '/img/323x522_bw/17-the-star.png',
-		'color': '/img/323x522/17-the-star.png',
+		'color': '/card/Tz',
+		'filename': '17-the-star.png',
 		'letter-value': 90,
 		'letter-value-final': 900,
 	},
@@ -144,28 +162,32 @@ var keys = {
 		'key': 18,
 		'name': 'The Moon',
 		'bw': '/img/323x522_bw/18-the-moon.png',
-		'color': '/img/323x522/18-the-moon.png',
+		'color': '/card/Q',
+		'filename': '18-the-moon.png',
 		'letter-value': 100,
 	},
 	'resh': {
 		'key': 19,
 		'name': 'The Sun',
 		'bw': '/img/323x522_bw/19-the-sun.png',
-		'color': '/img/323x522/19-the-sun.png',
+		'color': '/card/R',
+		'filename': '19-the-sun.png',
 		'letter-value': 200,
 	},
 	'shin': {
 		'key': 20,
 		'name': 'Judgement',
 		'bw': '/img/323x522_bw/20-judgement.png',
-		'color': '/img/323x522/20-judgement.png',
+		'color': '/card/Sh',
+		'filename': '20-judgement.png',
 		'letter-value': 300,
 	},
 	'tav': {
 		'key': 21,
 		'name': 'The World',
 		'bw': '/img/323x522_bw/21-the-world.png',
-		'color': '/img/323x522/21-the-world.png',
+		'color': '/card/Th',
+		'filename': '21-the-world.png',
 		'letter-value': 400,
 	},
 };
@@ -357,31 +379,6 @@ $(function () {
 		var text = $('#text').val();
 
 		var result = text
-		// .replace(/Th/g, 'Θ')
-		// .replace(/Ph/g, 'Φ')
-		// .replace(/Ch/g, 'Χ')
-		// .replace(/Ps/g, 'Ψ')
-		// .replace(/ O/g, ' Ω')
-		// .replace(/^O/g, 'Ω')
-		// .replace(/A/g,  'Α')
-		// .replace(/B/g,  'Β')
-		// .replace(/G/g,  'Γ')
-		// .replace(/D/g,  'Δ')
-		// .replace(/E/g,  'Ε')
-		// .replace(/Z/g,  'Ζ')
-		// .replace(/H/g,  'Η')
-		// .replace(/I/g,  'Ι')
-		// .replace(/K/g,  'Κ')
-		// .replace(/L/g,  'Λ')
-		// .replace(/M/g,  'Μ')
-		// .replace(/N/g,  'Ν')
-		// .replace(/X/g,  'Ξ')
-		// .replace(/O/g,  'Ο')
-		// .replace(/P/g,  'Π')
-		// .replace(/R/g,  'Ρ')
-		// .replace(/S/g,  'Σ')
-		// .replace(/T/g,  'Τ')
-		// .replace(/U/g,  'Υ')
 		.replace(/s /g, 'ς ')
 		.replace(/s$/g, 'ς')
 		.replace(/th/g, 'θ')
@@ -412,31 +409,6 @@ $(function () {
 		$('#result').val(result);
 
 		var spelled = text
-		// .replace(/Th/g, 'theta ')
-		// .replace(/Ph/g, 'phi ')
-		// .replace(/Ch/g, 'chi ')
-		// .replace(/Ps/g, 'psi ')
-		// .replace(/ O/g, 'omega ')
-		// .replace(/^O/g, 'omega ')
-		// .replace(/A/g,  'alpha ')
-		// .replace(/B/g,  'beta ')
-		// .replace(/G/g,  'gamma ')
-		// .replace(/D/g,  'delta ')
-		// .replace(/E/g,  'epsilon ')
-		// .replace(/Z/g,  'zeta ')
-		// .replace(/H/g,  'eta ')
-		// .replace(/I/g,  'iota ')
-		// .replace(/K/g,  'kappa ')
-		// .replace(/L/g,  'lambda ')
-		// .replace(/M/g,  'mu ')
-		// .replace(/N/g,  'nu ')
-		// .replace(/X/g,  'xi ')
-		// .replace(/O/g,  'omicron ')
-		// .replace(/P/g,  'pi ')
-		// .replace(/R/g,  'rho ')
-		// .replace(/S/g,  'sigma ')
-		// .replace(/T/g,  'tau ')
-		// .replace(/U/g,  'upsilon ')
 		.replace(/O/g,  'OMEGA ')
 		.replace(/s /g, 'SIGMA ')
 		.replace(/s$/g, 'SIGMA ')
