@@ -49,12 +49,6 @@ div.word span.color {
 	z-index: 1;
 	display: none;
 }
-.trestleboard li {
-	font-weight: bold;
-	font-style: italic;
-	margin: .5em;
-	padding-left: 1em;
-}
 .hidden {
 	display: none;
 }
