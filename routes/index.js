@@ -35,6 +35,7 @@ module.exports = function (options) {
   simpleView('colors', 'Color and Sound');
   simpleView('psalm119', 'Psalm 119');
   simpleView('tattvas', 'Tattvas');
+  simpleView('greatwork', 'The Great Work');
 
   router.get('/', (req, res) => res.redirect('/home'));
   return router;
