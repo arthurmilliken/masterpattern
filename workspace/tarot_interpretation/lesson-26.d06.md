@@ -8,6 +8,8 @@ The keys are:
 - 11
 - 14
 
+Be Thou my Guide, O Teacher of all teachers! Let me be strong in Thy strength. Let me be faithful in act, in thought, in word. I AM OVERSHADOWED BY THE PROTECTING PRESENCE OF THE ALMIGHTY.
+
 ---
 
 Recall, then, what was said early in this lesson. The beginning of meditation is careful examination of the memory record of your personal existence. Combined with this must be the attitude of listening for the comment of the Inner Voice, as it explains the significance of that record. This must be a daily practice (Key 5).
@@ -30,6 +32,8 @@ TAKEN IN REVERSE, the keys are:
 - 11
 -  8
 -  5
+
+I am overshadowed by the protecting presence of the almighty. Let me be faithful in act, in thought, in word. Let me be strong in Thy strength. BE THOU MY GUIDE, O TEACHER OF ALL TEACHERS!
 
 ---
 

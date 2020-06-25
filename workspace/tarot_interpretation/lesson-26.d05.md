@@ -8,6 +8,8 @@ The keys are:
 -  7
 -  2
 
+Truth itself is the basis of my personal existence. Nothing can separate me from its unfailing support. No slightest detail of my personal life but is a manifestation of Universal Spirit. I REMEMBER MY CREATOR.
+
 ---
 
 Thus when Patanjali says meditation is an unbroken flow of knowledge in a particular object, reflection makes it evident that true meditation is participation in the One Spirit's unbroken flow of knowledge in all things. Really to meditate, then, is to be identified, during meditation, with the Divine Consciousness of some aspect of reality. This, indeed, is why all genuine occult literature lays so much stress on the importance of meditation (Key 17).
@@ -33,6 +35,8 @@ TAKEN IN REVERSE, the keys are:
 - 12
 - 17
 
+I remember my creator. No slightest detail of my personal life but is a manifestation of Universal Spirit. Nothing can separate me from its unfailing support. TRUTH ITSELF IS THE BASIS OF MY PERSONAL EXISTENCE.
+
 ---
 
 "For such an one has, in Samadhi, remembered what he really is, and the glory and power of that recollection manifest themselves" (Key 2)
@@ -48,4 +52,3 @@ Thus when Patanjali says meditation is an unbroken flow of knowledge in a partic
 ---
 
 MEDITATION: Keys 2, 7, 12, 17. I remember my creator. No slightest detail of my personal life but is a manifestation of Universal Spirit. Nothing can separate me from its unfailing support. TRUTH ITSELF IS THE BASIS OF MY PERSONAL EXISTENCE.
-

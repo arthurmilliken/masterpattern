@@ -8,6 +8,8 @@ The keys are:
 - 15
 -  5
 
+I remember today what I really am. This recollection enables me to destroy erroneous mental constructions. I face my problems gladly, for they are my opportunities to demonstrate power. MY LIFE THIS DAY IS A LESSON IN THE MYSTERIES OF THE HIGHER LAW.
+
 ---
 
 The beginning of his faith is in recollection. By careful examination of the memory record of his own personal experience, he learns to discern the operation of law in the events of his life. This careful examination of his own personal past is a regular part of his meditation practice. Every day, he reviews the events of that day, that he may see how the law has been manifest in those events; and he also devotes much time to examining the events of his earlier years, carrying himself back to his earliest memories (Key 2).
@@ -21,7 +23,7 @@ When, in addition to the practice of recollection, he adds the practice of liste
 ---
 
 
-MEDITATION: Keys 2, 16, 15, 5. I remember today what I really am. This recollection enables mo to destroy erroneous mental constructions. I face my problems gladly, for they are my opportunities to demonstrate power. MY LIFE THIS DAY IS A LESSON IN THE MYSTERIES OF THE HIGHER LAW.
+MEDITATION: Keys 2, 16, 15, 5. I remember today what I really am. This recollection enables me to destroy erroneous mental constructions. I face my problems gladly, for they are my opportunities to demonstrate power. MY LIFE THIS DAY IS A LESSON IN THE MYSTERIES OF THE HIGHER LAW.
 
 ---
 
@@ -32,6 +34,8 @@ TAKEN IN REVERSE, the keys are:
 - 16
 -  2
 
+My life this day is a lesson in the mysteries of the higher law. I face my problems gladly, for they are my opportunities to demonstrate power. This recollection enables me to destroy erroneous mental constructions. I REMEMBER TODAY WHAT I REALLY AM.
+
 ---
 
 When, in addition to the practice of recollection, he adds the practice of listening to the Inner Voice, he soon begins to understand how true it is that he has been under guidance, even in those periods of his life when he seemed to be walking in utter darkness (Key 5).
@@ -44,4 +48,4 @@ The beginning of his faith is in recollection. By careful examination of the mem
 
 ---
 
-MEDITATION: Keys 5, 15, 16, 2. My life this day is a lesson in the mysteries of the higher law. I face my problems gladly, for they are my opportunities to demonstrate power. This recollection enables mo to destroy erroneous mental constructions. I REMEMBER TODAY WHAT I REALLY AM.
+MEDITATION: Keys 5, 15, 16, 2. My life this day is a lesson in the mysteries of the higher law. I face my problems gladly, for they are my opportunities to demonstrate power. This recollection enables me to destroy erroneous mental constructions. I REMEMBER TODAY WHAT I REALLY AM.

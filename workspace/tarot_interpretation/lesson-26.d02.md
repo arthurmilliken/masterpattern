@@ -8,6 +8,8 @@ The keys are:
 -  8
 - 10
 
+All transformations of circumstance are for my good. My body and my environment are plastic vehicles for the limitless power and wisdom of Eternal Spirit. They are the out-picturing of my vision of the Self. THE LIFE OF THIS DAY IS A CYCLE OF THE ETERNAL EXISTENCE.
+
 ---
 
 Thus he begins to understand the working of the law of transformation. He learns the futility of the ignorant desire to keep conditions as they are. He sees how the law of eternal progress demands that old forms must give place to new. Thus he comes eventually to discover the mystery of life behind the veil of death, for one certain result of meditation is recovery of definite memories of past incarnations, and once the student has seen for himself that his present life is but one of a series, all fear of death leaves him (Key 13).
@@ -31,6 +33,8 @@ TAKEN IN REVERSE, the keys are:
 -  8
 -  7
 - 13
+
+The life of this day is a cycle of the eternal existence. They are the out-picturing of my vision of the Self. My body and my environment are plastic vehicles for the limitless power and wisdom of Eternal Spirit. ALL TRANSFORMATIONS OF CIRCUMSTANCE ARE FOR MY GOOD.
 
 ---
 
