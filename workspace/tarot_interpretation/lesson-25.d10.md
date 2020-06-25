@@ -33,15 +33,17 @@ TAKEN IN REVERSE, the keys are:
 - 12
 -  1
 
+This day I dissolve all illusion. All Nature and all her forces are my allies. Because I am essentially one with the Source of all existence, all things work together for my good. IT IS MY PREROGATIVE TO BE AN ADMINISTRATOR OF THE COSMIC WILL.
+
 ---
 
-The beginning of such discrimination is the mental attitude the Magician typifies-—continual endeavor to keep in touch with the power source above the conscious level, combined with habitual alertness. This is the fruit of long practice in concentration, directed steadily to watchful consideration of every detail of self-conscious experience (Key 1).
-
-This does not mean, of course, that a true theurgist, or "God-worker," has power to impose on the world around him a pattern which represents only his personal notions of the way he would like things to appear. Rather does it mean that he formulates patterns in accordance with the way things really are. He knows, in short, that he lives in a Universe on which he may depend for every good and perfect gift, and the beginning of all his projects is the recognition of the absolute dependability of the laws and forces of the universe (Key 12).
+Not even death can frighten him, for when he has arrived at this state of consciousness he has made contact with that which is unaffected by any external change whatever. In that contact he finds that even death is an aspect of the activity of the One Self. For the skeleton reaper of Key 13 is, in fact, a representation of the transforming power of that Self, even as the other Keys of the series are representations of other aspects of the same power (Key 13).
 
 The real theurgist is said to tame wild beasts, because he thinks of all the forces in his environment as being essentially friendly to him. For him, Nature is never an enemy, but always an ally (Key 8).
 
-Not even death can frighten him, for when he has arrived at this state of consciousness he has made contact with that which is unaffected by any external change whatever. In that contact he finds that even death is an aspect of the activity of the One Self. For the skeleton reaper of Key 13 is, in fact, a representation of the transforming power of that Self, even as the other Keys of the series are representations of other aspects of the same power (Key 13).
+This does not mean, of course, that a true theurgist, or "God-worker," has power to impose on the world around him a pattern which represents only his personal notions of the way he would like things to appear. Rather does it mean that he formulates patterns in accordance with the way things really are. He knows, in short, that he lives in a Universe on which he may depend for every good and perfect gift, and the beginning of all his projects is the recognition of the absolute dependability of the laws and forces of the universe (Key 12).
+
+The beginning of such discrimination is the mental attitude the Magician typifies-—continual endeavor to keep in touch with the power source above the conscious level, combined with habitual alertness. This is the fruit of long practice in concentration, directed steadily to watchful consideration of every detail of self-conscious experience (Key 1).
 
 ---
 

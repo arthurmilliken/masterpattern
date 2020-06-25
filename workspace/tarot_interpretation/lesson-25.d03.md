@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 - 10
 -  8
 
-All Nature and all her forces are my allies. The motive power of the cosmic mechanism is seated in my heart. I am the incarnate Law. THE WORD OF POWER UTTERS ITSELF WITHIN THE SANCTUARY OF MY INNER LIFE.
+The word of power utters itself within the sanctuary of my inner life. I am the incarnate Law. The motive power of the cosmic mechanism is seated in my heart. ALL NATURE AND ALL HER FORCES ARE MY ALLIES.
 
 ---
 

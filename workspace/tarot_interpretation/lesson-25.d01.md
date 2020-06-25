@@ -8,7 +8,7 @@ The keys are:
 - 14
 -  4
 
-I am a direct agent of the Limitless Life. The world I see is the projection of my own mental patterns. My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. I RULE MY DOMAIN.
+I am a direct agent of the Limitless Life. The world I see is the projection of my own mental patterns. My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. I RULE MY DOMAIN.
 
 ---
 
@@ -22,7 +22,7 @@ Occult practice, in other words, does not confer magic power, nor enable one to 
 
 ---
 
-MEDITATION: Keys 1, 15, 14, 4. I am a direct agent of the Limitless Life. The world I see is the projection of my own mental patterns. My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. I RULE MY DOMAIN.
+MEDITATION: Keys 1, 15, 14, 4. I am a direct agent of the Limitless Life. The world I see is the projection of my own mental patterns. My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. I RULE MY DOMAIN.
 
 ---
 
@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 - 15
 -  1
 
-I rule my domain. My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. The world I see is the projection of my own mental patterns. I AM A DIRECT AGENT OF THE LIMITLESS LIFE.
+I rule my domain. My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. The world I see is the projection of my own mental patterns. I AM A DIRECT AGENT OF THE LIMITLESS LIFE.
 
 ---
 
@@ -47,4 +47,4 @@ Our power comes from above, and so do the higher Forms of knowledge, but it is a
 
 ---
 
-MEDITATION: Keys 4, 14, 15, 1. I rule my domain. My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. The world I see is the projection of my own mental patterns. I AM A DIRECT AGENT OF THE LIMITLESS LIFE.
+MEDITATION: Keys 4, 14, 15, 1. I rule my domain. My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. The world I see is the projection of my own mental patterns. I AM A DIRECT AGENT OF THE LIMITLESS LIFE.

@@ -8,7 +8,7 @@ The keys are:
 - 11
 -  2
 
-My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. My personal volition is not of myself, but is a calm expression of the universal order. I am the incarnate Law. I RECOLLECT MY TRUE PLACE IN THE UNIVERSAL ORDER.
+My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. My personal volition is not of myself, but is a calm expression of the universal order. I am the incarnate Law. I RECOLLECT MY TRUE PLACE IN THE UNIVERSAL ORDER.
 
 ---
 
@@ -22,7 +22,7 @@ Of like import is the parable of the Prodigal Son, where we read that he "came t
 
 ---
 
-MEDITATION: Keys 14, 7, 11, 2. My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. My personal volition is not of myself, but is a calm expression of the universal order. I am the incarnate Law. I RECOLLECT MY TRUE PLACE IN THE UNIVERSAL ORDER.
+MEDITATION: Keys 14, 7, 11, 2. My true Self transmutes every semblance of adversity into a means for the perfect manifestation of my heart’s desire. My personal volition is not of myself, but is a calm expression of the universal order. I am the incarnate Law. I RECOLLECT MY TRUE PLACE IN THE UNIVERSAL ORDER.
 
 ---
 
@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 -  7
 - 14
 
-I recollect my true place in the universal order. My faith is immovable. It is ever victorious. MY TRUE SELF TRANSMUTES EVERY SEMBLANCE OF ADVERSITY INTO A MOANS FOR THE PERFECT MANIFESTATION OF MY HEART’S DESIRE.
+I recollect my true place in the universal order. My faith is immovable. It is ever victorious. MY TRUE SELF TRANSMUTES EVERY SEMBLANCE OF ADVERSITY INTO A MEANS FOR THE PERFECT MANIFESTATION OF MY HEART’S DESIRE.
 
 ---
 
@@ -47,4 +47,4 @@ Thus the true alchemist-magician looks upon no condition whatever as being reall
 
 ---
 
-MEDITATION: Keys 2, 11, 17, 14. I recollect my true place in the universal order. My faith is immovable. It is ever victorious. MY TRUE SELF TRANSMUTES EVERY SEMBLANCE OF ADVERSITY INTO A MOANS FOR THE PERFECT MANIFESTATION OF MY HEART’S DESIRE.
+MEDITATION: Keys 2, 11, 7, 14. I recollect my true place in the universal order. My faith is immovable. It is ever victorious. MY TRUE SELF TRANSMUTES EVERY SEMBLANCE OF ADVERSITY INTO A MEANS FOR THE PERFECT MANIFESTATION OF MY HEART’S DESIRE.

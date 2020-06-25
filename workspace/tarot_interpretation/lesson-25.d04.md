@@ -8,7 +8,7 @@ The keys are:
 -  2
 - 16
 
-All Nature and all her forces are my allies. The motive power of the cosmic mechanism is seated in my heart. I am the incarnate Law. THE WORD OF POWER UTTERS ITSELF WITHIN THE SANCTUARY OF MY INNER LIFE.
+Today I die to all the delusions of the past. The New Image comes to life in my heart of hearts. I recollect my true place in the universal order. I WAKEN FROM DELUSION.
 
 ---
 

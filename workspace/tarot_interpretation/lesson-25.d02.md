@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 -  6
 - 12
 
-Because I am essentially one with the Source of all existence, all things work together for my good. The elements of my personal consciousness are in harmony with themselves and with the superconscious Life which is their Source. My personal volition is not of myself, but is a calm expression of the universal order. THE LIGHT THAT LIGHTETH EVERY MAN SHINES ON MY PATH TODAY.
+The light that lighteth every man shines on my path today. My personal volition is not of myself, but is a calm expression of the universal order. The elements of my personal consciousness are in harmony with themselves and with the superconscious Life which is their Source. BECAUSE I AM ESSENTIALLY ONE WITH THE SOURCE OF ALL EXISTENCE, ALL THINGS WORK TOGETHER FOR MY GOOD.
 
 ---
 

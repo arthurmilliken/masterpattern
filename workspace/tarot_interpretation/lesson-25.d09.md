@@ -8,7 +8,7 @@ The keys are:
 - 10
 -  3
 
-My true Self transmutes every semblance of adversity into a moans for the perfect manifestation of my heart’s desire. My personal volition is not of myself, but is a calm expression of the universal order. I am the incarnate Law. I RECOLLECT MY TRUE PLACE IN THE UNIVERSAL ORDER.
+The world I see is the projection of my own mental patterns. The elements of my personal consciousness are in harmony with themselves and with the superconscious Life which is their Source. The motive power of the cosmic mechanism is seated in my heart. THE NEW IMAGE COMES TO LIFE IN MY HEART OF HEARTS.
 
 ---
 

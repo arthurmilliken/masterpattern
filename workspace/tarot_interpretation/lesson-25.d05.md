@@ -28,10 +28,10 @@ MEDITATION: Keys 16, 11, 6, 1. I dare to be what I truly am. My faith is immovab
 
 TAKEN IN REVERSE, the keys are:
 
-- 16
-- 11
--  6
 -  1
+-  6
+- 11
+- 16
 
 It is my prerogative to be an administrator of the cosmic will. For I know what must appear as the inevitable consequence of what I have already discovered. My faith is immovable. I DARE TO BE WHAT I TRULY AM.
 

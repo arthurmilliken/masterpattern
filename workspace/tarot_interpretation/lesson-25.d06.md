@@ -51,4 +51,4 @@ Seeing it thus, he so experiences it (Key 4).
 
 ---
 
-MEDITATION: Keys 4, 7, 10, 13. This day I dissolve all illusion. It is even now the master of every condition. It is ever victorious. THE SPIRIT OF LIFE WHICH I AM, RULES ALL THINGS.
+MEDITATION: Keys 13, 10, 7, 4. This day I dissolve all illusion. It is even now the master of every condition. It is ever victorious. THE SPIRIT OF LIFE WHICH I AM, RULES ALL THINGS.
