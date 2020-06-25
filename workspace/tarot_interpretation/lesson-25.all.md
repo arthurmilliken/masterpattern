@@ -40,6 +40,8 @@ Similarly, in various occult schools the initiate adopts a new name representing
 
 Of like import is the parable of the Prodigal Son, where we read that he "came to himself." At the basis of all magical work is recollection of the real meaning and power of the Self (Key 2). The lightning-flash of inspiration which awakens us, and at the same time overthrows our prisons of delusion, is always a flash of this self-recollection. When we remember what we really are, we escape from the bondage of the sense of separateness (Key 16).
 
+---
+
 Nearly always our errors have their roots in fear; and generally these fears are part of the race inheritance. The occult point-of-view is just the reverse of what common sense, so-called, dictates. The fourfold occult maxim runs. KNOW, WILL, DARE, BE SILENT; but the race mind has little courage. Popular proverbs disguise cowardice as prudence, and we are all more or less infected by this poison (Key 16). Absolute faith is indispensable to the practical occultist. Faith established by most careful weighing of evidence, faith arrived at by most careful discrimination (Key 11).
 
 Such faith is established when persistent effort has made subconsciousness a clear mirror, reflecting superconscious knowledge into the field of self-consciousness (Key 6). The beginning of such discrimination is the mental attitude the Magician typifies-—continual endeavor to keep in touch with the power source above the conscious level, combined with habitual alertness. This is the fruit of long practice in concentration, directed steadily to watchful consideration of every detail of self-conscious experience (Key 1).
