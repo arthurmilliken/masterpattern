@@ -8,7 +8,7 @@ The keys are:
 -  5
 - 16
 
-The Spirit of Life which I am, rules all things. It is ever victorious. It is even now the master of every condition. THIS DAY I DISSOLVE ALL ILLUSION.
+I rule my domain. The light that lighteth every man shines on my path today. The word of power utters itself within the sanctuary of my inner life. I WAKEN FROM DELUSION.
 
 ---
 
