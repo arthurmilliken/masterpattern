@@ -15,7 +15,7 @@ const routes = require('./routes');
 
 const app = express();
 
-const PORT_HTTP = parseInt(process.env.PORT_HTTP, 10) || null;
+const PORT_HTTP = parseInt(process.env.PORT_HTTP, 10) || 5000;
 
 app.use(cookieSession({
   secret: process.env.SECRET || 'S3KR1T_P455W0RD',
