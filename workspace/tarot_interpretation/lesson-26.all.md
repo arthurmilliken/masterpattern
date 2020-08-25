@@ -8,7 +8,7 @@ The Tarot tableau for this lesson is:
 	 6  12  11   9
 	17   3   4  14
 
-Its constant summation is 38. Thus the meaning of the twenty possible ways of reading the rows of cards is always represented by Key 11, Justice, considered as the working of the power represented by Key 8 through the agency symbolized by Key 3. This square corresponds also to the third stage of spiritual unfcldment as represented by Key 17.
+Its constant summation is 38. Thus the meaning of the twenty possible ways of reading the rows of cards is always represented by Key 11, Justice, considered as the working of the power represented by Key 8 through the agency symbolized by Key 3. This square corresponds also to the third stage of spiritual unfoldment as represented by Key 17.
 
 Thus we know that the constant significance of this square has to do with the manifestation of the Faithful Intelligence, represented by the letter Lamed and by Key 11. But we know also that the meaning of the square is limited to those aspects of the Faithful Intelligence which are the outcome of the operation of the Intelligence of the Secret of Works (Key 8) through the agency of the Luminous Intelligence (Key 3). We know, too, that the whole tableau must relate to the unveiling of truth in the practice of meditation (Key 17).
 
@@ -20,7 +20,7 @@ Meditation unveils truth, and thus establishes faith. Meditation is also a pract
 
 This is just the opposite to the blind faith which puts up petitions to a God who is supposed to be susceptible to flattery. To ask God to ward off calamity, to plead with Him for special favors, is invariably to pray amiss. For such prayer assumes that He is the author of calamity, or that He is capricious.
 
-To be sure, occult doctrine agrees with the prophet Isaiah in declaring that the One Lifepower is the source of all conditions, including those we call evil. Certain it is, also, that the prayer of faith is answered, even though’ 4 the God to whom it is addressed be wrongly conceived.
+To be sure, occult doctrine agrees with the prophet Isaiah in declaring that the One Life-Power is the source of all conditions, including those we call evil. Certain it is, also, that the prayer of faith is answered, even though’ 4 the God to whom it is addressed be wrongly conceived.
 
 No one who has given thoughtful attention to this subject can fail to be impressed by the incidents in the life of such a man as George Mueller, who conducted several orphanages in England on the assumption that God answers prayer. Yet an occult student would find it difficult to believe in the actual existence of a God such as the one to whom George Mueller addressed his prayers.
 
@@ -58,7 +58,7 @@ Recall, then, what was said early in this lesson. The beginning of meditation is
 
 MEDITATIONS
 
-FIRST DAY: Keys 2, 16, 15, 5. I remember today what I really am. This recollection enables mo to destroy erroneous mental constructions. I face my problems gladly, for they are my opportunities to demonstrate power. MY LIFE THIS DAY IS A LESSON IN THE MYSTERIES OF THE HIGHER LAW.
+FIRST DAY: Keys 2, 16, 15, 5. I remember today what I really am. This recollection enables me to destroy erroneous mental constructions. I face my problems gladly, for they are my opportunities to demonstrate power. MY LIFE THIS DAY IS A LESSON IN THE MYSTERIES OF THE HIGHER LAW.
 
 SECOND DAY: Keys 13, 7, 8, 10. All transformations of circumstance are for my good. My body and my environment are plastic vehicles for the limitless power and wisdom of Eternal Spirit. They are the out-picturing of my vision of the Self. THE LIFE OF THIS DAY IS A CYCLE OF THE ETERNAL EXISTENCE.
 
@@ -66,6 +66,6 @@ THIRD DAY: Keys 9, 11, 12, 6. It is not I who do this day’s work, not I who en
 
 FOURTH DAY: Keys 14, 4, 3, 17. I submit joyfully to the tests this day brings. Through me the Universal Dominion expresses its perfect command of circumstance. It works below the surface of my consciousness to develop more beautiful forms of expression. GOD IN ME UNVEILS HIMSELF TO HIMSELF.
 
-FIFTH DAY: Keys 17, 12, 7, 2. Truth itself is the basis of my personal existence. Nothing can separate mo from its unfailing support. No slightest detail of my personal life but is a manifestation of Universal Spirit. I REMEMBER MY CREATOR.
+FIFTH DAY: Keys 17, 12, 7, 2. Truth itself is the basis of my personal existence. Nothing can separate me from its unfailing support. No slightest detail of my personal life but is a manifestation of Universal Spirit. I REMEMBER MY CREATOR.
 
 SIXTH DAY: Keys 5, 8, 11, 14. Be Thou my Guide, O Teacher of all teachers! Let me be strong in Thy strength. Let me be faithful in act, in thought, in word. I AM OVERSHADOWED BY THE PROTECTING PRESENCE OF THE ALMIGHTY.

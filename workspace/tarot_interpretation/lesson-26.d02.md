@@ -48,4 +48,4 @@ Thus he begins to understand the working of the law of transformation. He learns
 
 ---
 
-MEDITATION: Keys 10, 8, 7, 13. The life of this day is a cycle of the eternal existence. They are the out-picturing of my vision of the Self. My body and my environment are plastic vehicles for the limitless power and wisdom of Eternal Spirit. ALL TRANSFORMATIONS OF CIRCUMSTANCE ARE FOR MY GOOD.
+MEDITATION: Keys 10, 8, 7, 13. The life of this day is a cycle of the eternal existence. It is the out-picturing of my vision of the Self. My body and my environment are plastic vehicles for the limitless power and wisdom of Eternal Spirit. ALL TRANSFORMATIONS OF CIRCUMSTANCE ARE FOR MY GOOD.
