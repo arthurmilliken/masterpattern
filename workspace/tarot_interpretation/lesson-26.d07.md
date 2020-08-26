@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 - 10
 -  5
 
-Truth itself is the basis of my personal existence. Nothing can separate me from its unfailing support. Let me quietly observe the perfect work. The life of this day is a cycle of the eternal existence. BE THOU MY GUIDE, O TEACHER OF ALL TEACHERS!
+Truth itself is the basis of my personal existence. Let me quietly observe the perfect work. The life of this day is a cycle of the eternal existence. BE THOU MY GUIDE, O TEACHER OF ALL TEACHERS!
 
 ---
 
@@ -47,4 +47,4 @@ Recall, then, what was said early in this lesson. The beginning of meditation is
 
 ---
 
-MEDITATION: Keys 17, 6, 10, 5. Truth itself is the basis of my personal existence. Nothing can separate me from its unfailing support. Let me quietly observe the perfect work. The life of this day is a cycle of the eternal existence. BE THOU MY GUIDE, O TEACHER OF ALL TEACHERS!
+MEDITATION: Keys 17, 6, 10, 5. Truth itself is the basis of my personal existence. Let me quietly observe the perfect work. The life of this day is a cycle of the eternal existence. BE THOU MY GUIDE, O TEACHER OF ALL TEACHERS!

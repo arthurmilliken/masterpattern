@@ -8,7 +8,7 @@ The keys are:
 - 12
 -  6
 
-It is not I who do this day’s work, not I who enjoy this day’s pleasures, not I who experience this days difficulties. All these events are part of the balancing of Heaven’s accounts. I am but the witness of the operation. LET ME QUIETLY OBSERVE THE PERFECT WORK.
+It is not I who do this day's work, not I who enjoy this day's pleasures, not I who experience this days difficulties. All these events are part of the balancing of Heaven's accounts. I am but the witness of the operation. LET ME QUIETLY OBSERVE THE PERFECT WORK.
 
 ---
 
@@ -22,7 +22,7 @@ This, of course, does not come all at once. There must be steady practice. The r
 
 ---
 
-MEDITATION: Keys 9, 11, 12, 6. It is not I who do this day’s work, not I who enjoy this day’s pleasures, not I who experience this days difficulties. All these events are part of the balancing of Heaven’s accounts. I am but the witness of the operation. LET ME QUIETLY OBSERVE THE PERFECT WORK.
+MEDITATION: Keys 9, 11, 12, 6. It is not I who do this day's work, not I who enjoy this day's pleasures, not I who experience this days difficulties. All these events are part of the balancing of Heaven's accounts. I am but the witness of the operation. LET ME QUIETLY OBSERVE THE PERFECT WORK.
 
 ---
 
@@ -33,7 +33,7 @@ TAKEN IN REVERSE, the keys are:
 - 11
 -  9
 
-Let me quietly observe the perfect work. I am but the witness of the operation. All these events are part of the balancing of Heaven’s accounts. IT IS NOT I WHO DO THIS DAY’S WORK, NOT I WHO ENJOY THIS DAY’S PLEASURES, NOT I WHO EXPERIENCE THIS DAYS DIFFICULTIES.
+Let me quietly observe the perfect work. I am but the witness of the operation. All these events are part of the balancing of Heaven's accounts. IT IS NOT I WHO DO THIS DAY'S WORK, NOT I WHO ENJOY THIS DAY'S PLEASURES, NOT I WHO EXPERIENCE THIS DAYS DIFFICULTIES.
 
 ---
 
@@ -47,4 +47,4 @@ In the earlier stages of spiritual development there is usually a strong sense o
 
 ---
 
-MEDITATION: Keys 6, 12, 11, 9. Let me quietly observe the perfect work. I am but the witness of the operation. All these events are part of the balancing of Heaven’s accounts. IT IS NOT I WHO DO THIS DAY’S WORK, NOT I WHO ENJOY THIS DAY’S PLEASURES, NOT I WHO EXPERIENCE THIS DAYS DIFFICULTIES.
+MEDITATION: Keys 6, 12, 11, 9. Let me quietly observe the perfect work. I am but the witness of the operation. All these events are part of the balancing of Heaven's accounts. IT IS NOT I WHO DO THIS DAY'S WORK, NOT I WHO ENJOY THIS DAY'S PLEASURES, NOT I WHO EXPERIENCE THIS DAYS DIFFICULTIES.

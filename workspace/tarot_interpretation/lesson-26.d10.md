@@ -20,7 +20,7 @@ In the earlier stages of spiritual development there is usually a strong sense o
 
 It will not escape the attention of the alert student that right meditation is really the work which leads to the Knowledge and Conversation of the Holy Guardian Angel. More, whenever right meditation is established, one perceives that the personal life is, and has been always, an alchemical operation directed by that Angel, That is to say, it is not we who make progress, but rather that our improved state of consciousness, with its accompanying increase in our ability to control the conditions of our environment, is the outcome of the operation of the true Self upon its vehicle, our personality.
 
-There is a hint of this in the words of Jesus: "I, if I be lifted up, will draw all men unto me.” For these words imply the presence of a power superior to the personal man Jesus, and that power, which Jesus called "Father,” is truly the Divine Operator who tempers our personal chemsitry so that we become more suitable vehicles for expressing what It really is (Key 14).
+There is a hint of this in the words of Jesus: "I, if I be lifted up, will draw all men unto me.” For these words imply the presence of a power superior to the personal man Jesus, and that power, which Jesus called "Father,” is truly the Divine Operator who tempers our personal chemistry so that we become more suitable vehicles for expressing what It really is (Key 14).
 
 ---
 
@@ -34,6 +34,8 @@ TAKEN IN REVERSE, the keys are:
 -  9
 - 13
 -  2
+
+I am overshadowed by the protecting presence of the almighty. It is not I who do this day’s work, not I who enjoy this day’s pleasures, not I who experience this days difficulties. All transformations of circumstance are for my good. I REMEMBER MY CREATOR.
 
 ---
 

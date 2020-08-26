@@ -41,7 +41,7 @@ Even the subconscious gestation of mental images, in consequence of which new id
 
 In meditation, the personal mentation, always intermittent and spasmodic, is wholly suspended. Thus a sage in *Samadhi* is in a state of trance; and in the deepest stages the trance is so complete that it counterfeits death (Key 12).
 
-This knowledge can never be imparted adequately by human words. Only its bare outline has been given in ary occult writing. It is symbolized in Tarot by Key 8.
+This knowledge can never be imparted adequately by human words. Only its bare outline has been given in any occult writing. It is symbolized in Tarot by Key 8.
 
 He recalls instances of seeming adversity, and sees that often the very obstacles and limitations which distressed him were the actual causes of his real advance (Key 15).
 

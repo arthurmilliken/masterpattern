@@ -41,7 +41,7 @@ No part of our personal equipment is separate from the universal Being. Do we se
 
 From the inner revelation of this Great Secret, the practical occultist derives his open-eyed, magical faith (Key 11).
 
-Yet this suspension of personal activity is accompanied by a tremendous enhancement of real consciousness. The personal vehicle is at rest. The senses are completely quiescent. Yet the Self is wide awake, and there is no cessation of Self-consciousness. He who emerges from the trance of true meditation does not ask ”Where am I?” Neither does he make any inquiries as to what he has said or done, for he has never lest consciousness for a moment.
+Yet this suspension of personal activity is accompanied by a tremendous enhancement of real consciousness. The personal vehicle is at rest. The senses are completely quiescent. Yet the Self is wide awake, and there is no cessation of Self-consciousness. He who emerges from the trance of true meditation does not ask "Where am I?" Neither does he make any inquiries as to what he has said or done, for he has never lest consciousness for a moment.
 
 What has happened has been that his consciousness has been functioning at a higher level. From that level he invariably brings back with him definite knowledge, and equally definite ability to exercise power beyond the limits of ordinary personal consciousness (Key 7).
 
