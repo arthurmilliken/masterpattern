@@ -1,16 +1,19 @@
 const co = require('co');
+const commonmark = require('commonmark');
 const fs = require('co-fs');
-const markdown = require('markdown').markdown;
 const path = require('path');
 
 const contentDir = path.resolve(__dirname, '../secure/content');
+const reader = new commonmark.Parser();
+const writer = new commonmark.HtmlRenderer();
 
 function renderContent(entry, name, res) {
   co(function* () {
     const file = path.resolve(contentDir, `${entry}.md`);
     try {
       const content = yield fs.readFile(file, 'utf8');
-      res.locals.content = markdown.toHTML(content);
+      const parsed = reader.parse(content);
+      res.locals.content = writer.render(parsed);
     } catch (e) {
       res.locals.content = `No content found for ${name}`;
     }
