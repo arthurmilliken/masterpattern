@@ -25,6 +25,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(express.static('public'));
 app.use(auth());
+app.use((req, res, next) => {
+  res.locals.url = req.originalUrl;
+  next();
+});
 app.use(routes());
 app.use(express.static('secure'));
 app.set('view engine', 'ejs');
