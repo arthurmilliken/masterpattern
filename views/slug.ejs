@@ -1,0 +1,48 @@
+<%- include('header') %>
+
+<h2><%= title %></h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>gem</th>
+      <th>wt</th>
+      <th>verse</th>
+      <th>text</th>
+      <th>SBL</th>
+      <th>dic</th>
+      <th>orig</th>
+      <th>plain</th>
+      <th>slug</th>
+      <th>word</th>
+      <th>strongs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% for (const row of rows) {
+        const strongsNum = row.strongs.substr(1);
+        if (row.strongs.startsWith('G')) {
+          row.strongs_href = `https://biblehub.com/greek/${strongsNum}.htm`;
+        } else {
+          row.strongs_href = `https://biblehub.com/hebrew/${strongsNum}.htm`;
+        }
+        row.verse_href = `https://biblemenus.com/search.php?q=${row.verse}`;
+    %>
+      <tr>
+        <td class="right"><a href="/gematria/<%= row.gematria %>"><%= row.gematria %></a></td>
+        <td class="right"><%= row.weight %></td>
+        <td nowrap><a href="<%= row.verse_href %>" target="_blank"><%= row.verse %></a></td>
+        <td><%= row.text %></td>
+        <td nowrap><%= row.pronounce_sbl %></td>
+        <td nowrap><%= row.pronounce_dic %></td>
+        <td><%= row.text_original %></td>
+        <td><a href="#"><%= row.text_plain %></a></td>
+        <td><a href="/keys/<%= row.text_slug %>"><%= row.text_slug %></a></td>
+        <td><%= row.word %></td>
+        <td><a href="<%= row.strongs_href %>" target="_blank"><%= row.strongs %></a></td>
+      </tr>
+    <% } %>  
+  </tbody>
+</table>
+
+<%- include('footer') %>

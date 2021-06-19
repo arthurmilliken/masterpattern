@@ -1,0 +1,45 @@
+<%- include('header') %>
+
+<h2><%= title %></h2>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>gem</th>
+      <th>wt</th>
+      <th>translit</th>
+      <th>pronunciation</th>
+      <th>text</th>
+      <th>slug</th>
+      <th>strongs</th>
+      <th>strongs_def</th>
+      <th>kjv_def</th>
+      <th>derivation</th>  
+    </tr>
+  </thead>
+  <tbody>
+    <% for (const row of rows) {
+        const strongsNum = row.strongs.substr(1);
+        if (row.strongs.startsWith('G')) {
+          row.strongs_href = `https://biblehub.com/greek/${strongsNum}.htm`;
+        } else {
+          row.strongs_href = `https://biblehub.com/hebrew/${strongsNum}.htm`;
+        }
+    %>
+      <tr>
+        <td class="right"><a href="/content/<%= row.gematria %>"><%= row.gematria %></a></td>
+        <td class="right"><%= row.weight %></td>
+        <td><strong><%= row.translit %></a></strong></td>
+        <td><%= row.pronounce %></td>
+        <td><strong><a href="/slug/<%= row.text_slug %>"><%= row.text_plain %></a></strong></td>
+        <td><a href="/keys/<%= row.text_slug %>"><%= row.text_slug %></a></td>
+        <td><a href="<%= row.strongs_href %>" target="_blank"><%= row.strongs %></a></td>
+        <td><%= row.strongs_def %></td>
+        <td><%= row.kjv_def %></td>
+        <td><%= row.derivation %></td>  
+      </tr>
+    <% } %>  
+  </tbody>
+</table>
+
+<%- include('footer') %>

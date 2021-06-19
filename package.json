@@ -36,8 +36,8 @@
     "ncp": "^2.0.0",
     "npm": "^7.5.4",
     "rimraf": "^2.6.2",
+    "sqlite3": "^5.0.2",
     "uid-safe": "^2.1.4",
     "urlencode": "^1.1.0"
-  },
-  "devDependencies": {}
+  }
 }

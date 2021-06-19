@@ -9,6 +9,8 @@ const latin = require('./latin');
 const english = require('./english');
 const swap = require('./swap');
 const tattva = require('./tattva');
+const gematria = require('./gematria');
+const slug = require('./slug');
 
 module.exports = function (options) {
   const router = express.Router();
@@ -22,6 +24,8 @@ module.exports = function (options) {
   english(router, options);
   swap(router, options);
   tattva(router, options);
+  gematria(router, options);
+  slug(router, options);
 
   const simpleView = (view, title) => {
     router.get(`/${view}`, (req, res) => {

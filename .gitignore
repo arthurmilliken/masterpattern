@@ -54,3 +54,4 @@ _ignore
 secrets
 .DS_Store
 deploy.sh
+.database
