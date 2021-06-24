@@ -17,6 +17,16 @@
 
 ---
 
+### [](/keys/) - 
+([Concordance]())
+
+- [](): *""*
+- [](): *""*
+- [](): *""*
+- [](): *""*
+
+---
+
 ## Greek/Latin:
 
 ---
@@ -28,6 +38,16 @@
 - [ :](https://biblehub.com/text//-.htm): *""*
 - [ :](https://biblehub.com/text//-.htm): *""*
 - [ :](https://biblehub.com/text//-.htm): *""*
+
+---
+
+### [](/greek?word=) (Gr) - 
+([Concordance]())
+
+- [](): *""*
+- [](): *""*
+- [](): *""*
+- [](): *""*
 
 ---
 

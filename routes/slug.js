@@ -9,6 +9,7 @@ module.exports = function (router) {
   router.get('/slug/:value', (req, res) => {
     let value = req.params.value;
     if (value.endsWith('|')) value = value.substr(0, value.length - 1);
+    if (value.endsWith('-')) value = value.substr(0, value.length - 1);
     const params = [edition, value, `${value}|`];
     db.all(sqlSlug, params, (err, rows) => {
       if (err) return res.status(500).send(`<pre>${err.stack}</pre>`);
