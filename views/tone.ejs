@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><%= title %></title>
+	<link  href="/css/style.css" rel="stylesheet" type="text/css">
+	<script src="/script/lodash.js" type="text/javascript"></script>
+	<script src="/script/jquery-3.1.1.min.js" type="text/javascript"></script>
+	<style>
+		body {
+			background-color: #<%= tone.color %>;
+		}
+		.title {
+			text-align: center;
+			background-color: beige;
+			width: 200px;
+			margin: 1em auto;
+		}
+	</style>
+</head>
+<body>
+	<div class="title">Tone: <%= tone.note %></div>
+	<div class="center">
+		<audio controls autoplay><source src="<%= tone.src %>" type="audio/mpeg" /></audio>
+	</div>
+</body>
+</html>

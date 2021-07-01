@@ -11,6 +11,7 @@ const swap = require('./swap');
 const tattva = require('./tattva');
 const gematria = require('./gematria');
 const slug = require('./slug');
+const tone = require('./tone');
 
 module.exports = function (options) {
   const router = express.Router();
@@ -26,6 +27,7 @@ module.exports = function (options) {
   tattva(router, options);
   gematria(router, options);
   slug(router, options);
+  tone(router, options);
 
   const simpleView = (view, title) => {
     router.get(`/${view}`, (req, res) => {

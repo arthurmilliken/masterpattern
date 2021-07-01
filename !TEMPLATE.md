@@ -6,10 +6,10 @@
 ### [](/keys/) - 
 ([Concordance]())
 
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
+- [](): _""_
+- [](): _""_
+- [](): _""_
+- [](): _""_
 
 ---
 
@@ -20,10 +20,10 @@
 ### [](/greek?word=) (Gr) - 
 ([Concordance]())
 
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
+- [](): _""_
+- [](): _""_
+- [](): _""_
+- [](): _""_
 
 ---
 

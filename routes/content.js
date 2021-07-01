@@ -4,7 +4,7 @@ const fs = require('co-fs');
 const path = require('path');
 
 const contentDir = path.resolve(__dirname, '../secure/content');
-const reader = new commonmark.Parser();
+const reader = new commonmark.Parser({smart: true});
 const writer = new commonmark.HtmlRenderer();
 
 function renderContent(entry, name, res) {

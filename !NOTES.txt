@@ -10,20 +10,20 @@
 ### [](/keys/) - 
 ([Concordance]())
 
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
-- [ :](https://biblehub.com//-.htm): *""*
+- [ :](https://biblehub.com//-.htm): _""_
+- [ :](https://biblehub.com//-.htm): _""_
+- [ :](https://biblehub.com//-.htm): _""_
+- [ :](https://biblehub.com//-.htm): _""_
 
 ---
 
 ### [](/keys/) - 
 ([Concordance]())
 
-- [](): *""*
-- [](): *""*
-- [](): *""*
-- [](): *""*
+- [](): _""_
+- [](): _""_
+- [](): _""_
+- [](): _""_
 
 ---
 
@@ -34,20 +34,20 @@
 ### [](/greek?word=) (Gr) - 
 ([Concordance]())
 
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
-- [ :](https://biblehub.com/text//-.htm): *""*
+- [ :](https://biblehub.com/text//-.htm): _""_
+- [ :](https://biblehub.com/text//-.htm): _""_
+- [ :](https://biblehub.com/text//-.htm): _""_
+- [ :](https://biblehub.com/text//-.htm): _""_
 
 ---
 
 ### [](/greek?word=) (Gr) - 
 ([Concordance]())
 
-- [](): *""*
-- [](): *""*
-- [](): *""*
-- [](): *""*
+- [](): _""_
+- [](): _""_
+- [](): _""_
+- [](): _""_
 
 ---
 
@@ -82,3 +82,4 @@ Voynich Manuscript:
  - [Saggitarius, the Lady Machine](https://archive.org/stream/TheVoynichManuscript/Voynich_Manuscript#page/n133/mode/2up
  - [Roots](https://archive.org/stream/TheVoynichManuscript/Voynich_Manuscript#page/n173/mode/2up)
 
+chronicles 12:4 - 
