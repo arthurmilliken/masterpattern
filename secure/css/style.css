@@ -63,7 +63,7 @@ p.notes {
 	text-align: center;
 	margin-bottom: 2em;
 }
-#tarot-keys img {
+#tarot-keys img, .tarot-keys img {
 	height: 323px;
 	width: 200px;
 }
