@@ -1,9 +1,11 @@
 ## 000 - Zero
+
 > (1x2)
 
 ---
 
-### [](/keys/) - 
+### [](/keys/) -
+
 ([Concordance]())
 
 - [](): _""_
@@ -17,7 +19,8 @@
 
 ---
 
-### [](/greek?word=) (Gr) - 
+### [](/greek?word=) (Gr) -
+
 ([Concordance]())
 
 - [](): _""_
