@@ -40,6 +40,11 @@ module.exports = function (router) {
     renderContent(`genesis/${chapter}`, `Genesis ${chapter}`, res);
   });
 
+  router.get('/1_chronicles/:chapter', (req, res) => {
+    const chapter = req.params.chapter;
+    renderContent(`1_chronicles/${chapter}`, `1 Chronicles ${chapter}`, res);
+  });
+
   router.get('/genesis/:chapter/:verse', (req, res) => {
     const chapter = req.params.chapter;
     const verse = req.params.verse;

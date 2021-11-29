@@ -36,4 +36,3 @@
 ### See Also:
 
 - [99](99)
-- [Bible Wheel: 888](https://www.biblewheel.com//GR/GR_Database.php?SearchBy_Gematria=888)
