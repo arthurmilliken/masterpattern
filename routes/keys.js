@@ -7,8 +7,8 @@ module.exports = function (router) {
   });
 
   router.get('/keys/:word', (req, res) => {
-    let word = req.params.word.trim();
-    word = word.replace(/[ .]/g, '_');
+    const slug = req.params.word.trim();
+    let word = slug.replace(/[ .]/g, '_');
 
     const letters = [];
     let hebrew = '';
@@ -84,7 +84,7 @@ module.exports = function (router) {
     }
 
     res.locals.title = `Tarot Keys - ${word}`;
-    res.locals.word = word;
+    res.locals.slug = slug;
     res.locals.hebrew = hebrew;
     res.locals.gematria = gematria;
     res.locals.letters = letters;

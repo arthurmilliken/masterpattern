@@ -13,6 +13,9 @@ blockquote {
 	color: #777777;
 	border-left: 0.25em solid #dddddd;
 }
+td {
+	padding: 0 0.1em;
+}
 div.word, .key {
 	height: 200px;
 }
